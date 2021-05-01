@@ -2,7 +2,7 @@
   "name": "ez_commerce",
   "private": true,
   "dependencies": {
-    "@babel/preset-react": "^7.10.4",
+    "@babel/preset-react": "7.13.13",
     "@fortawesome/fontawesome-svg-core": "^1.2.32",
     "@fortawesome/free-solid-svg-icons": "^5.15.1",
     "@fortawesome/react-fontawesome": "^0.1.13",
