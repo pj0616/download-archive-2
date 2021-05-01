@@ -1,0 +1,64 @@
+.filterProductsContainer {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-areas:
+    "filtersContainer productsContainer productsContainer"
+    "filtersContainer productsContainer productsContainer";
+  gap: 10px;
+}
+
+.filtersContainer {
+  grid-area: filtersContainer;
+  padding: 10px;
+}
+
+.filtersContainer > h2 {
+  padding-bottom: 15px;
+  font-size: 30px;
+}
+
+.filtersContainer h3 {
+  padding-bottom: 10px;
+  font-size: 20px;
+}
+
+.productCard > figure p {
+  font-size: 20px;
+}
+
+.filtersContainer section {
+  padding-bottom: 15px;
+}
+
+.productsContainer {
+  grid-area: productsContainer;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+}
+
+.card-img-top {
+  mix-blend-mode: multiply;
+  width: 70%;
+  height: 20em;
+  margin: 0 auto;
+}
+
+.card-title {
+  text-align: center;
+}
+
+.list-group-item {
+  text-align: center;
+}
+
+.card {
+  border: 1px solid #800080 !important;
+}
+
+.star-full {
+  color: #ffdf00;
+}
+
+.star-empty {
+  color: #e8e8e8;
+}

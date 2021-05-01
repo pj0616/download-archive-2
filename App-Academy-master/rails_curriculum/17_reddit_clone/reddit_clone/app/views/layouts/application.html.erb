@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>RedditClone</title>
+    <%= csrf_meta_tags %>
+    <%= csp_meta_tag %>
+
+    <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track': 'reload' %>
+    <%= javascript_include_tag 'application', 'data-turbolinks-track': 'reload' %>
+  </head>
+
+  <body>
+    <h1>Reddit Clone</h1>
+
+    <% if flash[:notices] %>
+      <% flash[:notices].each do |notice| %>
+        <p><b><%= notice %></b></p>
+      <% end %>
+    <% end %> 
+
+    <% if logged_in? %> 
+      <h3><b>Currently signed in as: <%= current_user.username %></b></h3>
+      <%= link_to 'Create a sub', new_sub_url %><br/>
+      <%= link_to 'All the subs', subs_url %><br/><br/>
+      <%= button_to 'Sign out', session_url, method: :delete %> 
+    <% else %> 
+      <%= link_to 'Sign in', new_session_url %> 
+      <%= link_to 'Sign up', new_user_url %>
+    <% end %>
+    <main>
+      <%= yield %>
+    </main>
+  </body>
+</html>

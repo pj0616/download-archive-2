@@ -1,0 +1,169 @@
+.form-control {
+  border: 1px solid #800080 !important;
+}
+
+.btn-custom {
+  background-color: #800080 !important;
+  color: #fff !important;
+  border-color: #800080 !important;
+}
+
+.btn-custom:hover {
+  box-shadow: inset 0em 0em 0em 10em rgba(0, 0, 0, 0.3);
+  color: #fff;
+}
+
+.col-lg-5 {
+  margin-left: 75px;
+}
+.container {
+  margin: 50px auto;
+}
+
+.logo {
+  width: 200px;
+  height: 200px;
+}
+
+.signin-underline,
+.signup-underline {
+  border-bottom: 2px solid #800080;
+  padding-top: 10px;
+  margin-left: 5px;
+  border-radius: 15%;
+}
+
+.signup-icon,
+.signin-icon {
+  font-size: 50px;
+  color: #800080;
+}
+
+.signup-label,
+.signin-label {
+  text-align: center;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.bg-custom {
+  background-color: #303030;
+}
+
+.logo {
+  width: 130px;
+  height: 100px;
+}
+
+.current-user-label > a {
+  padding-right: 15px;
+}
+
+.file-icon,
+.folder-icon {
+  color: #800080;
+  font-size: 20px;
+}
+
+.folder-item:hover,
+.file-item:hover {
+  cursor: pointer;
+}
+
+.item-row:hover {
+  background-color: #f0f0f0;
+  cursor: default;
+}
+
+.delete-icon {
+  margin-right: 10px;
+}
+
+.delete-icon,
+.download-icon,
+.edit-icon {
+  font-size: 20px;
+  color: #800080;
+}
+
+.edit-icon {
+  margin-right: 10px;
+}
+
+.add-folder,
+.upload-file,
+.previous-page {
+  color: #800080;
+  font-size: 30px;
+  margin: 0px 15px 0 20px;
+}
+
+.add-folder:hover,
+.upload-file:hover,
+.delete-icon:hover,
+.download-icon:hover,
+.previous-page,
+.edit-icon:hover {
+  cursor: pointer;
+}
+
+.folder-upload-add {
+  display: flex;
+}
+
+.add-folder,
+.upload-file {
+  flex: -1;
+}
+
+.search-container {
+  display: flex;
+  margin: 20px 0px 20px 10px;
+  width: fit-content;
+}
+
+.nothing-to-show {
+  margin-left: 5px;
+}
+
+.nothing-to-show > h3 {
+  color: #696969;
+}
+
+.search-box {
+  margin-right: 10px;
+}
+
+.search-box,
+.clearfilters {
+  flex: 1;
+}
+
+.file-name-input {
+  margin-right: 20px;
+}
+
+input#custom-file {
+  outline-color: purple !important;
+}
+
+.file-name-input {
+  border: 1px solid #ced4da !important;
+}
+
+.custom-file-label,
+.file-name-input {
+  border: 1px solid purple !important;
+}
+
+.folder-input {
+  width: 60%;
+}
+
+.action-icons {
+  display: flex;
+}
