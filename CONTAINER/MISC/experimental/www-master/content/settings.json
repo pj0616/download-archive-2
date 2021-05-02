@@ -1,0 +1,30 @@
+{
+  "name": "Strateg Agency",
+  "shortName": "Strateg",
+  "offices": [
+    {
+      "address": "Kungsgatan 12–14",
+      "zipcode": "111 35",
+      "city": "Stockholm",
+      "email": "hello@strateg.se",
+      "phone": "+46 8 588 095 00"
+    },
+    {
+      "address": "Slöjdgatan 39",
+      "zipcode": "703 83",
+      "city": "Örebro",
+      "email": "hello@strateg.se",
+      "phone": "+46 19 764 44 00"
+    }
+  ],
+  "social": {
+    "facebook": "https://www.facebook.com/strategagency/",
+    "facebook_app_id": "261878794741046",
+    "instagram": "https://www.instagram.com/strategagency/",
+    "linkedin": "https://www.linkedin.com/company/strateg-marknadsf-ring-ab",
+    "github": "https://github.com/strt"
+  },
+  "seo": {
+    "default_image": "./default-og.jpg"
+  }
+}

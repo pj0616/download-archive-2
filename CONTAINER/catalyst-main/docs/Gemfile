@@ -1,0 +1,11 @@
+# frozen_string_literal: true
+
+source 'https://rubygems.org'
+
+gem 'jekyll', '~> 4.1.1'
+
+group :jekyll_plugins do
+  gem 'jekyll-commonmark-ghpages', '~> 0.1.5'
+  gem 'jekyll-github-metadata'
+  gem 'jekyll-gzip'
+end

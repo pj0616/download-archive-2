@@ -1,0 +1,42 @@
+#!/usr/bin/env node
+const {Entry, Platform, sequelize } = require('./db/models')
+const { 2: username, 3: platform, 4: newPassword } = process.argv
+
+if (process.argv.length < 5) {
+  console.log('You must enter user name and platform')
+  console.log('Ex. updatepass {username} {platform} {newPassword}')
+  return
+}
+
+
+
+async function findEntry() {
+
+  // check to see if username / platform combo is in database already
+  let checkInDatabaseAlready = await Entry.findAll({
+    include: [{
+      model: Platform,
+      where: { name: platform.toLowerCase() }
+    }],
+    where: { username }
+  })
+
+  if (checkInDatabaseAlready.length === 0) {
+    console.log('Username and Platform are not in database')
+    return await sequelize.close()
+  }
+
+  const toUpdate = checkInDatabaseAlready[0]
+
+  await toUpdate.update({
+    username,
+    password: newPassword
+  })
+
+  console.log('Password updated!')
+
+  await sequelize.close()
+
+}
+
+findEntry()

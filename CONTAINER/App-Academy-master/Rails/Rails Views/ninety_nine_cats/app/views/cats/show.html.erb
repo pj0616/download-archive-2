@@ -1,0 +1,35 @@
+<h1><%= @cat.name %></h1>
+<img src="http://placekitten.com/<%= rand(500..700) %>/<%= rand(300..400) %>" />
+<p><%= @cat.description %></p>
+<table>
+  <thead>
+    <tr>
+      <th>Cattribute</th>
+      <th>Value</th>
+    </tr>
+  </thead>
+  <tr>
+    <td>Age</td>
+    <td><%= @cat.age %></td>
+  </tr>
+  <tr>
+    <td>Gender</td>
+    <td><%=@cat.sex %></td>
+  </tr>
+  <tr>
+    <td>Color</td>
+    <td><%= @cat.color %>
+  </tr>
+  <tr>
+    <td>Birthdate</td>
+    <td><%= @cat.birth_date %></td>
+  </tr>
+</table>
+
+<h2>Rental Requests</h2>
+<%= "no current requests" if @cat_rental_requests.empty? %>
+<ul>
+  <% @cat_rental_requests.each do |rental_request| %>
+  <li><%= rental_request.start_date %> - <%= rental_request.end_date %> <%= render 'buttons', rental_request: rental_request if rental_request.pending? %></li>
+  <% end %>
+</ul>

@@ -1,0 +1,29 @@
+title: Catalyst
+
+markdown: CommonMarkGhPages
+
+commonmark:
+  extensions: ['autolink', 'table']
+
+permalink: pretty
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+
+collections:
+  guide:
+    output: true
+
+defaults:
+  - scope:
+      type: guide
+    values:
+      layout: guide
+
+repository: github/catalyst
+
+plugins:
+  - 'jekyll-github-metadata'
+  - 'jekyll-gzip'

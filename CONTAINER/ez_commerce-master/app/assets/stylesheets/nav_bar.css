@@ -1,0 +1,28 @@
+.logo > img {
+  width: 200px;
+  height: 200px;
+}
+
+.navBar {
+  display: flex;
+  align-items: center;
+}
+
+nav {
+  flex: 1;
+  text-align: right;
+}
+
+nav ul {
+  display: inline-block;
+}
+
+.navLinks ul li {
+  display: inline-block;
+  margin-right: 30px;
+  padding-left: 20px;
+}
+
+.shopping-cart {
+  color: #800080;
+}

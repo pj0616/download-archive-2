@@ -1,0 +1,56 @@
+# Natural language processing
+
+## Links
+
+- [SpaCy](https://github.com/explosion/spaCy) - Industrial-strength Natural Language Processing (NLP) with Python and Cython.
+- [Adding voice control to your projects](https://medium.com/hackers-at-cambridge/adding-voice-control-to-your-projects-7096fdee7c45)
+- [Increasing data science productivity; founders of spaCy & Prodigy](https://www.youtube.com/watch?v=jB1-NukGZm0)
+- [Course materials for "Natural Language" course](https://github.com/jacobeisenstein/gt-nlp-class#readme)
+- [NLP progress](https://github.com/sebastianruder/NLP-progress#readme) - Track the progress in Natural Language Processing (NLP) and give an overview of the state-of-the-art across the most common NLP tasks and their corresponding datasets.
+- [Natural](https://github.com/NaturalNode/natural) - General natural language facilities for Node.
+- [YSDA Natural Language Processing course (2018)](https://github.com/yandexdataschool/nlp_course)
+- [PyText](https://github.com/facebookresearch/pytext) - Natural language modeling framework based on PyTorch.
+- [HN: Facebook open-sources a speech-recognition system and a machine learning library (2018)](https://news.ycombinator.com/item?id=18736116)
+- [FlashText](https://github.com/vi3k6i5/flashtext) - Extract Keywords from sentence or Replace keywords in sentences.
+- [BERT PyTorch implementation](https://github.com/codertimo/BERT-pytorch)
+- [LASER Language-Agnostic SEntence Representations](https://github.com/facebookresearch/LASER) - Library to calculate and use multilingual sentence embeddings.
+- [Project DeepSpeech](https://github.com/mozilla/DeepSpeech) - Open source Speech-To-Text engine, using a model trained by machine learning techniques, based on Baidu's Deep Speech research paper.
+- [StanfordNLP](https://github.com/stanfordnlp/stanfordnlp) - Python NLP Library for Many Human Languages.
+- [nlp-tutorial](https://github.com/graykode/nlp-tutorial) - Tutorial for who is studying NLP(Natural Language Processing) using TensorFlow and PyTorch.
+- [Better Language Models and Their Implications (2019)](https://blog.openai.com/better-language-models/)
+- [gpt-2](https://github.com/openai/gpt-2) - Code for the paper ["Language Models are Unsupervised Multitask Learners"](https://d4mucfpksywv.cloudfront.net/better-language-models/language-models.pdf).
+- [Lingvo](https://github.com/tensorflow/lingvo) - Framework for building neural networks in Tensorflow, particularly sequence models.
+- [Fairseq](https://github.com/pytorch/fairseq) - Facebook AI Research Sequence-to-Sequence Toolkit written in Python.
+- [Stanford CS224N: NLP with Deep Learning (2019)](https://www.youtube.com/watch?v=8rXD5-xhemo) - [Course page](http://web.stanford.edu/class/cs224n/). ([HN](https://news.ycombinator.com/item?id=19569883))
+- [Advanced NLP with spaCy: A free online course](https://github.com/ines/spacy-course#readme)
+- [Code for Stanford Natural Language Understanding course, CS224u (2019)](https://github.com/cgpotts/cs224u)
+- [Awesome Reinforcement Learning for Natural Language Processing](https://github.com/adityathakker/awesome-rl-nlp#readme)
+- [ParlAI](https://github.com/facebookresearch/ParlAI) - Framework for training and evaluating AI models on a variety of openly available dialogue datasets.
+- [Training language GANs from Scratch (2019)](https://arxiv.org/abs/1905.09922)
+- [Olivia](https://github.com/olivia-ai/olivia) - Your new best friend built with an artificial neural network.
+- [Learn-Natural-Language-Processing-Curriculum](https://github.com/llSourcell/Learn-Natural-Language-Processing-Curriculum#readme)
+- [This repository recorded my NLP journey](https://github.com/makcedward/nlp)
+- [Project Alias](https://github.com/bjoernkarmann/project_alias) - Open-source parasite to train custom wake-up names for smart home devices while disturbing their built-in microphone.
+- [Real-Time Voice Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) - Clone a voice in 5 seconds to generate arbitrary speech in real-time.
+- [Cornell Tech NLP Code](http://rush-nlp.com/code/)
+- [Cornell Tech NLP Publications](http://rush-nlp.com/papers/)
+- [Thinc](https://github.com/explosion/thinc/) - SpaCy's Machine Learning library for NLP in Python.
+- [Knowledge is embedded in language neural networks but can they reason? (2019)](https://www.youtube.com/watch?v=KybSRPC3e64)
+- [NLP Best Practices](https://github.com/microsoft/nlp#readme)
+- [Transfer NLP library](https://github.com/feedly/transfer-nlp) - Framework built on top of PyTorch to promote reproducible experimentation and Transfer Learning in NLP.
+- [FARM](https://github.com/deepset-ai/FARM) - Fast & easy transfer learning for NLP. Harvesting language models for the industry.
+- [Transformers](https://github.com/huggingface/transformers) - State-of-the-art Natural Language Processing for TensorFlow 2.0 and PyTorch.
+- [NLP Roadmap 2019](https://github.com/graykode/nlp-roadmap#readme)
+- [Flair](https://github.com/zalandoresearch/flair) - Very simple framework for state-of-the-art NLP. Developed by Zalando Research.
+- [Unsupervised Data Augmentation](https://github.com/google-research/uda) - Semi-supervised learning method which achieves state-of-the-art results on a wide variety of language and vision tasks.
+- [Rasa](https://github.com/RasaHQ/rasa) - Open source machine learning framework to automate text-and voice-based conversations.
+- [T5](https://github.com/google-research/text-to-text-transfer-transformer) - Text-To-Text Transfer Transformer.
+- [100 Must-Read NLP Papers](https://github.com/mhagiwara/100-nlp-papers#readme)
+- [Awesome NLP](https://github.com/keon/awesome-nlp#readme)
+- [NLP Library](https://github.com/mihail911/nlp-library#readme) - Curated collection of papers for the NLP practitioner.
+- [spacy-transformers](https://github.com/explosion/spacy-transformers) - spaCy pipelines for pre-trained BERT, XLNet and GPT-2.
+- [AllenNLP](https://github.com/allenai/allennlp) - Open-source NLP research library, built on PyTorch.
+- [GloVe](https://github.com/stanfordnlp/GloVe) - Global Vectors for Word Representation.
+- [Botpress](https://github.com/botpress/botpress) - Open-source Virtual Assistant platform.
+- [Mycroft](https://github.com/MycroftAI/mycroft-core) - Hackable open source voice assistant.
+- [VizSeq](https://github.com/facebookresearch/vizseq) - Visual Analysis Toolkit for Text Generation Tasks.

@@ -1,0 +1,71 @@
+# [Swift](https://developer.apple.com/swift/)
+
+## Links
+
+- [Swift Tips by Sundell](https://github.com/JohnSundell/SwiftTips)
+- [Swift Tips by Luur](https://github.com/Luur/SwiftTips)
+- [WWDC videos](https://developer.apple.com/videos/)
+- [Swift for TensorFlow - TFiwS](https://www.youtube.com/watch?v=Yze693W4MaU&t=0s&index=14&list=PLQY2H8rRoyvxjVx3zfw4vA4cvlKogyLNN)
+- [Functional Swift](https://www.objc.io/books/functional-swift/)
+- [Objc](https://www.objc.io/)
+- [Top App Developers](https://github.com/app-developers/top)
+- [Proposal: Universal dynamic dispatch for method calls (2015)](https://lists.swift.org/pipermail/swift-evolution/Week-of-Mon-20151207/001948.html)
+- [SwiftSyntax](https://github.com/apple/swift-syntax) - Set of Swift bindings for the libSyntax library. It allows for Swift tools to parse, inspect, generate, and transform Swift source code..
+- [Komondor](https://github.com/orta/Komondor) - Git Hooks for Swift projects.
+- [John Sundell: The Lost Art of System Design (2018)](https://www.youtube.com/watch?v=ujOc3a7Hav0)
+- [Code samples from the Swift by Sundell blog & podcast](https://github.com/JohnSundell/SwiftBySundell)
+- [Ether](https://github.com/Ether-CLI/Ether) - Command-Line Interface for the Swift Package Manager.
+- [SwiftRewriter](https://github.com/inamiy/SwiftRewriter) - Swift code formatter using SwiftSyntax.
+- [SwiftHub](https://github.com/khoren93/SwiftHub) - Github iOS client written in RxSwift and MVVM clean architecture.
+- [Swift Debugger and REPL](https://github.com/apple/swift-lldb) - Version of LLDB that supports the Swift programming language & REPL.
+- [danger-swift](https://github.com/danger/swift) - Stop saying "you forgot to …" in code review in Swift.
+- [swift-sh](https://github.com/mxcl/swift-sh) - Swift scripting with easy, zero-conf dependency imports.
+- [SwiftTube](https://github.com/ahmetws/swifttube) - iOS conference videos in one place.
+- [Collection useful tips for the Swift language](https://github.com/vincent-pradeilles/swift-tips#readme)
+- [What’s new in Swift 5.0?](https://github.com/twostraws/whats-new-in-swift-5-0) - Xcode playground that demonstrates the new features introduced in Swift 5.0
+- [Airbnb Swift Style Guide](https://github.com/airbnb/swift#readme)
+- [Swift Community Podcast](https://github.com/SwiftCommunityPodcast/podcast#readme)
+- [Periphery](https://github.com/peripheryapp/periphery) - Eliminate unused Swift code.
+- [Chris Lattner on the origins of Swift (2019)](https://oleb.net/2019/chris-lattner-swift-origins/)
+- [Swift Rust-like ownership model RFC](https://github.com/apple/swift/blob/master/docs/OwnershipManifesto.md)
+- [swift-docker](https://github.com/apple/swift-docker) - Docker Official Image packaging for Swift.
+- [Awesome Server Side Swift](https://github.com/cak/awesome-server-side-swift#readme)
+- [Awesome System Swift](https://github.com/felix91gr/awesome-system-swift#readme)
+- [Code Examples Repository](https://github.com/kharrison/CodeExamples) - Examples of code in objc/swift.
+- [Swift Rules for Bazel](https://github.com/bazelbuild/rules_swift) - Bazel rules to build Swift on Apple and Linux platforms.
+- [Leaf](https://github.com/vapor/leaf) - Expressive, performant, and extensible templating language built for Swift.
+- [Markdown Playgrounds for Swift](https://github.com/objcio/markdown-playgrounds) - Markdown Editor that can execute Swift code. With building of it documented with videos.
+- [Improving the UI of generics (2019)](https://forums.swift.org/t/improving-the-ui-of-generics/22814)
+- [Swift on Sundays](https://github.com/twostraws/SwiftOnSundays) - Completed projects for the Swift on Sundays livestream series.
+- [Swift Style Guide](https://github.com/linkedin/swift-style-guide#readme) - LinkedIn's Official Swift Style Guide.
+- [SwiftKit](https://github.com/SvenTiigi/SwiftKit) - Start your next Open-Source Swift Framework.
+- [Swiftenstein](https://github.com/nicklockwood/Swiftenstein) - Simple Wolfenstein 3D clone written in Swift.
+- [How do closures and callbacks work? It's turtles all the way down (2018)](https://desiatov.com/closures/)
+- [SwiftWasm](https://swiftwasm.org/) - Compiles your Swift code to WebAssembly.
+- [NSScreencast](https://nsscreencast.com/episodes) - Video Training for iOS Developers.
+- [Swift for TensorFlow Newsletter](https://www.s4tfnews.com/issues)
+- [SourceKit-LSP](https://github.com/apple/sourcekit-lsp#readme) - Language Server Protocol implementation for Swift and C-based languages.
+- [Retro Rampage](https://github.com/nicklockwood/RetroRampage) - Tutorial series in which you will learn how to build a Wolfenstein-like game from scratch, in Swift.
+- [llbuild](https://github.com/apple/swift-llbuild) - Low-level build system, used by Xcode and the Swift Package Manager.
+- [Accio](https://github.com/JamitLabs/Accio) - Dependency manager driven by SwiftPM that works for iOS/tvOS/watchOS/macOS projects.
+- [TelegramSwift](https://github.com/overtake/TelegramSwift) - Source code of Telegram for macos on Swift 5.0.
+- [Differentiable Programming Mega-Proposal (2019)](https://forums.swift.org/t/differentiable-programming-mega-proposal/28547) ([Manifesto](https://github.com/apple/swift/blob/master/docs/DifferentiableProgramming.md)) ([HN](https://news.ycombinator.com/item?id=21521233))
+- [swift-bindgen](https://github.com/rustswift/swift-bindgen) - Bridging the gap between Swift and Rust.
+- [Swift Performance (2019)](https://forums.swift.org/t/swift-performance/28776)
+- [Swift Compiler Driver](https://github.com/apple/swift-driver) - Program that coordinates the compilation of Swift source code into various compiled results: executables, libraries, object files, Swift modules and interfaces, etc.
+- [dotSwift 2019 - Soroush Khanlou - From Problem to Solution](https://www.youtube.com/watch?v=3G_ffcgRLMw)
+- [Swift: Banning force unwrapping optionals (2017)](https://blog.timac.org/2017/0628-swift-banning-force-unwrapping-optionals/)
+- [Flight School](https://flight.school/) - Book series for advanced Swift developers that explores essential topics in iOS and macOS development through concise, focused guides.
+- [ObjC books](https://www.objc.io/books/) - Advanced guides on iOS and macOS development.
+- [XCTest](https://github.com/apple/swift-corelibs-xctest) - Swift core library for providing unit test support.
+- [Building the Server-side Swift ecosystem, Ian Partridge (2019)](https://www.youtube.com/watch?v=CzTikweGO3E)
+- [Learn Swift in Y minutes](https://learnxinyminutes.com/docs/swift/)
+- [Swift tricks (2019)](http://eon.codes/blog/2019/10/19/Swift-tricks/)
+- [How Swift Achieved Dynamic Linking Where Rust Couldn't (2019)](https://gankra.github.io/blah/swift-abi/) ([HN](https://news.ycombinator.com/item?id=21488415))
+- [The Best Swift and iOS conferences in 2020](https://www.hackingwithswift.com/articles/206/the-best-swift-and-ios-conferences-in-2020)
+- [Swift 5.1 cheat sheet & quick reference](https://koenig-media.raywenderlich.com/uploads/2020/12/RW-Swift-5.1-Cheatsheet-1.0.pdf)
+- [Design Patterns implemented in Swift](https://github.com/ochococo/Design-Patterns-In-Swift)
+- [Modern Networking in Swift 5 with URLSession, Combine and Codable (2019)](https://www.vadimbulavin.com/modern-networking-in-swift-5-with-urlsession-combine-framework-and-codable/)
+- [Swift Standard Library](https://github.com/apple/swift/tree/master/stdlib)
+- [Pecker](https://github.com/woshiccm/Pecker) - Tool to automatically detect unused code. It based on IndexStoreDB and SwiftSyntax.
+- [Swift Algorithm Club](https://github.com/raywenderlich/swift-algorithm-club) - Algorithms and data structures in Swift, with explanations.

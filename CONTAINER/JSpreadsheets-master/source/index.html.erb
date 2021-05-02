@@ -1,0 +1,46 @@
+---
+title: JSpreadsheets
+---
+<%= partial "includes/navbar", :locals => {:controls => true} %>
+<div class="main">
+  <ul class="projects">
+    <% projects.each do |project| %>
+      <li class="project"
+          data-stars="<%= project.stars %>"
+          data-forks="<%= project.forks %>"
+          data-issues="<%= project.issues %>"
+          data-title="<%= project.title %>"
+          >
+        <div class="card">
+          <h4 class="title"><a href="<%= project.url %>"><%= project.title %></a></h4>
+          <h6 class="url"><a href="<%= project.homepage %>" target="_blank"><%= project.homepage.sub(/^https?:\/\//, '') %></a></small></h6>
+          <div class="description"><%= project.description %></div>
+          <dl>
+            <dt>License:</dt>
+            <dd><%= project.license %></dd>
+
+            <dt>Author:</dt>
+            <dd><%= project.author %></dd>
+
+            <dt>Last update:</dt>
+            <dd><%= project.last_commit.to_time.strftime('%d.%m.%G') %></dd>
+          </dl>
+            <ul class="stats">
+              <li title="Stars">
+                <i class="fa fa-star"></i>
+                <span class="stat"><%= project.stars %></span>
+              </li>
+              <li title="Forks">
+                <i class="fa fa-code-fork"></i>
+                <span class="stat"><%= project.forks %></span>
+              </li>
+              <li title="Open Issues">
+                <i class="fa fa-bug"></i>
+                <span class="stat"><%= project.issues %></span>
+              </li>
+            </ul>
+        </div>
+      </li>
+    <% end %>
+  </ul>
+</div>

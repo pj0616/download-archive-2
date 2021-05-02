@@ -1,0 +1,126 @@
+# [Rust](https://www.rust-lang.org/en-US/)
+
+## Notes
+
+- [Note that `cargo check` is faster than doing a full compile. Also I use the `rust-analyzer` language server for IDE integration to catch errors as I write them. Between the two, my workflow usually avoids the need for actually compiling a binary until I'm ready to run tests.](https://news.ycombinator.com/item?id=21759255)
+
+## Links
+
+- [Idiomatic rust](https://github.com/mre/idiomatic-rust)
+- [Rust patterns](https://github.com/rust-unofficial/patterns)
+- [Reflections on Rust, and the Sand Castle Metaphor](https://brandur.org/fragments/rust-reflections)
+- [Building Reliable Infrastructure in Rust by Tyler Neely](https://www.youtube.com/watch?v=hMJEPWcSD8w)
+- [Rust in production at Figma](https://blog.figma.com/rust-in-production-at-figma-e10a0ec31929)
+- [Category Theory in Rust Notes](https://github.com/damienstanton/ctrs)
+- [Cargo generate](https://github.com/ashleygwilliams/cargo-generate) - Developer tool to help you get up and running quickly with a new Rust project by leveraging a pre-existing git repository as a template.
+- [Rust Won't Save You From All Bugs](https://www.yoshuawuyts.com/rust-bugs/)
+- [Desktop and editor setup for Rust development (2018)](https://www.youtube.com/watch?v=ycMiMDHopNc)
+- [Rust can be difficult to learn and frustrating, but it’s also the most exciting thing in software development in a long time (2018)](https://lobste.rs/s/hv4mio/rust_can_be_difficult_learn_frustrating)
+- [Parsing logs 230x faster with Rust (2018)](https://andre.arko.net/2018/10/25/parsing-logs-230x-faster-with-rust/)
+- [Cross](https://github.com/rust-embedded/cross) - "Zero setup" cross compilation and "cross testing" of Rust crates.
+- [Vim setup for Rust](http://seenaburns.com/vim-setup-for-rust/)
+- [Cargo Watch](https://github.com/passcod/cargo-watch) - Watches over your Cargo project's source.
+- [List of Rust bloggers](https://users.rust-lang.org/t/fearless-rust-bloggers/16770)
+- [Jon Gjengset YouTube channel](https://www.youtube.com/channel/UC_iD0xppBwwsrM9DegC5cQQ) - Does many awesome Rust streams.
+- [The What and How of Futures and async/await in Rust](https://www.youtube.com/watch?v=9_3krAQtD2k)
+- [Introducing Rust crash course (2018)](https://www.snoyman.com/blog/2018/10/introducing-rust-crash-course)
+- [Rust Language Cheat Sheet](https://cheats.rs/) ([HN](https://news.ycombinator.com/item?id=20611390))
+- [Rerast](https://github.com/google/rerast) - Tool for transforming Rust code using rules.
+- [Rust Runtime for AWS Lambda](https://github.com/awslabs/aws-lambda-rust-runtime) - Makes it easy to run AWS Lambda Functions written in Rust.
+- [cargo-inspect](https://github.com/mre/cargo-inspect/) - What is Rust doing behind the scenes?
+- [Scale By The Bay 2018: Bryan Cantrill, Rust and Other Interesting Things](https://www.youtube.com/watch?v=2wZ1pCpJUIM) - Good talk on importance of values in programming languages.
+- [cargo-call-stack](https://github.com/japaric/cargo-call-stack) - Whole program static stack analysis.
+- [Rust in 2022 (2018)](https://www.ncameron.org/blog/rust-in-2022/)
+- [Rust 2019: Think Bigger (2018)](http://fitzgeraldnick.com/2018/12/11/rust-2019-think-bigger.html)
+- [Rust Analyzer](https://github.com/rust-analyzer/rust-analyzer) - Experimental Rust compiler front-end for IDEs.
+- [Rust at speed — building a fast concurrent database (2018)](https://www.youtube.com/watch?v=s19G6n0UjsM&t=0s)
+- [You can't Rust that (2018)](http://lucumr.pocoo.org/2018/3/31/you-cant-rust-that/)
+- [Rust Playground](https://play.rust-lang.org/) - Run Rust code online. [OSS](https://github.com/integer32llc/rust-playground).
+- [crates.io](https://github.com/rust-lang/crates.io) - Source code for [crates.io](https://crates.io/)
+- [Read Rust](https://readrust.net/) - Collects interesting posts related to the Rust programming language.
+- [A Quick Look at Trait Objects in Rust (2019)](https://tratt.net/laurie/blog/entries/a_quick_look_at_trait_objects_in_rust.html)
+- [Teach Rust (2019)](https://github.com/ferrous-systems/rust-three-days-course) - Free workshop material to use to give a course introducing the Rust programming language.
+- [Moving from Ruby to Rust (2019)](https://deliveroo.engineering/2019/02/14/moving-from-ruby-to-rust.html) ([HN](https://news.ycombinator.com/item?id=19166020))
+- [miniserve](https://github.com/svenstaro/miniserve) - Nice & small CLI tool in Rust (can use for inspiration in building Rust CLI tools).
+- [Rust: A unique perspective (2019)](https://limpet.net/mbrubeck/2019/02/07/rust-a-unique-perspective.html)
+- [Minimizing Rust Binary Size](https://github.com/johnthagen/min-sized-rust#readme)
+- [Rust Programming Tipz](https://github.com/spacejam/elements-of-rust#readme)
+- [Rustlings](https://github.com/rust-lang/rustlings) - Small exercises to get you used to reading and writing Rust code.
+- [Learn Rust With Entirely Too Many Linked Lists](https://rust-unofficial.github.io/too-many-lists/)
+- [cargo audit](https://github.com/RustSec/cargo-audit) - Audit Cargo.lock files for crates with security vulnerabilities.
+- [Rust. Are we web yet?](https://www.arewewebyet.org/)
+- [Changelog generator for Rust projects](https://github.com/yoshuawuyts/changelog)
+- [Rust: Frequently Asked Questions](https://github.com/dtolnay/rust-faq#readme)
+- [Building fast interpreters in Rust (2019)](https://blog.cloudflare.com/building-fast-interpreters-in-rust/)
+- [Rust RFCs](https://github.com/rust-lang/rfcs#readme)
+- [2019 Roadmap for Rust](https://github.com/rust-lang/rfcs/blob/master/text/2657-roadmap-2019.md)
+- [Rust RFCs](https://github.com/rust-lang/rfcs)
+- [Learning Rust](https://learning-rust.github.io/) - Materials for learning Rust. ([OSS](https://github.com/learning-rust/site))
+- [Rust types cheat sheet](https://upsuper.github.io/rust-cheatsheet/)
+- [Rust Cookbook](https://rust-lang-nursery.github.io/rust-cookbook/) - Collection of simple examples that demonstrate good practices to accomplish common programming tasks, using the crates of the Rust ecosystem.
+- [hello-rust](https://github.com/jwiegley/hello-rust) - Simple hello world in Rust, with a Nix environment.
+- [A final proposal for await syntax (2019)](https://news.ycombinator.com/item?id=19840095) ([HN](https://news.ycombinator.com/item?id=19840095)) ([Lobsters](https://lobste.rs/s/4zy92m/final_proposal_for_await_syntax))
+- [Sealed Rust (2019)](https://ferrous-systems.com/blog/sealed-rust-the-pitch/)
+- [Async Rust Programming Book](https://rust-lang.github.io/async-book/getting_started/why_async.html#why-async)
+- [Best short-form writing about Rust, collected](https://github.com/brson/rust-anthology#readme)
+- [Update on await syntax](https://boats.gitlab.io/blog/post/await-decision-ii/) ([HN](https://news.ycombinator.com/item?id=20030486))
+- [Sonny Scroggin - BEAM + Rust: A match made in heaven (2019)](https://www.youtube.com/watch?v=xe32ku9s14k)
+- [Collection of software engineering techniques for effectively expressing intent with Rust](https://github.com/ferrous-systems/elements-of-rust#readme)
+- [What are the most important traits to learn in the rust stdlib? (2019)](https://www.reddit.com/r/rust/comments/c8fl30/what_are_the_most_important_traits_to_learn_in/)
+- [Rust API guidelines](https://github.com/rust-lang-nursery/api-guidelines#readme) - Set of recommendations on how to design and present APIs for the Rust programming language.
+- [The Go Developer's Quickstart Guide to Rust (2018)](http://technosophos.com/2018/05/27/the-go-developers-quickstart-guide-to-rust.html)
+- [Notes on a smaller Rust (2019)](https://boats.gitlab.io/blog/post/notes-on-a-smaller-rust/) ([Lobsters](https://lobste.rs/s/u2oufb/notes_on_smaller_rust))
+- [Functional Programming Jargon in Rust](https://github.com/JasonShin/functional-programming-jargon.rs#readme)
+- [MIRAI](https://github.com/facebookexperimental/MIRAI) - Rust mid-level IR Abstract Interpreter.
+- [Are we async yet?](https://areweasyncyet.rs/)
+- [A static web app in Rust (2018)](https://bluejekyll.github.io/blog/rust/2018/07/22/static-web-app-rust.html)
+- [Rust from a Java dev (2015)](https://bluejekyll.github.io/blog/java/rust/2015/05/14/rust-from-a-java-dev.html)
+- [Announcing Rust 1.37.0 (2019)](https://blog.rust-lang.org/2019/08/15/Rust-1.37.0.html) ([HN](https://news.ycombinator.com/item?id=20705471))
+- [Awesome Rust](https://github.com/rust-unofficial/awesome-rust#readme)
+- [cargo-bloat](https://github.com/RazrFalcon/cargo-bloat) - Find out what takes most of the space in your executable.
+- [Rust CLI working group](https://github.com/rust-lang-nursery/cli-wg)
+- [c2rust](https://github.com/immunant/c2rust) - Migrate C code to Rust.
+- [cargo-play](https://github.com/fanzeyi/cargo-play) - Tool to help you running your Rust code file without manually setting up a Cargo project.
+- [[cargo-]flamegraph](https://github.com/ferrous-systems/flamegraph) - Easy flamegraphs for Rust projects and everything else, without Perl or pipes.
+- [Analysis of various tricky Rust code](https://github.com/dtolnay/case-studies)
+- [Falling in love with Rust (2018)](http://dtrace.org/blogs/bmc/2018/09/18/falling-in-love-with-rust/)
+- [Rust for JavaScript peeps (2019)](https://github.com/yoshuawuyts/rust-for-js-people)
+- [Graphical depiction of ownership and borrowing in Rust (2017)](https://rufflewind.com/2017-02-15/rust-move-copy-borrow)
+- [Summary of the Rust book](https://github.com/psibi/rust-book-summary#readme)
+- [Cargo-sweep](https://github.com/holmgr/cargo-sweep) - Cargo subcommand for cleaning up unused build files generated by Cargo.
+- [cargo-udeps](https://github.com/est31/cargo-udeps) - Find unused dependencies in Cargo.toml
+- [Rust in Production at Figma (2018)](https://www.figma.com/blog/rust-in-production-at-figma/)
+- [Elegant Library APIs in Rust (2016)](https://deterministic.space/elegant-apis-in-rust.html)
+- [QuiCLI](https://github.com/killercup/quicli) - Quickly build cool CLI apps in Rust.
+- [Making the Tokio scheduler 10x faster (2019)](https://tokio.rs/blog/2019-10-scheduler/)
+- [Why would a python programmer learn rust when there are no jobs in it (2019)](https://www.youtube.com/watch?v=IYLf8lUqR40)
+- [How to not rewrite it in Rust (2019)](http://adventures.michaelfbryan.com/posts/how-not-to-riir/) ([HN](https://news.ycombinator.com/item?id=21334510))
+- [Guide to Rustc Development](https://rust-lang.github.io/rustc-guide/about-this-guide.html)
+- [Corrode](https://github.com/jameysharp/corrode) - Automatic semantics-preserving translation from C to Rust.
+- [Ferrous Systems](https://ferrous-systems.com/) - Provide consulting and made-to-measure solutions based on our expertise in Rust programming.
+- [Rust for C++ developers - What you need to know to get rolling with crates - Pavel Yosifovich (2019)](https://www.youtube.com/watch?v=k7nAtrwPhR8)
+- [rustfmt](https://github.com/rust-lang/rustfmt) - Format Rust code.
+- [Rust API guidelines](https://github.com/rust-lang/api-guidelines) - Set of recommendations on how to design and present APIs for the Rust programming language.
+- [pprof](https://github.com/tikv/pprof-rs) - Rust cpu profiler implemented with the help of backtrace-rs.
+- [Using Rust (2019)](https://www.macournoyer.com/blog/2019/03/19/rust/)
+- [Cargo](https://github.com/rust-lang/cargo) - Rust package manager.
+- [Async-await on stable Rust! (2019)](https://blog.rust-lang.org/2019/11/07/Async-await-stable.html) ([HN](https://news.ycombinator.com/item?id=21473259))
+- [Comparing Parallel Rust and C++](https://parallel-rust-cpp.github.io/introduction.html) ([HN](https://news.ycombinator.com/item?id=21469295))
+- [Rust web framework comparison](https://github.com/flosse/rust-web-framework-comparison)
+- [Rust memory management explained from C perspective (2019)](https://www.reddit.com/r/rust/comments/dvqibf/someone_explain_rust_memory_management_from_c/)
+- [What makes rust so fast? (2019)](https://www.reddit.com/r/rust/comments/dxbjq2/what_makes_rust_so_fast/)
+- [Rust Playground for macOS](https://github.com/cmyr/RustPlayground) - Standalone native mac application that allows quickly editing and testing rust snippets.
+- [Command line apps in Rust](https://rust-lang-nursery.github.io/cli-wg/) ([HN](https://news.ycombinator.com/item?id=21611379))
+- [Polonius (the future Rust borrow checker) talk at Rust-Belt-Rust 2019 - Nicholas Matsakis](https://nikomatsakis.github.io/rust-belt-rust-2019/) ([Reddit](https://www.reddit.com/r/rust/comments/e0aq6y/polonius_the_future_rust_borrow_checker_talk_at/))
+- [Rust Performance Pitfalls (2017)](https://llogiq.github.io/2017/06/01/perf-pitfalls.html)
+- [This Week in Rust Newsletter](https://this-week-in-rust.org/) ([Code](https://github.com/cmr/this-week-in-rust))
+- [Are we learning yet?](https://www.arewelearningyet.com/) - Work-in-progress to catalog the state of machine learning in Rust.
+- [Neat Rust Tricks: Passing Rust Closures to C (2019)](https://blog.seantheprogrammer.com/neat-rust-tricks-passing-rust-closures-to-c) ([HN](https://news.ycombinator.com/item?id=21631946))
+- [now-rust](https://github.com/mike-engel/now-rust) - Community based builder for using rust on the now/zeit platform.
+- [Sean Grove: Rust in the Browser for JavaScripters:New Frontiers,New Possibilities (2019)](https://www.youtube.com/watch?v=teDOE7zcf_g)
+- [How to rewrite it in Rust](http://adventures.michaelfbryan.com/posts/how-to-riir/index.html)
+- [Taking ML to production with Rust: a 25x speedup (2019)](https://www.lpalmieri.com/posts/2019-12-01-taking-ml-to-production-with-rust-a-25x-speedup/)
+- [Is It Time to Rewrite the Operating System in Rust?](https://www.infoq.com/presentations/os-rust/)
+- [PingCAP Style Guide](https://pingcap.github.io/style-guide/rust/) - Guide to writing idiomatic code at PingCAP and in the TiKV project.
+- [Declarative UI Patterns in Rust (2019)](https://www.youtube.com/watch?v=xH2x99FTY4k)
+- [Speeding Up the Rust Compiler (2019)](https://blog.mozilla.org/nnethercote/2019/12/11/how-to-speed-up-the-rust-compiler-one-last-time-in-2019/) ([HN](https://news.ycombinator.com/item?id=21759255))

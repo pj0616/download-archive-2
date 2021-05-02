@@ -1,0 +1,14 @@
+{
+  "data": {
+    "site": {
+      "siteMetadata": {
+        "title": "Joshua's Docs",
+        "description": "Assorted cheatsheets, code snippets, and other programming tidbits, compiled by Joshua Tzucker.",
+        "author": "Joshua Tzucker",
+        "authorTwitterHandle": "@1joshuatz",
+        "siteUrl": "https://docs.joshuatz.com",
+        "defaultSocialImg": "/images/social-image-1200x628-v2.png"
+      }
+    }
+  }
+}

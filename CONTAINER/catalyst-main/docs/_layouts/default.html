@@ -1,0 +1,55 @@
+---
+---
+<!DOCTYPE html>
+<html lang="en" class="height-full">
+  <head>
+    <title>{% if page.title %}{{ page.title }} - {% endif %}{{ site.title }}</title>
+    <meta name="description" content="Catalyst is a set of patterns and techniques for developing components within a complex application.">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <meta name="supported-color-schemes" content="light dark">
+    <link rel="stylesheet" href="{{ site.baseurl }}/primer.css">
+    <link rel="stylesheet" href="{{ site.baseurl }}/github-syntax.css">
+    <link rel="stylesheet" href="{{ site.baseurl }}/custom.css">
+    <link rel="apple-touch-icon" sizes="48x48" href="{{ site.baseurl }}/icons/icon-48x48.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="{{ site.baseurl }}/icons/icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="96x96" href="{{ site.baseurl }}/icons/icon-96x96.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="{{ site.baseurl }}/icons/icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="192x192" href="{{ site.baseurl }}/icons/icon-192x192.png">
+    <link rel="apple-touch-icon" sizes="256x256" href="{{ site.baseurl }}/icons/icon-256x256.png">
+    <link rel="apple-touch-icon" sizes="384x384" href="{{ site.baseurl }}/icons/icon-384x384.png">
+    <link rel="apple-touch-icon" sizes="512x512" href="{{ site.baseurl }}/icons/icon-512x512.png?">
+    <link rel="icon" href="{{ site.baseurl }}/icons/icon-48x48.png">
+  </head>
+  <body class="d-flex flex-column height-full">
+    <header class="position-sticky top-0 d-md-flex"
+      style="z-index: 1; background-image: linear-gradient(to top, var(--color-bg-canvas-shadow), var(--color-bg-canvas) 25%)">
+      <div class="flex-1 pl-3 pb-6 col-md-3 {% if page.layout != "default" %}bg-gray{% endif %}">
+        <h1 class="m-0 mt-md-2">Catalyst</h1>
+      </div>
+      <nav class="f3 col-md-9 d-flex flex-justify-center flex-md-justify-end">
+        <ul class="d-flex list-style-none mr-md-6">
+          <li class="ml-3 mt-3 mb-3">
+            <a href="{{ site.baseurl }}/">
+              Home
+            </a>
+          </li>
+          <li class="ml-3 mt-3 mb-3">
+            <a href="{{ site.baseurl }}/guide/introduction">
+              Guide
+            </a>
+          </li>
+          <li class="ml-3 mt-3 mb-3">
+            <a href="https://github.com/github/catalyst">
+              Source Code
+            </a>
+          </li>
+        </ul>
+      </nav>
+    </header>
+
+    {{ content }}
+
+    <script async src="{{ site.baseurl }}/index.js"></script>
+  </body>
+</html>

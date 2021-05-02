@@ -1,0 +1,277 @@
+backend:
+  name: git-gateway
+
+display_url: https://strateg.se
+media_folder: content/media/uploads
+
+aliases:
+  - &seo
+    name: 'seo'
+    label: 'SEO'
+    widget: 'object'
+    fields:
+      - { name: 'title', label: 'Title', widget: 'string', required: false }
+      - {
+          name: 'description',
+          label: 'Description',
+          widget: 'text',
+          required: false,
+        }
+      - { name: 'image', label: 'Image', widget: 'image', required: false }
+  - &redirect_from
+    name: 'redirect_from'
+    label: 'Alias'
+    widget: 'list'
+    required: false
+    field: { label: URL, name: url, widget: string }
+    default: []
+  - &published
+    name: 'published'
+    label: 'Published'
+    widget: 'boolean'
+    default: true
+  - &page_template
+    name: 'template'
+    label: 'Template'
+    widget: 'select'
+    options:
+      [
+        { label: 'Standard', value: 'standard' },
+        { label: 'Frontpage', value: 'frontpage' },
+        { label: 'Posts', value: 'posts' },
+        { label: 'Career', value: 'career' },
+        { label: 'Cases', value: 'cases' },
+        { label: 'Contact', value: 'contact' },
+        { label: '404', value: '404' },
+      ]
+
+collections:
+  - name: 'pages'
+    label: 'Pages'
+    delete: false
+    editor:
+      preview: false
+    files:
+      - name: 'index'
+        label: 'Start'
+        file: 'content/pages/index.md'
+        fields:
+          - { label: 'Title', name: 'title', widget: 'string' }
+          - { label: 'Excerpt', name: 'excerpt', widget: 'text' }
+          - *published
+          - *page_template
+          - *seo
+          - *redirect_from
+      - name: 'work'
+        label: 'Work'
+        file: 'content/pages/work.md'
+        fields:
+          - { label: 'Title', name: 'title', widget: 'string' }
+          - { label: 'Excerpt', name: 'excerpt', widget: 'text' }
+          - *published
+          - *page_template
+          - *seo
+          - *redirect_from
+      - name: 'news'
+        label: 'News'
+        file: 'content/pages/news.md'
+        fields:
+          - { label: 'Title', name: 'title', widget: 'string' }
+          - { label: 'Excerpt', name: 'excerpt', widget: 'text' }
+          - *published
+          - *page_template
+          - *seo
+          - *redirect_from
+      - name: 'career'
+        label: 'Join us'
+        file: 'content/pages/join-us.md'
+        fields:
+          - { label: 'Title', name: 'title', widget: 'string' }
+          - { label: 'Excerpt', name: 'excerpt', widget: 'text' }
+          - *published
+          - *page_template
+          - *seo
+          - *redirect_from
+      - name: 'contact'
+        label: 'Contact'
+        file: 'content/pages/contact.md'
+        fields:
+          - { label: 'Title', name: 'title', widget: 'string' }
+          - { label: 'Excerpt', name: 'excerpt', widget: 'text' }
+          - *published
+          - *page_template
+          - *seo
+          - *redirect_from
+      - name: 'integrity-policy'
+        label: 'Privacy policy'
+        file: 'content/pages/integrity-policy.md'
+        fields:
+          - { label: 'Title', name: 'title', widget: 'string' }
+          - { label: 'Excerpt', name: 'excerpt', widget: 'text' }
+          - { name: 'body', label: 'Body', widget: 'markdown' }
+          - *published
+          - *page_template
+          - *seo
+          - *redirect_from
+      - name: '404'
+        label: '404'
+        file: 'content/pages/404.md'
+        fields:
+          - { label: 'Title', name: 'title', widget: 'string' }
+          - { label: 'Excerpt', name: 'excerpt', widget: 'text' }
+          - *published
+          - *page_template
+          - *seo
+
+  - name: case
+    label: Case
+    folder: '/content/case'
+    slug: '{{client}}-{{slug}}'
+    create: true
+    editor:
+      preview: false
+    fields:
+      - { name: 'title', label: 'Title', widget: 'string' }
+      - { name: 'excerpt', label: 'Excerpt', widget: 'text' }
+      - { name: 'client', label: 'Client', widget: 'string' }
+      - {
+          name: 'date',
+          label: 'Publish date',
+          widget: 'datetime',
+          format: 'Y-MM-DDThh:mm:ssZ',
+        }
+      - {
+          name: 'image',
+          label: 'Featured image',
+          widget: 'image',
+          required: false,
+        }
+      - {
+          name: 'video',
+          label: 'Featured video',
+          widget: 'string',
+          hint: 'URL to video',
+          required: false,
+        }
+      - {
+          name: 'tags',
+          label: 'Tags',
+          widget: 'select',
+          multiple: true,
+          required: false,
+          options:
+            [
+              Digital,
+              Visual Identity,
+              Campaign,
+              Print,
+              Brand Development,
+              Motion,
+            ],
+        }
+      - {
+          name: 'contact_relation',
+          label: 'Contact',
+          widget: 'relation',
+          collection: 'employees',
+          valueField: 'email',
+          searchFields: ['first_name', 'last_name'],
+          displayFields: ['first_name', 'last_name'],
+        }
+      - { name: 'body', label: 'Body', widget: 'markdown' }
+      - *published
+      - *seo
+      - *redirect_from
+
+  - name: 'posts'
+    label: 'Posts'
+    label_singular: 'Post'
+    folder: '/content/posts'
+    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    create: true
+    editor:
+      preview: false
+    fields:
+      - { name: 'title', label: 'Title', widget: 'string' }
+      - { name: 'excerpt', label: 'Excerpt', widget: 'text' }
+      - { name: 'date', label: 'Publish date', widget: 'datetime' }
+      - {
+          name: 'image',
+          label: 'Featured image',
+          widget: 'image',
+          required: false,
+        }
+      - { name: 'body', label: 'Body', widget: 'markdown' }
+      - *published
+      - *seo
+      - *redirect_from
+
+  - name: 'open-positions'
+    label: 'Open positions'
+    label_singular: 'Open position'
+    folder: '/content/open-positions'
+    create: true
+    editor:
+      preview: false
+    fields:
+      - { name: 'title', label: 'Title', widget: 'string' }
+      - { name: 'role', label: 'Job title', widget: 'string' }
+      - { name: 'excerpt', label: 'Excerpt', widget: 'text' }
+      - { name: 'body', label: 'Body', widget: 'markdown' }
+      - *published
+      - *seo
+      - *redirect_from
+
+  - name: 'employees'
+    label: 'Employees'
+    label_singular: 'Employee'
+    folder: '/content/employees'
+    slug: '{{first_name}}-{{last_name}}'
+    identifier_field: 'email'
+    create: true
+    editor:
+      preview: false
+    fields:
+      - { name: 'first_name', label: 'First name', widget: 'string' }
+      - { name: 'last_name', label: 'Last name', widget: 'string' }
+      - { name: 'role', label: 'Role', widget: 'string' }
+      - { name: 'email', label: 'Email', widget: 'string' }
+      - { name: 'phone', label: 'Phone', widget: 'string' }
+      - { name: 'image', label: 'Image', widget: 'image' }
+      - *published
+
+  - name: 'settings'
+    label: 'Settings'
+    delete: false
+    editor:
+      preview: false
+    files:
+      - name: 'general'
+        label: 'Site Settings'
+        label_singular: 'Site setting'
+        file: 'content/settings.json'
+        description: 'General Site Settings'
+        fields:
+          - { label: 'Site name', name: 'name', widget: 'string' }
+          - label: 'Contact details'
+            name: 'contact'
+            widget: 'object'
+            fields:
+              - { label: 'Address', name: 'address', widget: 'string' }
+              - { label: 'Zipcode', name: 'zipcode', widget: 'string' }
+              - { label: 'City', name: 'city', widget: 'string' }
+              - { label: 'Email', name: 'email', widget: 'string' }
+              - { label: 'Phone', name: 'phone', widget: 'string' }
+          - label: 'Social'
+            name: 'social'
+            widget: 'object'
+            fields:
+              - { label: 'Facebook', name: 'facebook', widget: 'string' }
+              - {
+                  label: 'Facebook App ID',
+                  name: 'facebook_app_id',
+                  widget: 'string',
+                }
+              - { label: 'Instagram', name: 'instagram', widget: 'string' }
+              - { label: 'LinkedIn', name: 'linkedin', widget: 'string' }
+              - { label: 'GitHub', name: 'github', widget: 'string' }

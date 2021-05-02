@@ -1,0 +1,42 @@
+.ball {
+	background: red;
+	width: 250px;
+	height: 250px;
+	border-radius: 50%;
+	-webkit-box-shadow: 0 0 25px rgba(0,0,0,0.5);
+}
+
+.absolute {
+	position: absolute;
+	top: 0;
+	left: 0;
+	-webkit-animation: animateAbs 5s infinite;
+}
+
+.translate {
+	-webkit-animation: animateTrans 5s infinite;
+}
+
+@-webkit-keyframes animateAbs {
+	0% {
+		left: 800px;
+	}
+	50% { 
+		left: 0px;
+	}
+	100% { 
+		left: 800px;
+	}
+}
+
+@-webkit-keyframes animateTrans {
+	0% {
+		-webkit-transform: translate(800px, 250px);
+	}
+	50% { 
+		-webkit-transform: translate(0px, 250px);
+	}
+	100% { 
+		-webkit-transform: translate(800px, 250px);
+	}
+}

@@ -1,0 +1,18 @@
+<h1><%= @post.title %> by <%= User.find(@post.author_id).username %></h1>
+
+<h3>Content</h3>
+<p><%= @post.content %></p> 
+
+<h3>Subs</h3>
+<% @post.subs.each do |sub| %>
+  <li><%= link_to "#{sub.title}", sub_url(sub) %></li>
+<% end %>
+
+<h3>Comments</h3>
+<%= link_to 'Comment on this post!', new_post_comment_url(@post) %><br><br>
+
+<% @comments_by_parent[nil].each do |parent_comment| %> 
+    <li><%= render '/comments/comment', comment: parent_comment %></li>
+<% end %><br><br>
+
+<%= link_to "Edit Post", edit_post_url(@post) %>

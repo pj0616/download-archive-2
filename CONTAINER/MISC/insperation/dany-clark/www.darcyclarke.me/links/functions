@@ -1,0 +1,458 @@
+<!DOCTYPE html>
+<!--if lt IE 7<html class="no-js lt-ie9 lt-ie8 lt-ie7">
+-->
+<!--if IE 7<html class="no-js lt-ie9 lt-ie8">
+-->
+<!--if IE 8<html class="no-js lt-ie9">
+-->
+<!--[if gt IE 8]><!-->
+<html class="no-js">
+  <!--<![endif]-->
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>🌩 Infrastructure as Text: Standardizing Serverless Deployments with Architect</title>
+  </head>
+  <body></body>
+  <link rel="stylesheet" media="screen" href="assets/styles/main.min.css">
+  <link rel="stylesheet" media="screen" href="assets/styles/codemirror.css">
+  <link rel="stylesheet" media="screen" href="assets/styles/theme.css">
+</html>
+<body>
+  <div class="presentation">
+    <div class="footer">
+      <p><span class="title">🌩 <strong>.arc</strong>hitect at functions, august 2017</span><span id="presentation-counter">Loading...</span><a href="https://twitter.com/darcy">@darcy</a></p>
+    </div>
+    <div class="slides">
+      <div id="landing-slide" class="slide full grid">
+        <section class="middle left">
+          <div class="inner"><img src="assets/img/logo-white.svg" class="future">
+            <h2 class="little">Infrastructure as Text:</h2>
+            <h1>Standardizing Serverless Deployments /w .Arc<span class="little">hitect</span></h1>
+          </div>
+        </section>
+      </div>
+      <div id="me" class="slide full grid image">
+        <section class="middle left">
+          <div class="inner">
+            <h1><strong>Darcy</strong>Clarke</h1>
+          </div>
+        </section>
+      </div>
+      <div id="titles" class="slide grid">
+        <section class="middle">
+          <div class="inner">
+            <h1><strong>developer</strong>, designer, speaker,<br> entrepreneur, mentor & ux advocate</h1>
+          </div>
+        </section>
+      </div><a id="work" href="http://darcyclarke.me/work/" class="slide full feature"></a><a id="telus" href="http://labs.telus.com" class="slide full feature"></a><a id="nodeschool" href="http://nodeschool.io/toronto" class="slide full feature"></a>
+      <div id="foundation" style="background-image: url(assets/img/foundation.png);background-size: 50% auto;background-position: center center;" class="slide full feature"></div>
+      <div id="support" style="background-image: url(assets/img/support.png);background-size: auto 90%;background-position: center center;" class="slide full feature"></div>
+      <div id="monthly" class="slide full grid rule">
+        <section class="middle">
+          <div class="inner">
+            <h1>JS Devs Zone</h1>
+            <h3 class="quote">Conversations with the people supporting projects you depend on now and<br> driving innovation in the projects of the future</h3>
+            <h2><a href="https://js.foundation/community/js-devs-zone">js.foundation/community/js-devs-zone</a></h2>
+            <h2><a href="https://js.foundation/community/js-devs-zone/episode0-sonar">Episode #0 - sonar http://sonarwhal.com</a></h2>
+            <h2><a href="https://js.foundation/community/js-devs-zone/episode1-architect">Episode #1 - .architect http://arc.codes</a></h2>
+          </div>
+        </section>
+      </div>
+      <div id="summit" style="background-image: url(assets/img/summit.png);background-size: 25% auto;background-position: center center;" class="slide full feature"></div>
+      <div id="jacob" class="slide feature person">
+        <section style="background-image: url(assets/img/brian.jpg);" class="photo"></section>
+        <section class="middle">
+          <div class="inner">
+            <h1>Brian Leroux</h1>
+            <h3>Cofounder/CTO @begin</h3>
+            <h4><a href="https://twitter.com/brianleroux">@brianleroux</a></h4>
+            <h4><a href="https://cordova.apache.org/">http://cordova.apache.org/</a></h4>
+            <h4><a href="https://begin.com/">http://begin.com</a></h4>
+          </div>
+        </section>
+      </div>
+      <div id="sucks" class="slide full grid rule">
+        <section class="middle">
+          <div class="inner">
+            <h1><strong>tldr;</strong><br> Manual setup & provisioning of infra sucks</h1>
+          </div>
+        </section>
+      </div>
+      <div id="logo-orange" style="background-image: url(assets/img/logo-orange.svg); background-size: 80% auto; background-repeat: no-repeat; background-position: center center" class="slide full grid image"></div>
+      <div id="logo-hex" style="background-image: url(assets/img/hex-logos.png); background-size: 60% auto; background-repeat: no-repeat; background-position: center center" class="slide full grid image"></div>
+      <div id="reiterate" class="slide full grid rule">
+        <section class="middle">
+          <div class="inner">
+            <h1>Standardizing Serverless<br> Deployments with <b>.arc</b>hitect</h1>
+          </div>
+        </section>
+      </div>
+      <div id="solving" class="slide full grid rule">
+        <section class="middle left">
+          <div class="inner">
+            <h1>The problems it tries to solve...</h1>
+            <ul>
+              <li>"Manifest checked into your revision control system so you can version your infrastructure beside your code"</li>
+              <li>"Tooling for managing the manifest-based infrastructure"</li>
+            </ul>
+          </div>
+        </section>
+      </div>
+      <div id="manifest-file" class="slide full grid rule">
+        <section class="middle">
+          <div class="inner">
+            <h1><strong>.arc</strong> is a plaintext manifest file</h1>
+            <div data-build>
+              <h1><strike>Infrastructure</strike> as text</h1>
+              <h1><b>Arc</b>hitecture as text</h1>
+            </div>
+            <div></div>
+          </div>
+        </section>
+      </div>
+      <div id="ecosystem" class="slide full grid rule">
+        <section class="middle">
+          <div class="inner">
+            <h1>The existing ecosystem</h1>
+          </div>
+        </section>
+      </div>
+      <div id="aws-example" class="slide feature grid example horizontal full big">
+        <h1>AWS Serverless Application Model (SAM) Template</h1>
+        <div class="column code fontSize22">
+          <textarea data-lang="yaml">
+            AWSTemplateFormatVersion: '2010-09-09'
+             Transform: AWS::Serverless-2016-10-31
+             Description: Simple CRUD webservice. State is stored in a SimpleTable (DynamoDB) resource.
+             Resources:
+             GetFunction:
+               Type: AWS::Serverless::Function
+               Properties:
+                 Handler: index.get
+                 Runtime: nodejs4.3
+                 CodeUri: s3:///api_backend.zip
+                 Policies: AmazonDynamoDBReadOnlyAccess
+                 Environment:
+                   Variables:
+                     TABLE_NAME: !Ref Table
+                 Events:
+                   GetResource:
+                     Type: Api
+                     Properties:
+                       Path: /resource/{resourceId}
+                       Method: get
+            &nbsp;
+             PutFunction:
+               Type: AWS::Serverless::Function
+               Properties:
+                 Handler: index.put
+                 Runtime: nodejs4.3
+                 CodeUri: s3:///api_backend.zip
+                 Policies: AmazonDynamoDBFullAccess
+                 Environment:
+                   Variables:
+                     TABLE_NAME: !Ref Table
+                 Events:
+                   PutResource:
+                     Type: Api
+                     Properties:
+                       Path: /resource/{resourceId}
+                       Method: put
+            &nbsp;
+             DeleteFunction:
+               Type: AWS::Serverless::Function
+               Properties:
+                 Handler: index.delete
+                 Runtime: nodejs4.3
+                 CodeUri: s3:///api_backend.zip
+                 Policies: AmazonDynamoDBFullAccess
+                 Environment:
+                   Variables:
+                     TABLE_NAME: !Ref Table
+                 Events:
+                   DeleteResource:
+                     Type: Api
+                     Properties:
+                       Path: /resource/{resourceId}
+                       Method: delete
+            &nbsp;
+             Table:
+               Type: AWS::Serverless::SimpleTable
+          </textarea>
+        </div>
+      </div>
+      <div id="serverless-example" class="slide feature grid example horizontal full big">
+        <h1>Serverless</h1>
+        <div class="column code fontSize22">
+          <textarea>
+            # serverless.yml
+            &nbsp;
+             service: users
+            &nbsp;
+             provider:
+               name: aws
+               runtime: nodejs6.10
+               stage: dev # Set the default stage used. Default is dev
+               region: us-east-1 # Overwrite the default region used. Default is us-east-1
+               profile: production # The default profile to use with this service
+               memorySize: 512 # Overwrite the default memory size. Default is 1024
+               deploymentBucket:
+                 name: com.serverless.${self:provider.region}.deploys # Overwrite the default deployment bucket
+                 serverSideEncryption: AES256 # when using server-side encryption
+               versionFunctions: false # Optional function versioning
+               stackTags: # Optional CF stack tags
+                key: value
+               stackPolicy: # Optional CF stack policy. The example below allows updates to all resources except deleting/replacing EC2 instances (use with caution!)
+                 - Effect: Allow
+                   Principal: "*"
+                   Action: "Update:*"
+                   Resource: "*"
+                 - Effect: Deny
+                   Principal: "*"
+                   Action:
+                     - Update:Replace
+                     - Update:Delete
+                   Condition:
+                     StringEquals:
+                       ResourceType:
+                         - AWS::EC2::Instance
+            &nsbp;
+             functions:
+               usersCreate: # A Function
+                 handler: users.create
+                 events: # The Events that trigger this Function
+                   - http: post users/create
+               usersDelete: # A Function
+                 handler: users.delete
+                 events:  # The Events that trigger this Function
+                   - http: delete users/delete
+            &nbsp;
+             # The "Resources" your "Functions" use.  Raw AWS CloudFormation goes in here.
+             resources:
+               Resources:
+                 usersTable:
+                   Type: AWS::DynamoDB::Table
+                   Properties:
+                     TableName: usersTable
+                     AttributeDefinitions:
+                       - AttributeName: email
+                         AttributeType: S
+                     KeySchema:
+                       - AttributeName: email
+                         KeyType: HASH
+                     ProvisionedThroughput:
+                       ReadCapacityUnits: 1
+                       WriteCapacityUnits: 1
+          </textarea>
+        </div>
+      </div>
+      <div id="terraform-example" class="slide feature grid example horizontal full big">
+        <h1>Terraform HCL</h1>
+        <div class="column code fontSize22">
+          <textarea>
+            resource "aws_iam_role" "iam_for_lambda" {
+                 name = "iam_for_lambda"
+                 assume_role_policy = <<EOF
+               {
+                 "Version": "2012-10-17",
+                 "Statement": [{
+                     "Action": "sts:AssumeRole",
+                     "Principal": {
+                     "Service": "lambda.amazonaws.com"
+                   },
+                   "Effect": "Allow",
+                   "Sid": ""
+                 }]
+               }
+               EOF
+               }
+            &nbsp;
+               resource "aws_lambda_function" "test_lambda" {
+                 filename         = "lambda_function_payload.zip"
+                 function_name    = "lambda_function_name"
+                 role             = "${aws_iam_role.iam_for_lambda.arn}"
+                 handler          = "exports.test"
+                 source_code_hash = "${base64sha256(file("lambda_function_payload.zip"))}"
+                 runtime          = "nodejs4.3"
+                 environment {
+                   variables = {
+                     foo = "bar"
+                   }
+                 }
+               }
+          </textarea>
+        </div>
+      </div>
+      <div id="learnings" class="slide full grid rule">
+        <section class="middle left">
+          <div class="inner">
+            <h1><span class="primaryColor">Takeaways</span></h1>
+            <ul>
+              <li>Deep proprietary knowledge is required to configure and maintain common infrastructure primatives</li>
+              <li>Painful manifest files; JSON and YAML are not ideal</li>
+              <li>Tooling was designed for the last generation of metaphors</li>
+            </ul>
+          </div>
+        </section>
+      </div>
+      <div id="arc-arrives" class="slide full feature rule">
+        <section class="middle">
+          <div class="inner">
+            <h1><strong>.arc</strong></h1>
+          </div>
+        </section>
+      </div>
+      <div id="arc-example" class="slide feature grid example horizontal full big">
+        <h1>this is an <strong>.arc</strong> file</h1>
+        <div class="column code fontSize48">
+          <textarea data-lang="markdown">
+             # my app
+             @app
+             functions-demo-app
+            &nbsp;
+             @html
+             get /
+          </textarea>
+        </div>
+      </div>
+      <div id="schema-inc" class="slide full grid rule">
+        <section class="middle left">
+          <div class="inner">
+            <h1>The schema is...</h1>
+            <ul>
+              <li>Comments start with <code><b>#</b></code></li>
+              <li>Sections start with <code><b>@</b></code></li>
+            </ul>
+          </div>
+        </section>
+      </div>
+      <div id="html-example" class="slide feature grid example horizontal full big">
+        <h1><code><b>@html</b></code> defines text/html routes</h1>
+        <h3>A Lambda function wired to API Gateway handles requests to <code>/</code>.</h3>
+        <div class="column code fontSize48">
+          <textarea data-lang="markdown">
+             # my app
+             @app
+             functions-demo-app
+            &nbsp;
+             @html
+             get /
+          </textarea>
+        </div>
+      </div>
+      <div id="expressive-example" class="slide feature grid example horizontal full big">
+        <h1><b>.arc</b> is Expressive</h1>
+        <div class="column code fontSize48">
+          <textarea data-lang="markdown">
+             # my app
+             @app
+             helloapp
+            &nbsp;
+             @html
+             get /
+             get /about
+             get /contact
+             post /contact
+            &nbsp;
+             @json
+             get /api
+          </textarea>
+        </div>
+      </div>
+      <div id="full-example" class="slide feature grid example horizontal full big">
+        <h1>Workflows supported: <code><b>@html</b></code>, <code><b>@json</b></code>, <code><b>@events</b></code>, <code><b>@tables</b></code> & more....</h1>
+        <h3><a href="https://arc.codes/reference/">https://arc.codes/reference/ </a></h3>
+        <div class="column code fontSize32">
+          <textarea data-lang="markdown">
+             # my app
+             @app
+             functions-demo-app
+            &nbsp;
+             @html
+             get /
+             post /likes
+            &nbsp;
+             @json
+             get /likes
+            &nbsp;
+             @events
+             hit-counter
+          </textarea>
+        </div>
+      </div>
+      <div id="demo" class="slide full grid rule">
+        <section class="middle">
+          <div class="inner">
+            <h1><b>Demo</b></h1>
+          </div>
+        </section>
+      </div>
+      <div id="steps" class="slide full grid rule">
+        <section class="middle left">
+          <div class="inner">
+            <h2>Getting started...</h2>
+            <ul>
+              <li><b>1.</b> Start your node project: <code>npm i</code></li>
+              <li><b>2.</b> Install <b>.arc</b>hitect: <code>npm install @architect/workflows --save</code></li>
+              <li><b>3.</b> Add config into your <code>package.json</code> </li>
+            </ul>
+            <div class="column code fontSize32">
+              <textarea data-lang="javascript">
+                {
+                   scripts: {
+                     "create": "AWS_PROFILE=xxx AWS_REGION=us-west-1 arc-create",
+                     "deploy": "AWS_PROFILE=xxx AWS_REGION=us-west-1 arc-deploy",
+                     "start": "AWS_PROFILE=xxx AWS_REGION=us-west-1 NODE_ENV=testing arc-sandbox"
+                   }
+                }
+              </textarea>
+              <ul>
+                <li><b>4.</b> Create your <code><b>.arc</b></code> file</li>
+                <li><b>5.</b> Create your app: <code>npm run create</code> </li>
+                <li><b>6.</b> Deploy when necessarry</li>
+              </ul>
+            </div>
+          </div>
+        </section>
+      </div>
+      <div id="nextnext" style="background-image: url(assets/img/backtothefuture.jpg);" class="slide full feature">
+        <section class="middle">
+          <h1 class="quote"><b>What's next?</b></h1>
+        </section>
+      </div>
+      <div id="next" class="slide full grid rule">
+        <section class="middle left">
+          <div class="inner">
+            <h1>What's next...</h1>
+            <ul>
+              <li>Working with partners to contribute support (Azure Functions, Firebase Cloud Functions etc.)</li>
+              <li><code><b>@js</b></code> for text/javascript lambda route handlers</li>
+              <li><code><b>@css</b></code> for text/css lambda route handlers</li>
+              <li><code><b>npm run dns</b></code> should generate a static.domainname.com CNAME that points to an S3 CloudFront Distribution from <code><b>@domain</b></code> value</li>
+              <li><code><b>@views</b></code> support added to <b>.arc</b> for universal render support</li>
+              <li><code><b>arc-env</b></code> env variables and configuration management</li>
+            </ul>
+          </div>
+        </section>
+      </div>
+      <div id="thanks" class="slide full grid rule">
+        <section class="middle left">
+          <div class="inner">
+            <h1><strong>Thanks!</strong></h1>
+            <h1><a href="http://arc.codes">http://arc.codes</a></h1>
+            <h2><a href="https://github.com/arc-repos">https://github.com/arc-repos</a></h2>
+            <h2><a href="https://twitter.com/darcy">Twitter: <strong>@darcy</strong></a></h2>
+            <h2><a href="https://github.com/darcyclarke">GitHub: <strong>@darcyclarke</strong></a></h2>
+            <h2><a href="http://darcyclarke.me">Website: <strong>darcyclarke.me</strong></a></h2>
+          </div>
+        </section>
+      </div>
+      <div id="black-particles"></div>
+      <div id="white-particles"></div>
+    </div>
+  </div>
+  <script type="text/javascript" src="assets/scripts/libs.min.js"></script>
+  <script type="text/javascript" src="assets/scripts/libs.js"></script>
+  <script type="text/javascript" src="assets/scripts/main.min.js"></script>
+</body>

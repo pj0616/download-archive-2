@@ -1,0 +1,60 @@
+# [PyTorch](http://pytorch.org/)
+
+## Links
+
+- [PyTorch Tutorials](https://pytorch.org/tutorials/)
+- [RL Adventure](https://github.com/higgsfield/RL-Adventure)
+- [PyTorch template project](https://github.com/victoresque/pytorch-template)
+- [PyTorch GAN](https://github.com/eriklindernoren/PyTorch-GAN) - PyTorch implementations of Generative Adversarial Networks.
+- [PyTorch examples](https://github.com/pytorch/examples#readme)
+- [Grokking PyTorch](https://github.com/Kaixhin/grokking-pytorch#readme)
+- [Awesome PyTorch list](https://github.com/bharathgs/Awesome-pytorch-list#readme)
+- [OCaml PyTorch](https://github.com/LaurentMazare/ocaml-torch) - OCaml bindings for PyTorch.
+- [Apex](https://github.com/NVIDIA/apex) - PyTorch Extension: Tools for easy mixed precision and distributed training in PyTorch.
+- [Translate](https://github.com/pytorch/translate) - PyTorch Language Library.
+- [What is torch.nn really?](https://pytorch.org/tutorials/beginner/nn_tutorial.html)
+- [Introduction to PyTorch Workshop at the AMLD 2019](https://github.com/ahug/amld-pytorch-workshop)
+- [Neural Pipeline](https://github.com/toodef/neural-pipeline) - Neural networks training pipeline based on PyTorch. Designed to standardize training process and accelerate experiments.
+- [Faster R-CNN and Mask R-CNN in PyTorch](https://github.com/facebookresearch/maskrcnn-benchmark)
+- [tch-rs](https://github.com/LaurentMazare/tch-rs) - Rust bindings for PyTorch.
+- [PyTorch Geometric](https://github.com/rusty1s/pytorch_geometric) - Geometric deep learning extension library for PyTorch.
+- [BigGAN-PyTorch](https://github.com/ajbrock/BigGAN-PyTorch) - Contains code for 4-8 GPU training of BigGANs from Large Scale GAN Training for High Fidelity Natural Image Synthesis.
+- [Incredible PyTorch](https://github.com/ritchieng/the-incredible-pytorch#readme) - Curated list of tutorials, papers, projects, communities and more relating to PyTorch.
+- [NimTorch](https://github.com/fragcolor-xyz/nimtorch) - Nim frontend for pytorch, aiming to be mostly auto-generated and internally using ATen.
+- [PyTorch adds new dev tools as it hits production scale (2019)](https://ai.facebook.com/blog/pytorch-adds-new-dev-tools-as-it-hits-production-scale/)
+- [PyTorch tutorials demonstrating modern techniques with readable code](https://github.com/spro/practical-pytorch)
+- [PyTorch internals](http://blog.ezyang.com/2019/05/pytorch-internals/)
+- [Towards Reproducible Research with PyTorch Hub (2019)](https://pytorch.org/blog/towards-reproducible-research-with-pytorch-hub/)
+- [XLM](https://github.com/facebookresearch/XLM) - PyTorch original implementation of Cross-lingual Language Model Pretraining.
+- [BoTorch](https://github.com/pytorch/botorch) - Bayesian optimization in PyTorch.
+- [PyTorch Lightning](https://github.com/williamFalcon/pytorch-lightning) - Rapid research framework for PyTorch. The researcher's version of Keras.
+- [PointNet.pytorch](https://github.com/fxia22/pointnet.pytorch) - PyTorch implementation for "PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation".
+- [former](https://github.com/pbloem/former) - Simple transformer implementation from scratch in PyTorch.
+- [PyTorch Implementation of Differentiable ODE Solvers](https://github.com/rtqichen/torchdiffeq)
+- [PyTorch BigGraph](https://github.com/facebookresearch/PyTorch-BigGraph) - Software used for generating embeddings from large-scale graph-structured data.
+- [Deep Learning (PyTorch)](https://github.com/udacity/deep-learning-v2-pytorch) - Projects and exercises for the latest Deep Learning ND program.
+- [PyWarm](https://github.com/blue-season/pywarm) - Cleaner way to build neural networks for PyTorch.
+- [PyTorch implementations of algorithms for density estimation](https://github.com/ikostrikov/pytorch-flows)
+- [Higher](https://github.com/facebookresearch/higher) - PyTorch library allowing users to obtain higher order gradients over losses spanning training loops rather than individual training steps.
+- [Detectron2](https://github.com/facebookresearch/detectron2) - FAIR's next-generation research platform for object detection and segmentation.
+- [Deep learning with PyTorch: a 60 minute blitz](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html) ([HN](https://news.ycombinator.com/item?id=21240057))
+- [Neural Network Programming - Deep Learning with PyTorch (2019)](https://www.youtube.com/playlist?list=PLZbbT5o_s2xrfNyHZsM6ufI0iZENK9xgG) - Series is all about neural network programming and PyTorch.
+- [A quick tour of Torch internals (2015)](https://apaszke.github.io/torch-internals.html)
+- [How to Run PyTorch with TPUs](https://github.com/pytorch/xla)
+- [EfficientNet PyTorch](https://github.com/lukemelas/EfficientNet-PyTorch)
+- [Captum](https://github.com/pytorch/captum) - Model interpretability and understanding for PyTorch.
+- [Pytorch-Struct](https://github.com/harvardnlp/pytorch-struct) - Fast, general, and tested differentiable structured prediction in PyTorch.
+- [Dive Into Deep Learning 2 PyTorch](https://github.com/dsgiitr/d2l-pytorch)
+- [PyTorch at Tesla - Andrej Karpathy, Tesla (2019)](https://www.youtube.com/watch?v=oBklltKXtDE) ([HN](https://news.ycombinator.com/item?id=21495685))
+- [3D Ken Burns Effect](https://github.com/sniklaus/3d-ken-burns) - Implementation of 3D Ken Burns Effect from a Single Image using PyTorch.
+- [Fast LSTMs in PyTorch (2019)](https://lernapparat.de/fast-lstm-pytorch/)
+- [F8 2019: Developing and Scaling AI Experiences at Facebook with PyTorch](https://www.youtube.com/watch?v=O8t9xbAajbY)
+- [Kaolin](https://github.com/NVIDIAGameWorks/kaolin) - PyTorch Library for Accelerating 3D Deep Learning Research.
+- [SpConv](https://github.com/traveller59/spconv) - PyTorch Spatially Sparse Convolution Library.
+- [Segmentation models](https://github.com/qubvel/segmentation_models.pytorch) - Python library with Neural Networks for Image Segmentation based on PyTorch.
+- [LSTM and QRNN Language Model Toolkit](https://github.com/salesforce/awd-lstm-lm)
+- [cvxpylayers](https://github.com/cvxgrp/cvxpylayers) - Python library for constructing differentiable convex optimization layers in PyTorch and TensorFlow using CVXPY.
+- [Frustum ConvNet](https://github.com/zhixinwang/frustum-convnet) - Sliding Frustums to Aggregate Local Point-Wise Features for Amodal 3D Object Detection.
+- [PyTorch Elastic](https://github.com/pytorch/elastic) - Framework that enables distributed training jobs to be executed in a fault tolerant and elastic manner.
+- [torchgpipe](https://github.com/kakaobrain/torchgpipe) - GPipe implementation in PyTorch.
+- [C++ Implementation of PyTorch Tutorial for Deep Learning Researchers](https://github.com/prabhuomkar/pytorch-cpp)

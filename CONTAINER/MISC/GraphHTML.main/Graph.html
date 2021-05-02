@@ -1,0 +1,278 @@
+﻿<!doctype html>
+<html>
+ <head>
+  <title>Graph</title>
+  <meta charset="utf-8">
+  <style>
+   .ctrl
+   {
+    background-color: #FFFFFF;
+    margin:0;
+    padding:0;
+    width:100%;
+    box-sizing:border-box;
+    -webkit-box-sizing:border-box;
+    -moz-box-sizing:border-box;
+   }
+  </style>
+ </head>
+ <body style="margin: 0;">
+  <div style="display: inline-block">
+   <canvas id="GraphScreen" width="100" height="100">
+   </canvas>
+  </div>
+
+  <div style="display: inline-block">
+  
+  <table border="1" cellpadding="0" cellspacing="0">
+   <tr>
+    <td>Layout</td>
+    <td colspan="3">
+     <select class="ctrl" id="LayoutSet" onchange="LayoutSet()">
+      <option>Disabled</option>
+      <option>Enabled</option>
+     </select>
+    </td>
+   </tr>
+
+   <tr>
+    <td width="40%">Size</td>
+    <td width="20%"><input class="ctrl" type="button" value="-" onclick="CalcGraphFactorsBtn(-1)"></td>
+    <td width="20%" align="center"><span id="FFactVal">0</span</td>
+    <td width="20%"><input class="ctrl" type="button" value="+" onclick="CalcGraphFactorsBtn(+1)"></td>
+   </td>
+
+   <tr>
+    <td>Operation</td>
+    <td colspan="3">
+     <select class="ctrl" id="MouseState" onchange="SetMouseState()">
+      <option>Move V</option>
+      <option>Add V</option>
+      <option>Rem V</option>
+      <option>Undir E</option>
+      <option>Dir E</option>
+      <option>Rem E</option>
+      <option>Label V</option>
+      <option>Label E</option>
+     </select>
+    </td>
+   </tr>
+   <tr>
+    <td>Move</td>
+    <td><input class="ctrl" type="button" onclick="SetMoveMode(1, 0)" value="XY"></td>
+    <td><input class="ctrl" type="button" onclick="SetMoveMode(1, 3)" value="XZ"></td>
+    <td><input class="ctrl" type="button" onclick="SetMoveMode(1, 4)" value="ZY"></td>
+   </tr>
+   <tr>
+    <td>Rotate</td>
+    <td><input class="ctrl" type="button" onclick="SetMoveMode(2, 0)" value="XY"></td>
+    <td><input class="ctrl" type="button" onclick="SetMoveMode(2, 3)" value="XZ"></td>
+    <td><input class="ctrl" type="button" onclick="SetMoveMode(2, 4)" value="ZY"></td>
+   </tr>
+   <tr>
+    <td>Stretch</td>
+    <td><input class="ctrl" type="button" onclick="SetMoveMode(3, 0)" value="XY"></td>
+    <td><input class="ctrl" type="button" onclick="SetMoveMode(3, 3)" value="XZ"></td>
+    <td><input class="ctrl" type="button" onclick="SetMoveMode(3, 4)" value="ZY"></td>
+   </tr>
+   <tr>
+    <td>Center</td>
+    <td><input class="ctrl" type="button" onclick="Rearrange(0, 0)" value="X"></td>
+    <td><input class="ctrl" type="button" onclick="Rearrange(0, 1)" value="Y"></td>
+    <td><input class="ctrl" type="button" onclick="Rearrange(0, 2)" value="Z"></td>
+   </tr>
+   <tr>
+    <td>Flatten</td>
+    <td><input class="ctrl" type="button" onclick="Rearrange(1, 0)" value="X"></td>
+    <td><input class="ctrl" type="button" onclick="Rearrange(1, 1)" value="Y"></td>
+    <td><input class="ctrl" type="button" onclick="Rearrange(1, 2)" value="Z"></td>
+   </tr>
+   <tr>
+    <td>Bound</td>
+    <td><input class="ctrl" type="button" onclick="Rearrange(2, 0)" value="X"></td>
+    <td><input class="ctrl" type="button" onclick="Rearrange(2, 1)" value="Y"></td>
+    <td><input class="ctrl" type="button" onclick="Rearrange(2, 2)" value="Z"></td>
+   </tr>
+   <tr>
+    <td>V display</td>
+    <td colspan="3">
+     <select class="ctrl" id="TextVMode" onchange="SetTextOpt()">
+      <option>Label</option>
+      <option>None</option>
+      <option>Number</option>
+      <option>Force</option>
+     </select>
+    </td>
+   </tr>
+   <tr>
+    <td>E display</td>
+    <td colspan="3">
+     <select class="ctrl" id="TextEMode" onchange="SetTextOpt()">
+      <option>Label</option>
+      <option>None</option>
+      <option>Number</option>
+      <option>Force</option>
+      <option>Weight</option>
+     </select>
+    </td>
+   </tr>
+   <tr>
+    <td>V force</td>
+    <td><input class="ctrl" size="1" type="number" min="1" id="CurrentVForceN" value="1" onchange="CurrentSetValues()"></td>
+    <td><input class="ctrl" size="1" type="number" min="1" id="CurrentVForceD" value="1" onchange="CurrentSetValues()"></td>
+    <td align="center"><span id="CurrentVForceV">1</span></td>
+   </td>
+   <tr>
+    <td>E force</td>
+    <td><input class="ctrl" size="1" type="number" min="1" id="CurrentEForceN" value="1" onchange="CurrentSetValues()"></td>
+    <td><input class="ctrl" size="1" type="number" min="1" id="CurrentEForceD" value="1" onchange="CurrentSetValues()"></td>
+    <td align="center"><span id="CurrentEForceV">1</span></td>
+   </td>
+   <tr>
+    <td>E weight</td>
+    <td><input class="ctrl" size="1" type="number" min="1" id="CurrentEWeightN" value="1" onchange="CurrentSetValues()"></td>
+    <td><input class="ctrl" size="1" type="number" min="1" id="CurrentEWeightD" value="1" onchange="CurrentSetValues()"></td>
+    <td align="center"><span id="CurrentEWeightV">1</span></td>
+   </td>
+  </table>
+  </div>
+  <br/>
+
+  <input type="button" onclick="GraphClearBtn()" value="Clear">
+  <input type="button" onclick="StructImportBtn()" value="Import">
+  <input type="button" onclick="StructExportBtn()" value="Export">
+  <select id="Algorithm">
+   <option selected="selected"></option>
+   <option>Clear labels</option>
+   <option>Number as labels</option>
+   <option>Labels from V to E</option>
+   <option>Labels from E to V</option>
+   <option>Complement graph</option>
+   <option>Line graph</option>
+   <option>Depth-first search</option>
+   <option>Breadth-first search</option>
+   <option>Color V - largest first</option>
+   <option>Color V - smallest last</option>
+   <option>Color V - saturated lf</option>
+   <option>Color V - accurate *</option>
+   <option>Color E - largest first</option>
+   <option>Color E - smallest last</option>
+   <option>Color E - saturated lf</option>
+   <option>Color E - accurate *</option>
+   <option>Paths and cycles of V *</option>
+   <option>Paths and cycles of E *</option>
+   <option>Connectivity</option>
+   <option>Minimum spanning tree</option>
+  </select>
+  <input type="button" onclick="AlgorithmStart()" value="Start">
+
+  <br/>
+  <textarea id="raw" rows="20" style="white-space: pre; overflow-wrap: normal; overflow-x: scroll; width:100%;">
+  </textarea>
+  <table border="1" width="100%" cellpadding="0" cellspacing="0">
+   <tr>
+    <td width="20%" align="center"><input type="button" class="ctrl" onclick="MemoLoad(0)" value="Load 0"></td>
+    <td width="20%" align="center"><input type="button" class="ctrl" onclick="MemoLoad(1)" value="Load 1"></td>
+    <td width="20%" align="center"><input type="button" class="ctrl" onclick="MemoLoad(2)" value="Load 2"></td>
+    <td width="20%" align="center"><input type="button" class="ctrl" onclick="MemoLoad(3)" value="Load 3"></td>
+    <td width="20%" align="center"><input type="button" class="ctrl" onclick="MemoLoad(4)" value="Load 4"></td>
+   </tr>
+   <tr>
+    <td width="20%" align="center"><input type="button" class="ctrl" onclick="MemoSave(0)" value="Save 0"></td>
+    <td width="20%" align="center"><input type="button" class="ctrl" onclick="MemoSave(1)" value="Save 1"></td>
+    <td width="20%" align="center"><input type="button" class="ctrl" onclick="MemoSave(2)" value="Save 2"></td>
+    <td width="20%" align="center"><input type="button" class="ctrl" onclick="MemoSave(3)" value="Save 3"></td>
+    <td width="20%" align="center"><input type="button" class="ctrl" onclick="MemoSave(4)" value="Save 4"></td>
+   </tr>
+   <tr>
+    <td width="20%" align="center"><input type="button" class="ctrl" onclick="MemoLoad(5)" value="Load 5"></td>
+    <td width="20%" align="center"><input type="button" class="ctrl" onclick="MemoLoad(6)" value="Load 6"></td>
+    <td width="20%" align="center"><input type="button" class="ctrl" onclick="MemoLoad(7)" value="Load 7"></td>
+    <td width="20%" align="center"><input type="button" class="ctrl" onclick="MemoLoad(8)" value="Load 8"></td>
+    <td width="20%" align="center"><input type="button" class="ctrl" onclick="MemoLoad(9)" value="Load 9"></td>
+   </tr>
+   <tr>
+    <td width="20%" align="center"><input type="button" class="ctrl" onclick="MemoSave(5)" value="Save 5"></td>
+    <td width="20%" align="center"><input type="button" class="ctrl" onclick="MemoSave(6)" value="Save 6"></td>
+    <td width="20%" align="center"><input type="button" class="ctrl" onclick="MemoSave(7)" value="Save 7"></td>
+    <td width="20%" align="center"><input type="button" class="ctrl" onclick="MemoSave(8)" value="Save 8"></td>
+    <td width="20%" align="center"><input type="button" class="ctrl" onclick="MemoSave(9)" value="Save 9"></td>
+   </tr>
+  </table>
+  <br/>
+
+  <table border="1" cellpadding="0" cellspacing="0">
+   <tr>
+    <td>Edge segments</td>
+    <td><input size="5" type="number" min="0" max="1000000" id="EdgeSegments"></td>
+   </tr>
+   <tr>
+    <td>Canvas width</td>
+    <td><input size="5" type="number" min="0" max="1000000" id="CanvasW"></td>
+   </tr>
+   <tr>
+    <td>Canvas height</td>
+    <td><input size="5" type="number" min="0" max="1000000" id="CanvasH"></td>
+   </tr>
+   <tr>
+    <td>Depth margin</td>
+    <td><input size="5" type="number" min="0" max="1000000" id="CanvasD"></td>
+   </tr>
+   <tr>
+    <td>Vertice size</td>
+    <td><input size="5" type="number" min="0" max="1000000" id="SizeV"></td>
+   </tr>
+   <tr>
+    <td>Edge size 1</td>
+    <td><input size="5" type="number" min="0" max="1000000" id="SizeE1"></td>
+   </tr>
+   <tr>
+    <td>Edge size 2</td>
+    <td><input size="5" type="number" min="0" max="1000000" id="SizeE2"></td>
+   </tr>
+   <tr>
+    <td>Loop size</td>
+    <td><input size="5" type="number" min="0" max="1000000" id="SizeL"></td>
+   </tr>
+   <tr>
+    <td>Edge distance</td>
+    <td><input size="5" type="number" min="0" max="1000000" id="SizeM"></td>
+   </tr>
+   <tr>
+    <td>Layout timeout</td>
+    <td><input size="5" type="number" min="0" max="1000000" id="GraphForceTimeout"></td>
+   </tr>
+   <tr>
+    <td>Layout factor</td>
+    <td><input size="5" type="number" min="0" max="1000000" id="GraphForceFactor"></td>
+   </tr>
+   <tr>
+    <td>Layout iterations</td>
+    <td><input size="5" type="number" min="0" max="1000000" id="GraphForceIter"></td>
+   </tr>
+   <tr>
+    <td colspan="2"><input type="button" value="Apply" onclick="ConfSet()"><input type="button" value="Reset" onclick="ConfReset()"></td>
+   </tr>
+  </table>
+  <script src="threaddef.js">
+  </script>
+  <script src="threadproc.js">
+  </script>
+  <script src="unistorage.js">
+  </script>
+  <script src="graphconf.js">
+  </script>
+  <script src="draw.js">
+  </script>
+  <script src="oper.js">
+  </script>
+  <script src="impexp.js">
+  </script>
+  <script src="algorithm.js">
+  </script>
+  <script>
+   Init();
+  </script>
+ </body>
+</html>
+

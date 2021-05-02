@@ -1,0 +1,48 @@
+# [Node.js](https://nodejs.org/en/)
+
+## Links
+
+- [Introduction to Node.js](https://nodejs.dev/)
+- [Original presentation by Ryan Dahl on node.js](https://www.youtube.com/watch?v=ztspvPYybIY)
+- [Node best practices](https://github.com/i0natan/nodebestpractices#readme)
+- [Supercharge your debugging experience for Node.js](https://medium.com/@wesharehoodies/supercharge-your-debugging-experience-for-node-js-3f0ddfaffbb2)
+- [ndb](https://github.com/trending) - Improved debugging experience for Node.js, enabled by Chrome DevTools.
+- [What is the Node way?](http://thenodeway.io/introduction)
+- [Redbird](https://github.com/OptimalBits/redbird) - Modern reverse proxy for node.
+- [ncc](https://github.com/zeit/ncc) - Simple CLI for compiling a Node.js module into a single file, together with all its dependencies, gcc-style.
+- [TestCafe](https://github.com/DevExpress/testcafe) - Node.js tool to automate end-to-end web testing.
+- [ndb](https://github.com/GoogleChromeLabs/ndb) - Improved debugging experience for Node.js, enabled by Chrome DevTools.
+- [Fastify](https://github.com/fastify/fastify) - Fast and low overhead web framework, for Node.js.
+- [Nodal](https://github.com/keithwhor/nodal) - API Services Made Easy With Node.js
+- [Node.js Fundamentals: Web Server Without Dependencies (2018)](https://blog.bloomca.me/2018/12/22/writing-a-web-server-node.html)
+- [node-sqlite3](https://github.com/mapbox/node-sqlite3) - Asynchronous, non-blocking SQLite3 bindings for Node.js.
+- [Pragmatic Modularity (2016)](https://mafinto.sh/blog/pragmatic-modularity.html)
+- [Stability first (2016)](https://mafinto.sh/blog/stability-first.html)
+- [David](https://github.com/alanshaw/david) - Node.js module that tells you when your package npm dependencies are out of date.
+- [httpie](https://github.com/lukeed/httpie) - Node.js HTTP client as easy as pie.
+- [Bull](https://github.com/optimalbits/bull) - Premium Queue package for handling distributed jobs and messages in NodeJS.
+- [depcheck](https://github.com/depcheck/depcheck) - Check your npm module for unused dependencies.
+- [Marble.js](https://github.com/marblejs/marble) - Functional reactive HTTP framework built on top of Node.js platform, TypeScript and RxJS.
+- [Nest](https://github.com/nestjs/nest) - Progressive Node.js framework for building efficient and scalable server-side applications, heavily inspired by Angular. ([Website](https://nestjs.com/))
+- [Asynchronous Programming Library](https://github.com/metarhia/metasync) - Library of Asynchronous Programming Abstractions.
+- [Curated list of awesome developer tools for writing cross-platform Node.js code](https://github.com/bcoe/awesome-cross-platform-nodejs#readme)
+- [Simple Git](https://github.com/steveukx/git-js) - Light weight interface for running git commands in any node.js application.
+- [patch-package](https://github.com/ds300/patch-package) - Fix broken node modules instantly.
+- [Debugging in 2017 with Node.js](https://www.youtube.com/watch?v=Xb_0awoShR8)
+- [np](https://github.com/sindresorhus/np) - Better npm publish.
+- [Using npm's `ls` command for Fun and Insight (2019)](https://dev.to/bnb/using-npms-ls-command-for-fun-and-insight-5he7)
+- [TSBB](https://github.com/jaywcjlove/tsbb) - Zero-config CLI for TypeScript node.js application development.
+- [NodeSource](https://nodesource.com/) - Low-impact monitoring for mission-critical Node.js applications.
+- [qnm](https://github.com/ranyitz/qnm) - Simple cli utility for querying the node_modules directory.
+- [isolated-vm](https://github.com/laverdet/isolated-vm) - Secure & isolated JS environments for nodejs.
+- [fnm](https://github.com/Schniz/fnm) - Fast and simple Node.js version manager, built in native ReasonML.
+- [pacote](https://github.com/zkat/pacote) - Node.js library for downloading npm-compatible packages.
+- [node-module-boilerplate](https://github.com/sindresorhus/node-module-boilerplate) - Boilerplate to kickstart creating a Node.js module.
+- [stringio](https://github.com/rauschma/stringio) - Convert strings to Node.js streams and vice versa.
+- [npkill](https://github.com/voidcosmos/npkill) - Easily find and remove old and heavy node_modules folders.
+- [TaskBotJS](https://github.com/eropple/taskbotjs) - Best JavaScript/TypeScript job processing framework on the planet.
+- [Verdaccio](https://github.com/verdaccio/verdaccio) - Lightweight private npm proxy registry.
+- [Node Serialport](https://github.com/serialport/node-serialport) - Access serial ports with JavaScript. Linux, OSX and Windows.
+- [RunKit](https://runkit.com/home) - Sandboxed JavaScript environment as notebooks.
+- [Velcro](https://github.com/ggoodman/velcro) - Suite of packages designed to bridge the runtime gap between browser development and the node package ecosystem.
+- [Autarky](https://github.com/pranshuchittora/autarky) - Liberating disk space from node_modules.

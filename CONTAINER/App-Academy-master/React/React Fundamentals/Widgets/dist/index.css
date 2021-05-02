@@ -1,0 +1,98 @@
+html {
+  box-sizing: border-box;
+  font-size: 16px;
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+body, h1, h2, h3, h4, h5, h6, p, ol, ul {
+  margin: 0;
+  padding: 0;
+  font-weight: normal;
+  font-family: 'Solway';
+}
+
+ol, ul {
+  list-style: none;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+.clock {
+  background: #ddd;
+  width: 300px;
+  margin: 10px auto;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.tabs {
+  width: 300px;
+  margin: 0 auto;
+}
+
+.tabs article {
+  border: 1px solid #000;
+  border-top: none;
+  padding: 10px;
+}
+
+.tab-titles {
+  display: flex;
+  justify-content: space-around;
+  background: #fff;
+}
+
+.tab-titles li {
+  padding: 5px;
+  border: 1px solid #000;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+  width: 100%;
+  background: #eee;
+}
+
+.tab-titles li:nth-of-type(2) {
+  border-left: none;
+  border-right: none;
+}
+
+.tab-titles li:hover {
+  cursor: pointer;
+  background: #eea;
+}
+
+.tab-titles .active {
+  background: #fff;
+  border-bottom: none;
+}
+
+.emoji {
+  margin: 0 10px;
+}
+
+.weather {
+  margin: 10px auto;
+  background: #77CCA4;
+  width: 300px;
+  padding: 10px;
+}
+
+.autocomplete {
+  width: 300px;
+  background: #acf;
+  padding: 10px;
+  margin: 10px auto;
+}
+
+.autocomplete input {
+  display: block;
+  width: 100%;
+  margin-bottom: 10px;
+}
+

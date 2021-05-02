@@ -1,0 +1,6 @@
+# Install 
+apt install npm
+
+
+
+

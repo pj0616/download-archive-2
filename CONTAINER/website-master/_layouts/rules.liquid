@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en" class="no-js">
+{% include head %}
+{% if site.banner.text %}
+  <body class="banner-displayed">
+{% else %}
+  <body>
+{% endif %}
+  {% include menu %}
+  <main class="rules doc">
+    <article class="container">
+      <div class="eslint-ad-float hidden-xs hidden-sm">
+        {%include ad %}
+      </div>
+
+      {{ content
+        | replace: '(recommended)', '<span title="recommended" aria-label="recommended" class="glyphicon glyphicon-ok"></span>'
+        | replace: '(fixable)', '<span title="fixable" aria-label="fixable" class="glyphicon glyphicon-wrench"></span>'
+      }}
+    </article>
+  </main>
+  {% include footer %}
+</body>
+</html>

@@ -1,0 +1,105 @@
+# Programming
+
+## Notes
+
+- In software engineering there are two things you are trying to get right:
+  - Software Validation - Did we build the right thing?
+  - Software Verification - Did we build the thing right?
+- Software simplicity is a prerequisite to reliability.
+- A small, simple API is usually also a hallmark of a well-understood problem.
+- Run/Right/Fast.
+  - Make the code work I write is working. Then I can make it fast (if necessary). Solving the “correct/clean/performant code” problem all at once can be overwhelming. Don’t be overwhelmed. Solve one at a time.
+- Reducing the maintenance burden is, for most codebases, the biggest optimization I can do.
+  - Of course it's all about striking a balance, but 99% of the time there is a choice between performance and readability, readability is the right answer. Performance should only be chosen if it is absolutely necessary.
+- If I write ugly code, anyone who intends to fix a bug or add a feature will not enjoy his work and likely avoid it next time.
+- Explicit over implicit is almost always better.
+- [One of my principles is to always strive for simplicity when creating. In retrospect, I've learned many thing that I previously thought too complex to understand. The complexities tend to dissolve when you realize they are mostly just extra distractions emerging from the pressures of engineering the thing... distractions that you probably find yourself inventing all over again once you've assimilated the core idea.](https://news.ycombinator.com/item?id=16562827)
+- Readme driven development is pretty neat. Write the README first as a specification. Then write the code for it. [Zeit](https://github.com/zeit) do it often.
+- We are about to study the idea of a computational process. Computational processes are abstract beings that inhabit computers. As they evolve, processes manipulate other abstract things called data. The evolution of a process is directed by a pattern of rules called a program. People create programs to direct processes.
+- Always be looking for patterns. Abstract them always and only when it simplifies.
+- Persevere in getting an abstraction just right. When you find it, everything will magically fall into place.
+- The implementation is the design.
+- Hide whatever the caller shouldn't care about. In particular, you can remove type parameters with appropriate quantification.
+- Declarative configuration means that you write down the desired state of the world in a configuration and then submit that configuration to a service that takes actions to ensure the desired state becomes the actual state.
+- Every single feature makes product more complex, makes testing more complex, puts constraints on UI design etc. Controlling feature creep (also by revisiting old features) is very important to keep project healthy. Larger the project, more important it is.
+- [“Simplicity” often just means that a concept fits cleanly in the maker’s head at a particular point in time. How many times have I returned to a project I thought was simple only to find I had burdened it with spooky magic because I didn’t benefit from critical distance at the time? When was the last time I deemed another person’s work “too complex” because I couldn’t understand it in one sitting and wasn’t aware of the constraints they were operating under? Answers: too often and too recently.](https://lobste.rs/s/qgbkwm/on_simplicity)
+- If we take a look at any given line of code in a method, we can nearly always categorize it as serving one of the following roles: 1. Collecting input. 2. Performing work. 3. Delivering output. 4. Handling failures.
+
+## Links
+
+- [One Bite At A Time: Partitioning Complexity](https://www.facebook.com/notes/kent-beck/one-bite-at-a-time-partitioning-complexity/1716882961677894/)
+- [Being A Developer After 40](https://medium.freecodecamp.org/being-a-developer-after-40-3c5dd112210c)
+- [What's code?](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/)
+- [Portability matters](http://drewdevault.com/2017/11/13/Portability-matters.html)
+- [On being an effective developer](https://carlosbecker.com/posts/on-being-an-effective-developer/)
+- [Advice to the newish programmer](https://macwright.org/2018/02/08/advice-to-the-newish-programmer.html)
+- [Comment Your Code](https://npf.io/2017/11/comments/)
+- [Things You Should Never Do](https://www.joelonsoftware.com/2000/04/06/things-you-should-never-do-part-i/)
+- [Writing good bug reports](https://pspdfkit.com/blog/2016/writing-good-bug-reports/)
+- [Tips for reading new codebases](https://blog.safia.rocks/post/170269021619/tips-for-reading-new-codebases)
+- [Engineering Principles at Monzo](https://monzo.com/blog/2018/06/29/engineering-principles/)
+- [Awesome Cold Showers](https://github.com/hwayne/awesome-cold-showers#readme) - For when people get too hyped up about things.
+- [Fish Design Principles](https://fishshell.com/docs/current/design.html)
+- [List of resources about programming practices for writing safety-critical software](https://github.com/stanislaw/awesome-safety-critical#readme)
+- [In Pursuit of Production Minimalism](https://brandur.org/minimalism)
+- [The 12 Factor App](https://12factor.net)
+- [Mostly avoid unit tests](https://lobste.rs/s/trrold/mostly_avoid_unit_tests)
+- [Software disenchantment](http://tonsky.me/blog/disenchantment/)
+- [In search of software perfection - Xavier Leroy (2016)](https://www.youtube.com/watch?v=lAU5hx_3xRc)
+- [Communicating Sequential Processes (CSP)](http://usingcsp.com/)
+- [Ask HN: What's the largest amount of bad code you have ever seen work? (2018)](https://news.ycombinator.com/item?id=18442637)
+- [HN: Please do not attempt to simplify this code (2018)](https://news.ycombinator.com/item?id=18772873)
+- [HN: Minimalism: Practical Guide to Writing Less Code (2018)](https://news.ycombinator.com/item?id=18830732)
+- [HN: Software Engineering at Google (2018)](https://news.ycombinator.com/item?id=18818412)
+- [Professional Programming](https://github.com/charlax/professional-programming#readme) - Collection of full-stack resources for programmers.
+- [Ask HN: What are must-know concepts for back end development? (2019)](https://news.ycombinator.com/item?id=18961793)
+- [HN: Advice to new programmers (2019)](https://news.ycombinator.com/item?id=19029206)
+- [Shipping code at N26 (2019)](https://hugogiraudel.com/2019/01/28/shipping-code-at-n26/)
+- [Junior and senior engineers (2015)](https://luca3m.me/2015/07/04/junior-vs-senior-engineers.html)
+- [Ask HN: How to be productive with big existing code base (2019)](https://news.ycombinator.com/item?id=19254008)
+- [On Simplicity (2019)](https://lobste.rs/s/qgbkwm/on_simplicity)
+- [Programming Dictionary (Russian)](https://github.com/HowProgrammingWorks/Dictionary#readme)
+- [Keep a changelog](https://keepachangelog.com/en/1.0.0/)
+- [Teach Yourself Programming in Ten Years (2014)](http://norvig.com/21-days.html)
+- [Rich Hickey on becoming a better developer](https://gist.github.com/prakhar1989/1b0a2c9849b2e1e912fb)
+- [Why programming is difficult](https://joearms.github.io/published/2014-02-07-why-programming-is-difficult.html)
+- [Abstractions (2019)](https://giuseppegurgone.com/abstractions/)
+- [Categorized overview of Programming Principles & Patterns](https://github.com/webpro/programming-principles#readme)
+- [Too DRY - The Grep Test (2013)](http://jamie-wong.com/2013/07/12/grep-test/)
+- [Awesome Roadmaps](https://github.com/orsanawwad/awesome-roadmaps#readme) - Curated list of awesome software development roadmaps.
+- [Awesome EventStorming](https://github.com/mariuszgil/awesome-eventstorming#readme)
+- [7 absolute truths I unlearned as junior developer (2019)](https://monicalent.com/blog/2019/06/03/absolute-truths-unlearned-as-junior-developer/) ([HN](https://news.ycombinator.com/item?id=20124018)) ([Lobsters](https://lobste.rs/s/zki5sf/7_absolute_truths_i_unlearned_as_junior))
+- [Every Programmer Should Know](https://github.com/mtdvio/every-programmer-should-know#readme)
+- [Risk-First development book](https://riskfirst.org/)
+- [The Twelve-Factor App](https://www.12factor.net/)
+- [Visual Programming Codex](https://github.com/ivanreese/visual-programming-codex) - Resources and references for the past and future of visual programming.
+- [Things I Learnt from a Senior Software Engineer (2019)](https://neilkakkar.com/things-I-learnt-from-a-senior-dev.html) ([HN](https://news.ycombinator.com/item?id=20794861))
+- [Writing system software: code comments](http://antirez.com/news/124)
+- [Ask HN: How do you handle logging? (2019)](https://news.ycombinator.com/item?id=20818106)
+- [Google Engineering Practices Documentation](https://google.github.io/eng-practices/)
+- [How to do a code review](https://google.github.io/eng-practices/review/reviewer/) ([HN](https://news.ycombinator.com/item?id=20890682))
+- [Ask HN: What Have You Learned at Google as a Software Engineer? (2019)](https://news.ycombinator.com/item?id=20911340)
+- [Software Foundations series](https://softwarefoundations.cis.upenn.edu/) - Broad introduction to the mathematical underpinnings of reliable software.
+- [Software optimization resources](https://www.agner.org/optimize/)
+- [Simple Made Easy by Rich Hickey (2011)](https://www.infoq.com/presentations/Simple-Made-Easy/)
+- ["Performance Matters" by Emery Berger (2019)](https://www.youtube.com/watch?v=r-TLSBdHe1A)
+- [What Every Programmer Should Know About Memory (2007)](https://people.freebsd.org/~lstewart/articles/cpumemory.pdf)
+- [Exercises in Programming Style](https://github.com/crista/exercises-in-programming-style) - Comprehensive collection of programming styles using a simple computational task, term frequency.
+- [Ask HN: What is the most beautiful piece of code you've ever read? (2019)](https://news.ycombinator.com/item?id=21373852)
+- [Software Engineering for Industry](http://softengindustry.github.io/)
+- [Execute program](https://www.executeprogram.com/) - Programming lessons.
+- [Cheng Lou - Taming the Meta Language - React Conf 2017](https://www.youtube.com/watch?v=_0T5OSSzxms)
+- [Programming Across Paradigms • Anjana Vakil (2017)](https://www.youtube.com/watch?v=Pg3UeB-5FdA)
+- [TBA: Developer experience stuff? by Ashley Williams (2019)](https://www.youtube.com/watch?v=N6YwzpFYDoo&list=PLe9psSNJBf74yYiVXDXz8UnRnWf3NHzS-)
+- [Best Practices Checklist](https://github.com/palash25/best-practices-checklist#readme) - List of awesome idiomatic code resources. Rust, Go, Erlang, Ruby, Pony and more.
+- [Programming book list](https://danluu.com/programming-books/)
+- [Programming Talks](https://github.com/hellerve/programming-talks#readme)
+- [There's No Such Thing as Knowing Your Computer 'All the Way to the Bottom' (2019)](http://codefol.io/posts/no-such-thing-as-knowing-coding-all-the-way-to-the-bottom/) ([Lobsters](https://lobste.rs/s/jkuaaz/there_s_no_such_thing_as_knowing_your))
+- [Building awesome developer tools - Ines Montani (2019)](https://www.youtube.com/watch?v=Ivb4AAuj5JY)
+- [Minimal Viable Programs](https://joearms.github.io/published/2014-06-25-minimal-viable-program.html)
+- [Minimalism in Programming (2018)](https://pointersgonewild.com/2018/02/18/minimalism-in-programming/)
+- [ReactiveConf 2019 - David Nolen: Are we there yet? Remix](https://www.youtube.com/watch?v=ynhhuVQL3Y0)
+- [Sourcetrail](https://github.com/CoatiSoftware/Sourcetrail) - Free and open-source cross-platform source explorer. ([HN](https://news.ycombinator.com/item?id=21567556))
+- [Developer Roadmaps](https://roadmap.sh/) - Community driven roadmaps, articles and resources for developers. ([HN](https://news.ycombinator.com/item?id=21591441)) ([Code](https://github.com/kamranahmedse/roadmap.sh))
+- [Inversion of Control (2019)](https://kentcdodds.com/blog/inversion-of-control)
+- [On porting code (2019)](https://samrat.me/posts/2019-11-26-porting-code/)

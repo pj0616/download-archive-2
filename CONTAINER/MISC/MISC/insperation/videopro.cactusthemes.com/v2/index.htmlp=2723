@@ -1,0 +1,424 @@
+<!DOCTYPE html>
+<!--[if IE 7]>
+<html class="ie ie7" lang="en-US">
+<![endif]-->
+<!--[if IE 8]>
+<html class="ie ie8" lang="en-US">
+<![endif]-->
+<!--[if !(IE 7) | !(IE 8)  ]>-->
+<html lang="en-US">
+<!--<![endif]--><head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="profile" href="http://gmpg.org/xfn/11">
+<link rel="pingback" href="http://videopro.cactusthemes.com/v2/xmlrpc.php">
+<meta name="description" content="The most powerful video WordPress theme"/><title>Coming Soon &#8211; VideoPro</title>
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="VideoPro &raquo; Feed" href="http://videopro.cactusthemes.com/v2/feed/" />
+<link rel="alternate" type="application/rss+xml" title="VideoPro &raquo; Comments Feed" href="http://videopro.cactusthemes.com/v2/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.4\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.4\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/videopro.cactusthemes.com\/v2\/wp-includes\/js\/wp-emoji-release.min.js"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55357,56692,8205,9792,65039],[55357,56692,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='wti_like_post_style-css'  href='http://cdn.cactusthemes.com/wp-content/plugins/wti-like-post/css/wti_like_post.css' type='text/css' media='all' />
+<link rel='stylesheet' id='bp-parent-css-css'  href='http://cdn.cactusthemes.com/wp-content/themes/videopro/css/buddypress.css' type='text/css' media='screen' />
+<link rel='stylesheet' id='video-ads-management-css'  href='http://cdn.cactusthemes.com/wp-content/plugins/cactus-ads/css/video-ads-management.css' type='text/css' media='all' />
+<link rel='stylesheet' id='truemag-rating-css'  href='http://cdn.cactusthemes.com/wp-content/plugins/cactus-rating//css/style.css' type='text/css' media='all' />
+<link rel='stylesheet' id='animate-css'  href='http://cdn.cactusthemes.com/wp-content/plugins/cactus-rating/css/animate.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='http://cdn.cactusthemes.com/wp-content/plugins/contact-form-7/includes/css/styles.css' type='text/css' media='all' />
+<link rel='stylesheet' id='easy-tab-css'  href='http://cdn.cactusthemes.com/wp-content/plugins/easy-tab/tab.css' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-pagenavi-css'  href='http://cdn.cactusthemes.com/wp-content/plugins/wp-pagenavi/pagenavi-css.css' type='text/css' media='all' />
+<link rel='stylesheet' id='videopro-parent-css'  href='http://cdn.cactusthemes.com/wp-content/themes/videopro/style.css' type='text/css' media='all' />
+<link rel='stylesheet' id='mashmenu-css-css'  href='http://cdn.cactusthemes.com/wp-content/themes/videopro/inc/megamenu/css/mashmenu.css' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-2-css'  href='http://videopro.cactusthemes.com/v2/wp-content/themes/videopro/css/font-awesome/css/font-awesome.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='slick-css'  href='http://cdn.cactusthemes.com/wp-content/themes/videopro/css/slick.css' type='text/css' media='all' />
+<link rel='stylesheet' id='malihu-scroll-css'  href='http://cdn.cactusthemes.com/wp-content/themes/videopro/css/jquery.mCustomScrollbar.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='videopro-style-css'  href='http://cdn.cactusthemes.com/wp-content/themes/videopro-child-demo/style.css' type='text/css' media='all' />
+<link rel='stylesheet' id='videopro-pre-loaders-css'  href='http://cdn.cactusthemes.com/wp-content/themes/videopro/css/loaders.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='videopro-membership-css'  href='http://cdn.cactusthemes.com/wp-content/themes/videopro/css/membership.css' type='text/css' media='all' />
+<link rel='stylesheet' id='cactus-video-css-css'  href='http://cdn.cactusthemes.com/wp-content/plugins/cactus-video/css/main.css' type='text/css' media='all' />
+<link rel='stylesheet' id='videopro-lightbox-style-css'  href='http://cdn.cactusthemes.com/wp-content/plugins/cactus-video/js/lightbox/lightbox.css' type='text/css' media='all' />
+<link rel='stylesheet' id='cactus-buy-button-css'  href='http://cdn.cactusthemes.com/wp-content/plugins/cactus-buy-button/css/cactus-buy-button.css' type='text/css' media='all' />
+<link rel='stylesheet' id='cactus-widget-demo-css'  href='http://cdn.cactusthemes.com/wp-content/plugins/cactus-buy-button/css/cactus-demo.css' type='text/css' media='all' />
+<link rel='stylesheet' id='ct-priority-nav-css'  href='http://cdn.cactusthemes.com/wp-content/plugins/videopro-shortcodes/shortcodes/js/priority-nav/priority-nav-core.css' type='text/css' media='all' />
+<link rel='stylesheet' id='ct_shortcode_style-css'  href='http://cdn.cactusthemes.com/wp-content/plugins/videopro-shortcodes/shortcodes/css/shortcode.css' type='text/css' media='all' />
+<style id='ct_shortcode_style-inline-css' type='text/css'>
+@media only screen and (-webkit-min-device-pixel-ratio: 2),(min-resolution: 192dpi) {
+					/* Retina Logo */
+					.primary-header .cactus-logo.navigation-font a{background:url(http://cdn.cactusthemes.com/wp-content/uploads/2016/05/02-videopro-logo-dark-2x.png) no-repeat center; background-size:contain;}
+					.primary-header .cactus-logo.navigation-font a img{ opacity:0; visibility:hidden}
+				}img.gform_ajax_spinner{background:url(http://cdn.cactusthemes.com/wp-content/themes/videopro/images/ajax-loader.gif);}.cactus-submit-video a{background-color:#D9251D !important;color:#FFFFFF !important;}.cactus-submit-video a:hover{background-color:#999999 !important;color:#FFFFFF !important;}#mega-menu-item-3189 a{    
+    padding: 5px 10px;
+    margin: 33px;
+    background: #F5EB4E;
+    border-radius: 3px;
+    color: #000;
+}
+.type-bp_group #item-header-cover-image { z-index: -1;}
+#mega-menu-item-3189:hover a:after,#mega-menu-item-3189.current-menu-item > a:after{background-color:transparent !important;}
+.cactus-nav-style-3 #mega-menu-item-3189 a{margin: 7px 33px;}
+.sticky-menu #mega-menu-item-3189 a{margin:13px}
+.wall-ads-left{padding-right:20px;padding-top:50px;}
+.wall-ads-right{padding-left:20px;padding-top:50px}
+
+body:not(.home) .wall-ads-control{display:none;}
+.ads-system.page-wrap{padding:0;line-height:0;}
+.ads-system.page-wrap .ads-content{max-width:100%;}
+iframe[name="google_conversion_frame"]{display:none;}
+</style>
+<link rel='stylesheet' id='js_composer_front-css'  href='http://cdn.cactusthemes.com/wp-content/plugins/js_composer/assets/css/js_composer.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='video-js-css'  href='http://cdn.cactusthemes.com/wp-content/plugins/video-embed-thumbnail-generator/video-js/video-js.css' type='text/css' media='all' />
+<link rel='stylesheet' id='video-js-kg-skin-css'  href='http://cdn.cactusthemes.com/wp-content/plugins/video-embed-thumbnail-generator/video-js/kg-video-js-skin.css' type='text/css' media='all' />
+<link rel='stylesheet' id='dashicons-css'  href='http://cdn.cactusthemes.com/wp-includes/css/dashicons.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='kgvid_video_styles-css'  href='http://cdn.cactusthemes.com/wp-content/plugins/video-embed-thumbnail-generator/css/kgvid_styles.css' type='text/css' media='all' />
+<script type='text/javascript' src='http://cdn.cactusthemes.com/wp-includes/js/jquery/jquery.js'></script>
+<script type='text/javascript' src='http://cdn.cactusthemes.com/wp-includes/js/jquery/jquery-migrate.min.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wtilp = {"ajax_url":"http:\/\/videopro.cactusthemes.com\/v2\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://cdn.cactusthemes.com/wp-content/plugins/wti-like-post/js/wti_like_post.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var asf = {"ajaxurl":"http:\/\/videopro.cactusthemes.com\/v2\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://cdn.cactusthemes.com/wp-content/plugins/advance-search-form/searchform.js'></script>
+<script type='text/javascript' src='http://cdn.cactusthemes.com/wp-content/plugins/advance-search-form/jquery.mousewheel.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var BP_Confirm = {"are_you_sure":"Are you sure?"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://cdn.cactusthemes.com/wp-content/plugins/buddypress/bp-core/js/confirm.min.js'></script>
+<script type='text/javascript' src='http://cdn.cactusthemes.com/wp-content/plugins/buddypress/bp-core/js/widget-members.min.js'></script>
+<script type='text/javascript' src='http://cdn.cactusthemes.com/wp-content/plugins/buddypress/bp-core/js/jquery-query.min.js'></script>
+<script type='text/javascript' src='http://cdn.cactusthemes.com/wp-content/plugins/buddypress/bp-core/js/vendor/jquery-cookie.min.js'></script>
+<script type='text/javascript' src='http://cdn.cactusthemes.com/wp-content/plugins/buddypress/bp-core/js/vendor/jquery-scroll-to.min.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var BP_DTheme = {"accepted":"Accepted","close":"Close","comments":"comments","leave_group_confirm":"Are you sure you want to leave this group?","mark_as_fav":"Favorite","my_favs":"My Favorites","rejected":"Rejected","remove_fav":"Remove Favorite","show_all":"Show all","show_all_comments":"Show all comments for this thread","show_x_comments":"Show all comments (%d)","unsaved_changes":"Your profile has unsaved changes. If you leave the page, the changes will be lost.","view":"View"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://cdn.cactusthemes.com/wp-content/plugins/buddypress/bp-templates/bp-legacy/js/buddypress.min.js'></script>
+<script type='text/javascript' src='http://cdn.cactusthemes.com/wp-content/plugins/buddypress/bp-groups/js/widget-groups.min.js'></script>
+<script type='text/javascript' src='http://cdn.cactusthemes.com/wp-content/plugins/easy-tab/tab.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var ajax_tptn_tracker = {"ajax_url":"http:\/\/videopro.cactusthemes.com\/v2\/wp-admin\/admin-ajax.php","top_ten_id":"2723","top_ten_blog_id":"1","activate_counter":"11","tptn_rnd":"758442052"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://cdn.cactusthemes.com/wp-content/plugins/top-10/includes/js/top-10-tracker.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var cactus = {"ajaxurl":"http:\/\/videopro.cactusthemes.com\/v2\/wp-admin\/admin-ajax.php","video_pro_main_color":"#d9251d","query_vars":{"page":0,"pagename":"coming-soon","error":"","m":"","p":0,"post_parent":"","subpost":"","subpost_id":"","attachment":"","attachment_id":0,"name":"coming-soon","static":"","page_id":0,"second":"","minute":"","hour":"","day":0,"monthnum":0,"year":0,"w":0,"category_name":"","tag":"","cat":"","tag_id":"","author":"","author_name":"","feed":"","tb":"","paged":0,"meta_key":"","meta_value":"","preview":"","s":"","sentence":"","title":"","fields":"","menu_order":"","embed":"","category__in":[],"category__not_in":[],"category__and":[],"post__in":[],"post__not_in":[],"post_name__in":[],"tag__in":[],"tag__not_in":[],"tag__and":[],"tag_slug__in":[],"tag_slug__and":[],"post_parent__in":[],"post_parent__not_in":[],"author__in":[],"author__not_in":[],"ignore_sticky_posts":false,"suppress_filters":false,"cache_results":true,"update_post_term_cache":true,"lazy_load_term_meta":true,"update_post_meta_cache":true,"post_type":"","posts_per_page":30,"nopaging":false,"comments_per_page":"50","no_found_rows":false,"order":"DESC"},"current_url":"http:\/\/videopro.cactusthemes.com\/v2\/coming-soon"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://cdn.cactusthemes.com/wp-content/themes/videopro/js/ajax.js'></script>
+<link rel='https://api.w.org/' href='http://videopro.cactusthemes.com/v2/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://videopro.cactusthemes.com/v2/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://cdn.cactusthemes.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.9.7" />
+<link rel="canonical" href="http://videopro.cactusthemes.com/v2/coming-soon/" />
+<link rel='shortlink' href='http://videopro.cactusthemes.com/v2/?p=2723' />
+<link rel="alternate" type="application/json+oembed" href="http://videopro.cactusthemes.com/v2/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fvideopro.cactusthemes.com%2Fv2%2Fcoming-soon%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://videopro.cactusthemes.com/v2/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fvideopro.cactusthemes.com%2Fv2%2Fcoming-soon%2F&#038;format=xml" />
+
+	<script type="text/javascript">var ajaxurl = 'http://videopro.cactusthemes.com/v2/wp-admin/admin-ajax.php';</script>
+
+
+ <!-- OneAll.com / Social Login for WordPress / v5.4.0 -->
+<script data-cfasync="false" type="text/javascript">
+ (function() {
+  var oa = document.createElement('script'); oa.type = 'text/javascript';
+  oa.async = true; oa.src = 'http://videopro.api.oneall.com/socialize/library.js';
+  var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(oa, s);
+ })();
+</script>
+<script src="http://videopro.cactusthemes.com/v2/jwplayer-7.11.1/jwplayer.js"></script>
+<script>jwplayer.key="t4EKMRXMngceIHssSStPYrqqatlzYGbABnSZRA==";</script>
+<style>.jw-preview { background-size: 100% auto !important;}</style><meta name="generator" content="Powered by Visual Composer - drag and drop page builder for WordPress."/>
+<!--[if lte IE 9]><link rel="stylesheet" type="text/css" href="http://cdn.cactusthemes.com/wp-content/plugins/js_composer/assets/css/vc_lte_ie9.min.css" media="screen"><![endif]--><link rel="icon" href="http://cdn.cactusthemes.com/wp-content/uploads/2016/05/cropped-VideoProFavicon-32x32.png" sizes="32x32" />
+<link rel="icon" href="http://cdn.cactusthemes.com/wp-content/uploads/2016/05/cropped-VideoProFavicon-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="http://cdn.cactusthemes.com/wp-content/uploads/2016/05/cropped-VideoProFavicon-180x180.png" />
+<meta name="msapplication-TileImage" content="http://cdn.cactusthemes.com/wp-content/uploads/2016/05/cropped-VideoProFavicon-270x270.png" />
+		<style type="text/css" id="wp-custom-css">
+			.fas.fa-lightbulb:after {
+    content: '\f0eb';
+    font-family: fontawesome;
+    font-style: normal;
+}
+
+#videopro_light_on i {
+    margin-left: 3px;
+}		</style>
+	<noscript><style type="text/css"> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript></head>
+
+<body>
+	<div id="body-wrap">
+    	<div id="wrap">
+        	
+            <div class="comming-soon-wrapper dark-div">
+            	<div class="comming-soon-content">
+                	<div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<p><img class="alignnone size-full wp-image-3039 aligncenter" src="http://cdn.cactusthemes.com/wp-content/uploads/2016/05/01-videopro-logo-dark-1x.png" /></p>
+<p>&nbsp;</p>
+<h1 style="text-align: center;">We are coming soon!</h1>
+<p>&nbsp;</p>
+<p style="text-align: center;">				
+			<span 
+				id="ct-c-timer-3091" 
+				class="countdown-time shortcode"
+				data-years-text		="YEARS"
+				data-months-text	="MONTHS"
+				data-days-text		="DAYS"
+				data-hours-text		="HOURS"
+				data-minutes-text	="MINUTES"
+				data-seconds-text	="SECONDS"
+				
+				data-countdown		="2020/10/10 10:10:10"
+			>
+				Loading...       
+			</span>
+			</p>
+<p style="text-align: center;">We are working very hard on the new version of our site. In the meantime<br />
+sign up to our newsletter and you’ll be one of the first to know when the site is ready:</p>
+<p style="text-align: center;"><div role="form" class="wpcf7" id="wpcf7-f1388-p2723-o1" lang="en-US" dir="ltr">
+<div class="screen-reader-response"></div>
+<form action="/v2/coming-soon/#wpcf7-f1388-p2723-o1" method="post" class="wpcf7-form" novalidate="novalidate">
+<div style="display: none;">
+<input type="hidden" name="_wpcf7" value="1388" />
+<input type="hidden" name="_wpcf7_version" value="5.0.1" />
+<input type="hidden" name="_wpcf7_locale" value="en_US" />
+<input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f1388-p2723-o1" />
+<input type="hidden" name="_wpcf7_container_post" value="2723" />
+</div>
+<p><span class="wpcf7-form-control-wrap email-719"><input type="email" name="email-719" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false" placeholder="Your Email" /></span></p>
+<p><input type="submit" value="SUBSCRIBE" class="wpcf7-form-control wpcf7-submit" /></p>
+<div class="wpcf7-response-output wpcf7-display-none"></div></form></div>
+
+		</div>
+	</div>
+</div></div></div></div>
+<div class="tptn_counter" id="tptn_counter_2723">(Visited 1300 times, 1 visits today)</div>                </div>
+            </div>
+            
+        </div>
+    </div>
+	        <!-- 
+            Lockers: user tracker for visibility filters
+            OnePress, bizpanda.com
+        -->
+        <script>
+            window.__bp_session_timeout = '900';
+            window.__bp_session_freezing = 0;
+            window.bizpanda||(window.bizpanda={}),window.bizpanda.bp_can_store_localy=function(){return!1},window.bizpanda.bp_ut_get_cookie=function(e){for(var n=e+"=",i=document.cookie.split(";"),o=0;o<i.length;o++){for(var t=i[o];" "==t.charAt(0);)t=t.substring(1);if(0==t.indexOf(n))return decodeURIComponent(t.substring(n.length,t.length))}return!1},window.bizpanda.bp_ut_set_cookie=function(e,n,i){var o=new Date;o.setTime(o.getTime()+24*i*60*60*1e3);var t="expires="+o.toUTCString();document.cookie=e+"="+encodeURIComponent(n)+"; "+t+"; path=/"},window.bizpanda.bp_ut_get_obj=function(e){var n=null;if(!(n=window.bizpanda.bp_can_store_localy()?window.localStorage.getItem("bp_ut_session"):window.bizpanda.bp_ut_get_cookie("bp_ut_session")))return!1;n=(n=n.replace(/\-c\-/g,",")).replace(/\-q\-/g,'"');try{n=JSON.parse(n)}catch(e){return!1}return n.started+1e3*e<(new Date).getTime()&&(n=null),n},window.bizpanda.bp_ut_set_obj=function(e,n){e.started&&window.__bp_session_freezing||(e.started=(new Date).getTime()),(e=JSON.stringify(e))&&(e=(e=e.replace(/\"/g,"-q-")).replace(/\,/g,"-c-")),window.bizpanda.bp_can_store_localy()?window.localStorage.setItem("bp_ut_session",e):window.bizpanda.bp_ut_set_cookie("bp_ut_session",e,5e3)},window.bizpanda.bp_ut_count_pageview=function(){var e=window.bizpanda.bp_ut_get_obj(window.__bp_session_timeout);e||(e={}),e.pageviews||(e.pageviews=0),0===e.pageviews&&(e.referrer=document.referrer,e.landingPage=window.location.href,e.pageviews=0),e.pageviews++,window.bizpanda.bp_ut_set_obj(e)},window.bizpanda.bp_ut_count_locker_pageview=function(){var e=window.bizpanda.bp_ut_get_obj(window.__bp_timeout);e||(e={}),e.lockerPageviews||(e.lockerPageviews=0),e.lockerPageviews++,window.bizpanda.bp_ut_set_obj(e)},window.bizpanda.bp_ut_count_pageview();
+        </script>
+        <!-- / -->
+            <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-52179345-9', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 857696998;
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/857696998/?guid=ON&amp;script=0"/>
+</div>
+</noscript>        <script>(function(d, s, id) {
+		  var js, fjs = d.getElementsByTagName(s)[0];
+		  if (d.getElementById(id)) return;
+		  js = d.createElement(s); js.id = id;
+		  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4";
+		  fjs.parentNode.insertBefore(js, fjs);
+		}(document, 'script', 'facebook-jssdk'));</script>   
+		<script type="text/javascript">
+		
+		  (function() {
+			var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+			po.src = 'https://apis.google.com/js/platform.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+		  })();
+		</script>    
+            <div id="sitewide" class="">
+        <p>All purchases are sandbox mode. Use this account: <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="196f707d7c76696b762b597a787a6d6c6a6d717c747c6a377a7674">[email&#160;protected]</a>/12345678 to make payment in Paypal Sandbox Mode.</p>
+        <p>All data will be reset every 48 hours</p>
+    </div>
+    <a id="sitewide-toggle" class="" href="#"><i class="fa fa-lightbulb-o"></i></a>
+    <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type='text/javascript' src='http://cdn.cactusthemes.com/wp-content/themes/videopro-child-demo/js/countdown/jquery.plugin.min.js'></script>
+<script type='text/javascript' src='http://cdn.cactusthemes.com/wp-content/themes/videopro-child-demo/js/countdown/jquery.countdown.js'></script>
+<script type='text/javascript' src='http://cdn.cactusthemes.com/wp-content/themes/videopro-child-demo/js/main.js'></script>
+<script type='text/javascript' src='http://cdn.cactusthemes.com/wp-includes/js/comment-reply.min.js'></script>
+<script type='text/javascript' src='http://cdn.cactusthemes.com/wp-content/plugins/cactus-ads/js/screenfull.js'></script>
+<script type='text/javascript' src='http://cdn.cactusthemes.com/wp-content/plugins/cactus-ads/js/video-ads-management.js'></script>
+<script type='text/javascript' src='http://cdn.cactusthemes.com/wp-content/plugins/cactus-rating/js/main.js'></script>
+<script type='text/javascript' src='http://cdn.cactusthemes.com/wp-content/plugins/cactus-rating/js/wow.min.js'></script>
+<script type='text/javascript' src='http://cdn.cactusthemes.com/wp-content/plugins/cactus-rating/js/jquery.raty-fa.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"http:\/\/videopro.cactusthemes.com\/v2\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"},"recaptcha":{"messages":{"empty":"Please verify that you are not a robot."}}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://cdn.cactusthemes.com/wp-content/plugins/contact-form-7/includes/js/scripts.js'></script>
+<script type='text/javascript' src='http://cdn.cactusthemes.com/wp-content/themes/videopro-child-demo/videopro-child.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var mashmenu = {"ajax_url":"http:\/\/videopro.cactusthemes.com\/v2\/wp-admin\/admin-ajax.php","ajax_loader":"on","ajax_enabled":"0"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://cdn.cactusthemes.com/wp-content/themes/videopro/inc/megamenu/js/mashmenu.js'></script>
+<script type='text/javascript' src='http://cdn.cactusthemes.com/wp-content/themes/videopro/js/smoothscroll.js'></script>
+<script type='text/javascript' src='http://cdn.cactusthemes.com/wp-content/themes/videopro/js/bootstrap-lib.js'></script>
+<script type='text/javascript' src='http://cdn.cactusthemes.com/wp-content/themes/videopro/js/slick.min.js'></script>
+<script type='text/javascript' src='http://cdn.cactusthemes.com/wp-content/themes/videopro/js/jquery.mCustomScrollbar.concat.min.js'></script>
+<script type='text/javascript' src='http://cdn.cactusthemes.com/wp-content/themes/videopro/js/js.cookie.js'></script>
+<script type='text/javascript' src='http://cdn.cactusthemes.com/wp-content/themes/videopro/js/isotope.js'></script>
+<script type='text/javascript' src='http://cdn.cactusthemes.com/wp-content/themes/videopro/js/template.js'></script>
+<script type='text/javascript'>
+
+		if (jQuery(".notification-bell")[0]){
+			(function($){
+				var notificationBoard = function () {
+					$(".notification-bell").toggleClass("arrow");
+					$(".notification-board").toggle();
+				}
+				$(".notification-bell").click(function() {
+					var left = $(".notification-bell").offset().left;
+					var top = $(".notification-bell").offset().top;
+					$(".notification-board").css("top", top + 35);
+					$(".notification-board").css("left", left - 311);
+					notificationBoard();
+				})
+				$(document).click(function(e) {
+					if (!$(".notification-bell").is(e.target) && $(".notification-bell").has(e.target).length === 0 && !$(".notification-board").is(e.target) && $(".notification-board").has(e.target).length === 0 && $(".notification-board").css("display") === "block") {
+						notificationBoard();
+				   }
+				   })
+				$(window).scroll(function() {
+					if($(".notification-board").css("display") === "block") {
+						notificationBoard();
+					}
+				})
+				$(window).resize(function() {
+					var bellLeft = $(".notification-bell").offset().left;
+					var bellTop = $(".notification-bell").offset().top;
+					var boardLeft = $(".notification-board").offset().left;
+						$(".notification-board").css("top", bellTop + 35);
+						$(".notification-board").css("left", bellLeft - 311);
+				})
+			}(jQuery)) }
+</script>
+<script type='text/javascript' src='http://cdn.cactusthemes.com/wp-content/plugins/cactus-actor/js/custom.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var cactusvideo = {"ajaxurl":"http:\/\/videopro.cactusthemes.com\/v2\/wp-admin\/admin-ajax.php","lang":{"confirm_delete_video":"You are about to delete a video. Are you sure?","confirm_delete_playlist":"You are about to delete a playlist. Are you sure?","confirm_delete_channel":"You are about to delete a channel. Are you sure?","please_choose_category":"Please choose a category","please_choose_channel":"Please choose a channel","please_choose_playlist":"Please choose a playlist"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://cdn.cactusthemes.com/wp-content/plugins/cactus-video/js/custom.js'></script>
+<script type='text/javascript' src='http://cdn.cactusthemes.com/wp-content/plugins/cactus-video/js/lightbox/lightbox.js'></script>
+<script type='text/javascript' src='http://cdn.cactusthemes.com/wp-content/plugins/cactus-video/js/lazysizes.min.js'></script>
+<script type='text/javascript' src='http://cdn.cactusthemes.com/wp-content/plugins/cactus-buy-button/js/cactus-buy-button.js'></script>
+<script type='text/javascript' src='http://cdn.cactusthemes.com/wp-content/plugins/cactus-buy-button/js/cactus-demo.js'></script>
+<script type='text/javascript' src='http://cdn.cactusthemes.com/wp-content/plugins/videopro-shortcodes/shortcodes/js/priority-nav/priority-nav.min.js'></script>
+<script type='text/javascript' src='http://cdn.cactusthemes.com/wp-content/plugins/videopro-shortcodes/shortcodes/js/shortcode.js'></script>
+<script type='text/javascript' src='http://cdn.cactusthemes.com/wp-content/plugins/videopro-shortcodes/shortcodes/library/touchswipe/jquery.touchSwipe.min.js'></script>
+<script type='text/javascript' src='http://cdn.cactusthemes.com/wp-includes/js/wp-embed.min.js'></script>
+<script type='text/javascript' src='http://cdn.cactusthemes.com/wp-content/plugins/js_composer/assets/js/dist/js_composer_front.min.js'></script>
+    <svg xmlns="http://www.w3.org/2000/svg" style="display: none;">
+      <symbol id="ct-icon-star-two" viewBox="0 0 512 512">
+        <path d="m494 185c0 4-3 9-8 14l-103 101l24 143c0 1 0 3 0 5c0 4-1 8-3 10c-2 3-4 5-8 5c-4 0-8-2-12-4l-128-67l-128 67c-4 2-8 4-12 4c-4 0-7-2-9-5c-2-2-3-6-3-10c0-1 0-3 1-5l24-143l-104-101c-4-6-7-10-7-14c0-7 6-12 16-13l144-21l64-130c4-8 8-12 14-12c6 0 10 4 14 12l64 130l144 21c10 1 16 6 16 13z"/>
+      </symbol>
+    </svg>
+
+    <div class="cactus-widget-demo">
+      <!--btn open-->
+      <div class="cactus-button-open">
+        <svg class="ct-icon-star-two">
+          <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#ct-icon-star-two"></use>
+        </svg>
+        <span>DEMOS</span>
+      </div>
+      <!--btn open-->
+
+      <div class="cactus-buy-button">
+        <a href="https://themeforest.net/item/videopro-video-wordpress-theme/16677956?ref=cactusthemes" target="_blank" class="cactus-btn-buy">Buy Now</a>
+      </div>
+
+      <div class="cactus-content-scroll">
+		<p class="desc">VideoPro has more features than you can imagine. In addition, it is highly customizabe and extensible</p>
+
+        <div class="cactus-content-body">
+
+          <div class="cactus-group-demo">
+            
+            <div class="cactus-group-content">
+
+              <div class="cactus-item">
+                <a href="http://videopro.cactusthemes.com/v1/" target="_blank" class="cactus-item-content" title="Default Demo">
+                  <img src="http://cdn.cactusthemes.com/wp-content/plugins/cactus-buy-button/img/entertainment.jpg" alt="Default Demo">
+
+                  <div>V1 - Default</div>
+                </a>
+              </div>
+              <div class="cactus-item">
+                <a href="http://videopro.cactusthemes.com/v2/" target="_blank" class="cactus-item-content" title="VideoPro Membership & Community Features">
+                  <img style="margin:15px 0 20px 0" src="http://cdn.cactusthemes.com/wp-content/plugins/cactus-buy-button/img/videopro-v2.jpg" alt="VideoPro Membership & Community Features">
+
+                  <div>V2 - Membership</div>
+                </a>
+              </div>
+              <div class="cactus-item">
+                <a href="http://videopro.cactusthemes.com/poster" target="_blank" class="cactus-item-content" title="Poster Movie Site">
+                  <img src="http://cdn.cactusthemes.com/wp-content/plugins/cactus-buy-button/img/poster.jpg" alt="Poster Movie Site">
+
+                  <div>Poster Movie</div>
+                </a>
+              </div>
+              <div class="cactus-item">
+                <a href="http://videopro.cactusthemes.com/cooking" target="_blank" class="cactus-item-content" title="Cooking Demo">
+                  <img src="http://cdn.cactusthemes.com/wp-content/plugins/cactus-buy-button/img/cooking.jpg" alt="Cooking Demo">
+
+                  <div>Cooking</div>
+                </a>
+              </div>
+            </div>
+          </div>
+
+        </div>
+		<p class="desc">Have a pre-sale question? <a href="https://themeforest.net/user/cactusthemes" target="_blank">Inbox us</a> now</p>
+      </div>
+    </div>
+         
+</body>
+</html>

@@ -1,0 +1,65 @@
+#!/usr/bin/env node
+const { Entry, Platform, sequelize } = require('./db/models')
+const { 2: username, 3: platform, 4: password } = process.argv
+
+if (process.argv.length < 5) {
+  console.log('You must enter user name, platform, and password')
+  console.log('Ex. setpass {username} {platform} {password}')
+  return
+}
+
+
+
+async function findEntry() {
+
+  // check to see if username / platform combo is in database already
+  let checkInDatabaseAlready = await Entry.findAll({
+    include: [{
+      model: Platform,
+      where: { name: platform.toLowerCase() }
+    }],
+    where: { username }
+  })
+
+  if (checkInDatabaseAlready.length !== 0) {
+    console.log('Username and Platform are already in database')
+    return await sequelize.close()
+  }
+
+  // check to see if the platform is in the system
+  let platformInput = await Platform.findAll({
+    where: { name: platform.toLowerCase() }
+  })
+
+  // if the inputted platform is not already in database, create platform and entry.
+  if (platformInput.length === 0) {
+    console.log('need to create platform!')
+    platformInput = await Platform.create({
+      name: platform.toLowerCase()
+    })
+
+    await Entry.create({
+      username,
+      password,
+      platformId: platformInput.id
+    })
+
+    console.log(`Password created for ${username} on ${platform}. Password: ${password}`)
+    return await sequelize.close
+  }
+
+  // if platform was already in the database, create entry
+  await Entry.create({
+    username,
+    password,
+    platformId: platformInput[0].id
+  })
+
+  console.log(`Password created for ${username} on ${platform}. Password: ${password}`)
+
+
+    await sequelize.close()
+
+  }
+
+  findEntry()

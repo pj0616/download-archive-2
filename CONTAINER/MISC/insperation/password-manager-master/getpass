@@ -1,0 +1,34 @@
+#!/usr/bin/env node
+const {Entry, Platform, sequelize } = require('./db/models')
+const { 2: username, 3: platform } = process.argv
+
+
+if (process.argv.length < 4) {
+  console.log('You must enter user name and platform')
+  console.log('Ex. getpass {username} {platform}')
+  return
+}
+
+
+
+async function findEntry() {
+
+  // check to see if username / platform combo is in database already
+  let checkInDatabaseAlready = await Entry.findAll({
+    include: [{
+      model: Platform,
+      where: { name: platform.toLowerCase() }
+    }],
+    where: { username }
+  })
+
+  if (checkInDatabaseAlready.length !== 0) {
+    console.log(`Password for ${username} on ${platform}: ${checkInDatabaseAlready[0].password}}`)
+    return await sequelize.close()
+  }
+
+  console.log('Sorry, this username and platform not found')
+  return await sequelize.close()
+}
+
+findEntry()

@@ -1,0 +1,1 @@
+I’m a software developer from Dublin, Ireland. I’m one half of Feral and another half of Backstage. This site is running Craft 3 CMS, hosted on Digital Ocean and has FastCGI and making use of a Digital Ocean Spaces CDN.

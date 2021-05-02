@@ -1,0 +1,67 @@
+# [Python](https://www.python.org)
+
+## Links
+
+- [Python 3 cheat sheet](https://perso.limsi.fr/pointal/_media/python:cours:mementopython3-english.pdf)
+- [Pyre Check](https://github.com/facebook/pyre-check) - Performant type-checking for python.
+- [Optional Static Typing for Python - Guido van Rossum (2018)](https://www.youtube.com/watch?v=GiZKuyLKvAA)
+- [WTF Python](https://github.com/satwikkansal/wtfpython#readme)
+- [My Python Development Environment, 2020 Edition (2019)](https://jacobian.org/2019/nov/11/python-environment-2020/) ([HN](https://news.ycombinator.com/item?id=21510262))
+- [Python 3 with pleasure](https://github.com/arogozhnikov/python3_with_pleasure#readme)
+- [The Hitchhiker’s Guide to Python!](http://docs.python-guide.org/en/latest/)
+- [Structuring Your Python Project](http://docs.python-guide.org/en/latest/writing/structure/)
+- [Awesome Python Features Explained Using Harry Potter](https://github.com/zotroneneis/harry_potter_universe#readme)
+- [Learn python](https://github.com/trekhleb/learn-python#readme) - Playground and cheatsheet for learning Python.
+- [Py-Spy](https://github.com/benfred/py-spy#readme) - Sampling profiler for Python programs.
+- [Profiling](https://github.com/what-studio/profiling) - Interactive continuous Python profiler.
+- [Pytype](https://github.com/google/pytype) - Static analyzer for Python code.
+- [gpython](https://github.com/go-python/gpython) - Python interpreter written in Go "batteries not included".
+- [RustPython](https://github.com/RustPython/RustPython) - Python Interpreter written in Rust.
+- [Comprehensive Python Cheatsheet](https://github.com/gto76/python-cheatsheet#readme)
+- [Awesome Python Security resources](https://github.com/guardrailsio/awesome-python-security#readme)
+- [Pyright](https://github.com/Microsoft/pyright) - Static type checker for the Python language.
+- [cpython](https://github.com/python/cpython) - Python programming language source code.
+- [PySnooper](https://github.com/cool-RR/PySnooper) - Never use print for debugging again.
+- [Python at Netflix (2019)](https://medium.com/netflix-techblog/python-at-netflix-bba45dae649e)
+- [Things you’re probably not using in Python 3 – but should (2019)](https://datawhatnow.com/things-you-are-probably-not-using-in-python-3-but-should/) ([HN](https://news.ycombinator.com/item?id=19916089))
+- [Black](https://github.com/python/black) - Uncompromising Python code formatter. ([HN](https://news.ycombinator.com/item?id=19939806))
+- [Amber Brown: Batteries Included, But They're Leaking](http://pyfound.blogspot.com/2019/05/amber-brown-batteries-included-but.html) ([HN](https://news.ycombinator.com/item?id=19948642))
+- [Pysheeet](https://github.com/crazyguitar/pysheeet) - Python Cheat Sheet.
+- [PyOxidizer](https://github.com/indygreg/PyOxidizer) - Modern Python application packaging and distribution tool.
+- [isort](https://github.com/timothycrosley/isort) - Python utility / library to sort imports.
+- [What's coming in Python 3.8](https://lwn.net/SubscriberLink/793818/0c6f9dd271021cd4/) ([HN](https://news.ycombinator.com/item?id=20463170))
+- [Python Handout](https://github.com/danijar/handout) - Turn Python scripts into handouts with Markdown and figures.
+- [HN: Python Is Eating the World (2019)](https://news.ycombinator.com/item?id=20672051)
+- [Your Guide to the CPython Source Code (2019)](https://realpython.com/cpython-source-code-guide/)
+- [30 seconds of python](https://github.com/30-seconds/30-seconds-of-python) - Curated collection of useful Python snippets that you can understand in 30 seconds or less.
+- [ptpython](https://github.com/prompt-toolkit/ptpython) - Better Python REPL.
+- [cython](https://cython.org/) - Optimising static compiler for both the Python programming language and the extended Cython programming language (based on Pyrex).
+- [Ask HN: How do you handle/maintain local Python environments? (2019)](https://news.ycombinator.com/item?id=21054462)
+- [CVXPY](https://github.com/cvxgrp/cvxpy) - Python-embedded modeling language for convex optimization problems.
+- [Pythran](https://github.com/serge-sans-paille/pythran) - Ahead of time compiler for a subset of the Python language, with a focus on scientific computing.
+- [How to Python in VS Code](https://py-vscode.readthedocs.io/en/latest/)
+- [Airspeed Velocity](https://github.com/airspeed-velocity/asv) - Primarily designed to benchmark a single project over its lifetime using a given suite of benchmarks.
+- [New features planned for Python 4.0 satire](http://charlesleifer.com/blog/new-features-planned-for-python-4-0/)
+- [Instant-feedback, instant-debugging Python coding (2019)](https://2019.pycon-au.org/talks/instant-feedback-instant-debugging-python-coding)
+- [HN: What’s New in Python 3.8 (2019)](https://news.ycombinator.com/item?id=21252784)
+- [A Talk Near the Future of Python (2019)](https://www.youtube.com/watch?v=r-A78RgMhZU)
+- [Pyinstrument](https://github.com/joerick/pyinstrument) - Call stack profiler for Python. Shows you why your code is slow.
+- [reloading](https://github.com/julvo/reloading) - Python utility to reload a loop body from source on each iteration without losing state.
+- [Static Analysis at Scale: An Instagram Story (2019)](https://instagram-engineering.com/static-analysis-at-scale-an-instagram-story-8f498ab71a0c)
+- [Python Type Checking course](https://realpython.com/courses/python-type-checking/)
+- [Python Enhancement Proposals](https://github.com/python/peps)
+- [Cool Python features for machine learning that I used to be too afraid to use](https://github.com/chiphuyen/python-is-cool)
+- [Python: better typed than you think (2019)](https://beepb00p.xyz/mypy-error-handling.html)
+- [hython](https://github.com/mattgreen/hython) - Haskell-powered Python 3 interpreter. ([Article](http://callcc.io/hython-the-simplest-possible-language/))
+- [Python -> Speed blog](https://pythonspeed.com/) - Learn tools and techniques to help you ship better Python software, faster.
+- [pipx](https://github.com/pipxproject/pipx) - Install and Run Python Applications in Isolated Environments.
+- [pyperf](https://github.com/vstinner/pyperf) - Toolkit to run Python benchmarks.
+- [All Algorithms implemented in Python](https://github.com/TheAlgorithms/Python)
+- [Flit](https://github.com/takluyver/flit) - Simplified packaging of Python modules.
+- [Python debugger package for use with Visual Studio and Visual Studio Code](https://github.com/microsoft/ptvsd)
+- [Pyflame](https://github.com/uber/pyflame) - Ptracing Profiler For Python.
+- [Classic Computer Science Problems in Python book (2019)](https://www.manning.com/books/classic-computer-science-problems-in-python)
+- [PyInstaller](https://github.com/pyinstaller/pyinstaller) - Freeze (package) Python programs into stand-alone executables.
+- [Structuring Your Project](https://docs.python-guide.org/writing/structure/) ([HN](https://news.ycombinator.com/item?id=21732821))
+- [Pympler](https://github.com/pympler/pympler) - Development tool to measure, monitor and analyze the memory behavior of Python objects in a running Python application.
+- [Poetry](https://github.com/python-poetry/poetry) - Python dependency management and packaging made easy.

@@ -1,0 +1,1744 @@
+<!DOCTYPE html>
+<!--[if IE 7]>
+<html class="ie ie7" lang="en-US">
+<![endif]-->
+<!--[if IE 8]>
+<html class="ie ie8" lang="en-US">
+<![endif]-->
+<!--[if !(IE 7) | !(IE 8)  ]>-->
+<html lang="en-US">
+<!--<![endif]--><head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="profile" href="http://gmpg.org/xfn/11">
+<link rel="pingback" href="http://videopro.cactusthemes.com/v2/xmlrpc.php">
+<meta name="description" content="The most powerful video WordPress theme"/><title>Actors List &#8211; VideoPro</title>
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="VideoPro &raquo; Feed" href="http://videopro.cactusthemes.com/v2/feed/" />
+<link rel="alternate" type="application/rss+xml" title="VideoPro &raquo; Comments Feed" href="http://videopro.cactusthemes.com/v2/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.4\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.4\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/videopro.cactusthemes.com\/v2\/wp-includes\/js\/wp-emoji-release.min.js"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55357,56692,8205,9792,65039],[55357,56692,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='wti_like_post_style-css'  href='http://cdn.cactusthemes.com/wp-content/plugins/wti-like-post/css/wti_like_post.css' type='text/css' media='all' />
+<link rel='stylesheet' id='bp-parent-css-css'  href='http://cdn.cactusthemes.com/wp-content/themes/videopro/css/buddypress.css' type='text/css' media='screen' />
+<link rel='stylesheet' id='video-ads-management-css'  href='http://cdn.cactusthemes.com/wp-content/plugins/cactus-ads/css/video-ads-management.css' type='text/css' media='all' />
+<link rel='stylesheet' id='truemag-rating-css'  href='http://cdn.cactusthemes.com/wp-content/plugins/cactus-rating//css/style.css' type='text/css' media='all' />
+<link rel='stylesheet' id='animate-css'  href='http://cdn.cactusthemes.com/wp-content/plugins/cactus-rating/css/animate.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='http://cdn.cactusthemes.com/wp-content/plugins/contact-form-7/includes/css/styles.css' type='text/css' media='all' />
+<link rel='stylesheet' id='easy-tab-css'  href='http://cdn.cactusthemes.com/wp-content/plugins/easy-tab/tab.css' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-pagenavi-css'  href='http://cdn.cactusthemes.com/wp-content/plugins/wp-pagenavi/pagenavi-css.css' type='text/css' media='all' />
+<link rel='stylesheet' id='videopro-parent-css'  href='http://cdn.cactusthemes.com/wp-content/themes/videopro/style.css' type='text/css' media='all' />
+<link rel='stylesheet' id='mashmenu-css-css'  href='http://cdn.cactusthemes.com/wp-content/themes/videopro/inc/megamenu/css/mashmenu.css' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-2-css'  href='http://videopro.cactusthemes.com/v2/wp-content/themes/videopro/css/font-awesome/css/font-awesome.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='slick-css'  href='http://cdn.cactusthemes.com/wp-content/themes/videopro/css/slick.css' type='text/css' media='all' />
+<link rel='stylesheet' id='malihu-scroll-css'  href='http://cdn.cactusthemes.com/wp-content/themes/videopro/css/jquery.mCustomScrollbar.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='videopro-style-css'  href='http://cdn.cactusthemes.com/wp-content/themes/videopro-child-demo/style.css' type='text/css' media='all' />
+<link rel='stylesheet' id='videopro-pre-loaders-css'  href='http://cdn.cactusthemes.com/wp-content/themes/videopro/css/loaders.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='videopro-membership-css'  href='http://cdn.cactusthemes.com/wp-content/themes/videopro/css/membership.css' type='text/css' media='all' />
+<link rel='stylesheet' id='cactus-video-css-css'  href='http://cdn.cactusthemes.com/wp-content/plugins/cactus-video/css/main.css' type='text/css' media='all' />
+<link rel='stylesheet' id='videopro-lightbox-style-css'  href='http://cdn.cactusthemes.com/wp-content/plugins/cactus-video/js/lightbox/lightbox.css' type='text/css' media='all' />
+<link rel='stylesheet' id='cactus-buy-button-css'  href='http://cdn.cactusthemes.com/wp-content/plugins/cactus-buy-button/css/cactus-buy-button.css' type='text/css' media='all' />
+<link rel='stylesheet' id='cactus-widget-demo-css'  href='http://cdn.cactusthemes.com/wp-content/plugins/cactus-buy-button/css/cactus-demo.css' type='text/css' media='all' />
+<link rel='stylesheet' id='ct-priority-nav-css'  href='http://cdn.cactusthemes.com/wp-content/plugins/videopro-shortcodes/shortcodes/js/priority-nav/priority-nav-core.css' type='text/css' media='all' />
+<link rel='stylesheet' id='ct_shortcode_style-css'  href='http://cdn.cactusthemes.com/wp-content/plugins/videopro-shortcodes/shortcodes/css/shortcode.css' type='text/css' media='all' />
+<style id='ct_shortcode_style-inline-css' type='text/css'>
+@media only screen and (-webkit-min-device-pixel-ratio: 2),(min-resolution: 192dpi) {
+					/* Retina Logo */
+					.primary-header .cactus-logo.navigation-font a{background:url(http://cdn.cactusthemes.com/wp-content/uploads/2016/05/02-videopro-logo-dark-2x.png) no-repeat center; background-size:contain;}
+					.primary-header .cactus-logo.navigation-font a img{ opacity:0; visibility:hidden}
+				}img.gform_ajax_spinner{background:url(http://cdn.cactusthemes.com/wp-content/themes/videopro/images/ajax-loader.gif);}.cactus-submit-video a{background-color:#D9251D !important;color:#FFFFFF !important;}.cactus-submit-video a:hover{background-color:#999999 !important;color:#FFFFFF !important;}#mega-menu-item-3189 a{    
+    padding: 5px 10px;
+    margin: 33px;
+    background: #F5EB4E;
+    border-radius: 3px;
+    color: #000;
+}
+.type-bp_group #item-header-cover-image { z-index: -1;}
+#mega-menu-item-3189:hover a:after,#mega-menu-item-3189.current-menu-item > a:after{background-color:transparent !important;}
+.cactus-nav-style-3 #mega-menu-item-3189 a{margin: 7px 33px;}
+.sticky-menu #mega-menu-item-3189 a{margin:13px}
+.wall-ads-left{padding-right:20px;padding-top:50px;}
+.wall-ads-right{padding-left:20px;padding-top:50px}
+
+body:not(.home) .wall-ads-control{display:none;}
+.ads-system.page-wrap{padding:0;line-height:0;}
+.ads-system.page-wrap .ads-content{max-width:100%;}
+iframe[name="google_conversion_frame"]{display:none;}
+</style>
+<link rel='stylesheet' id='js_composer_front-css'  href='http://cdn.cactusthemes.com/wp-content/plugins/js_composer/assets/css/js_composer.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='video-js-css'  href='http://cdn.cactusthemes.com/wp-content/plugins/video-embed-thumbnail-generator/video-js/video-js.css' type='text/css' media='all' />
+<link rel='stylesheet' id='video-js-kg-skin-css'  href='http://cdn.cactusthemes.com/wp-content/plugins/video-embed-thumbnail-generator/video-js/kg-video-js-skin.css' type='text/css' media='all' />
+<link rel='stylesheet' id='dashicons-css'  href='http://cdn.cactusthemes.com/wp-includes/css/dashicons.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='kgvid_video_styles-css'  href='http://cdn.cactusthemes.com/wp-content/plugins/video-embed-thumbnail-generator/css/kgvid_styles.css' type='text/css' media='all' />
+<script type='text/javascript' src='http://cdn.cactusthemes.com/wp-includes/js/jquery/jquery.js'></script>
+<script type='text/javascript' src='http://cdn.cactusthemes.com/wp-includes/js/jquery/jquery-migrate.min.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wtilp = {"ajax_url":"http:\/\/videopro.cactusthemes.com\/v2\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://cdn.cactusthemes.com/wp-content/plugins/wti-like-post/js/wti_like_post.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var asf = {"ajaxurl":"http:\/\/videopro.cactusthemes.com\/v2\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://cdn.cactusthemes.com/wp-content/plugins/advance-search-form/searchform.js'></script>
+<script type='text/javascript' src='http://cdn.cactusthemes.com/wp-content/plugins/advance-search-form/jquery.mousewheel.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var BP_Confirm = {"are_you_sure":"Are you sure?"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://cdn.cactusthemes.com/wp-content/plugins/buddypress/bp-core/js/confirm.min.js'></script>
+<script type='text/javascript' src='http://cdn.cactusthemes.com/wp-content/plugins/buddypress/bp-core/js/widget-members.min.js'></script>
+<script type='text/javascript' src='http://cdn.cactusthemes.com/wp-content/plugins/buddypress/bp-core/js/jquery-query.min.js'></script>
+<script type='text/javascript' src='http://cdn.cactusthemes.com/wp-content/plugins/buddypress/bp-core/js/vendor/jquery-cookie.min.js'></script>
+<script type='text/javascript' src='http://cdn.cactusthemes.com/wp-content/plugins/buddypress/bp-core/js/vendor/jquery-scroll-to.min.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var BP_DTheme = {"accepted":"Accepted","close":"Close","comments":"comments","leave_group_confirm":"Are you sure you want to leave this group?","mark_as_fav":"Favorite","my_favs":"My Favorites","rejected":"Rejected","remove_fav":"Remove Favorite","show_all":"Show all","show_all_comments":"Show all comments for this thread","show_x_comments":"Show all comments (%d)","unsaved_changes":"Your profile has unsaved changes. If you leave the page, the changes will be lost.","view":"View"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://cdn.cactusthemes.com/wp-content/plugins/buddypress/bp-templates/bp-legacy/js/buddypress.min.js'></script>
+<script type='text/javascript' src='http://cdn.cactusthemes.com/wp-content/plugins/buddypress/bp-groups/js/widget-groups.min.js'></script>
+<script type='text/javascript' src='http://cdn.cactusthemes.com/wp-content/plugins/easy-tab/tab.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var ajax_tptn_tracker = {"ajax_url":"http:\/\/videopro.cactusthemes.com\/v2\/wp-admin\/admin-ajax.php","top_ten_id":"2415","top_ten_blog_id":"1","activate_counter":"11","tptn_rnd":"1228271780"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://cdn.cactusthemes.com/wp-content/plugins/top-10/includes/js/top-10-tracker.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var cactus = {"ajaxurl":"http:\/\/videopro.cactusthemes.com\/v2\/wp-admin\/admin-ajax.php","video_pro_main_color":"#d9251d","query_vars":{"page":0,"pagename":"actors-list","error":"","m":"","p":0,"post_parent":"","subpost":"","subpost_id":"","attachment":"","attachment_id":0,"name":"actors-list","static":"","page_id":0,"second":"","minute":"","hour":"","day":0,"monthnum":0,"year":0,"w":0,"category_name":"","tag":"","cat":"","tag_id":"","author":"","author_name":"","feed":"","tb":"","paged":0,"meta_key":"","meta_value":"","preview":"","s":"","sentence":"","title":"","fields":"","menu_order":"","embed":"","category__in":[],"category__not_in":[],"category__and":[],"post__in":[],"post__not_in":[],"post_name__in":[],"tag__in":[],"tag__not_in":[],"tag__and":[],"tag_slug__in":[],"tag_slug__and":[],"post_parent__in":[],"post_parent__not_in":[],"author__in":[],"author__not_in":[],"ignore_sticky_posts":false,"suppress_filters":false,"cache_results":true,"update_post_term_cache":true,"lazy_load_term_meta":true,"update_post_meta_cache":true,"post_type":"","posts_per_page":30,"nopaging":false,"comments_per_page":"50","no_found_rows":false,"order":"DESC"},"current_url":"http:\/\/videopro.cactusthemes.com\/v2\/actors-list"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://cdn.cactusthemes.com/wp-content/themes/videopro/js/ajax.js'></script>
+<link rel='https://api.w.org/' href='http://videopro.cactusthemes.com/v2/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://videopro.cactusthemes.com/v2/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://cdn.cactusthemes.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.9.7" />
+<link rel="canonical" href="http://videopro.cactusthemes.com/v2/actors-list/" />
+<link rel='shortlink' href='http://videopro.cactusthemes.com/v2/?p=2415' />
+<link rel="alternate" type="application/json+oembed" href="http://videopro.cactusthemes.com/v2/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fvideopro.cactusthemes.com%2Fv2%2Factors-list%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://videopro.cactusthemes.com/v2/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fvideopro.cactusthemes.com%2Fv2%2Factors-list%2F&#038;format=xml" />
+
+	<script type="text/javascript">var ajaxurl = 'http://videopro.cactusthemes.com/v2/wp-admin/admin-ajax.php';</script>
+
+
+ <!-- OneAll.com / Social Login for WordPress / v5.4.0 -->
+<script data-cfasync="false" type="text/javascript">
+ (function() {
+  var oa = document.createElement('script'); oa.type = 'text/javascript';
+  oa.async = true; oa.src = 'http://videopro.api.oneall.com/socialize/library.js';
+  var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(oa, s);
+ })();
+</script>
+<script src="http://videopro.cactusthemes.com/v2/jwplayer-7.11.1/jwplayer.js"></script>
+<script>jwplayer.key="t4EKMRXMngceIHssSStPYrqqatlzYGbABnSZRA==";</script>
+<style>.jw-preview { background-size: 100% auto !important;}</style><meta name="generator" content="Powered by Visual Composer - drag and drop page builder for WordPress."/>
+<!--[if lte IE 9]><link rel="stylesheet" type="text/css" href="http://cdn.cactusthemes.com/wp-content/plugins/js_composer/assets/css/vc_lte_ie9.min.css" media="screen"><![endif]--><link rel="icon" href="http://cdn.cactusthemes.com/wp-content/uploads/2016/05/cropped-VideoProFavicon-32x32.png" sizes="32x32" />
+<link rel="icon" href="http://cdn.cactusthemes.com/wp-content/uploads/2016/05/cropped-VideoProFavicon-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="http://cdn.cactusthemes.com/wp-content/uploads/2016/05/cropped-VideoProFavicon-180x180.png" />
+<meta name="msapplication-TileImage" content="http://cdn.cactusthemes.com/wp-content/uploads/2016/05/cropped-VideoProFavicon-270x270.png" />
+		<style type="text/css" id="wp-custom-css">
+			.fas.fa-lightbulb:after {
+    content: '\f0eb';
+    font-family: fontawesome;
+    font-style: normal;
+}
+
+#videopro_light_on i {
+    margin-left: 3px;
+}		</style>
+	<style type="text/css" data-type="vc_shortcodes-custom-css">.vc_custom_1468914671877{margin-top: 30px !important;}</style><noscript><style type="text/css"> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript></head>
+<body class="bp-legacy page-template-default page page-id-2415 ms-guest ms-3462 enable-sticky-menu  behavior-down sidebar-0 layout-boxed wpb-js-composer js-comp-ver-5.0.1 vc_responsive no-js">
+<div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v6.0&appId=498927376861973&autoLogAppEvents=1"></script>
+<a name="top" style="height:0; position:absolute; top:0;" id="top"></a>
+<div id="body-wrap" data-background=" url(http://cdn.cactusthemes.com/wp-content/uploads/2016/10/rubber_grip.png)  repeat  " class="cactus-box  ">
+    <div id="wrap">
+    	        <div class="ads-system page-wrap">
+            <div class="ads-content">
+            <img src="http://cdn.cactusthemes.com/wp-content/uploads/2017/03/banner-small.jpg"/>            </div>
+        </div>
+                <header id="header-navigation">
+    	<!--Navigation style-->
+<div class="cactus-nav-control  cactus-nav-style-3">
+    
+		     <div class="cactus-nav-main dark-div  dark-bg-color-1" >
+        
+        <div class="cactus-container padding-30px ">
+            
+            <div class="cactus-row magin-30px">
+                
+                <!--nav left-->
+                <div class="cactus-nav-left">
+                    <!--logo-->
+                    <div class="cactus-logo navigation-font">
+                    	                        <a href="http://videopro.cactusthemes.com/v2/">
+                        	<img src="http://cdn.cactusthemes.com/wp-content/uploads/2016/05/01-videopro-logo-dark-1x.png" alt="VideoPro" title="VideoPro" class="cactus-img-logo">
+                            
+                                                        <img src="http://cdn.cactusthemes.com/wp-content/uploads/2016/05/01-videopro-logo-dark-1x.png" alt="VideoPro" title="VideoPro" class="cactus-img-logo cactus-img-sticky">
+                                                    </a>
+                    </div><!--logo-->
+                    
+                    <div class="cactus-main-menu cactus-open-left-sidebar right-logo navigation-font">
+                        <ul>
+                          <li><a href="javascript:;"><span></span><span></span><span></span></a></li>
+                        </ul>
+                    </div>
+                                        <!--header search-->
+                    <div class="cactus-header-search-form search-box-expandable">
+                    	<aside id="advance_search_form-2" class="   widget widget-asf"><style>#advance_search_form-2 .ct-sub-w-title{color:FFFFFF !important; background:FF0000 !important}</style><div class="widget-inner">
+		<div class="cactus-main-menu cactus-open-search-mobile navigation-font">
+    <ul>
+      <li><a href="javascript:;"><i class="fa fa-search"></i></a></li>
+    </ul>
+</div>
+                            <form role="search" onsubmit="if(jQuery('.ss',jQuery(this)).val() == '' || jQuery('.ss',jQuery(this)).val() == '') return false;" method="get" id="searchform" action="http://videopro.cactusthemes.com/v2/">
+	<div>
+				
+					        
+        <span class="searchtext">
+            <input type="text" value="" onfocus="if(this.value == '') this.value = '';" onblur="if(this.value == '') this.value=''" name="s" class="ss"  autocomplete="off" placeholder="Enter Keyword"/>
+                        <span class="suggestion"><!-- --></span>
+                        <i class="fa fa-search" aria-hidden="true"></i>
+		</span>
+		
+					<input type="hidden" name="video_only" value="1" />
+					</div>
+</form>
+</div></aside>                    </div><!--header search-->
+                                    </div> <!--nav left-->
+                
+                <!--nav right-->
+                <div class="cactus-nav-right">
+                    <div class="cactus-main-menu cactus-open-menu-mobile navigation-font">
+                        <ul>
+                          <li><a href="javascript:;"><i class="fa fa-bars"></i>MENU</a></li>
+                        </ul>
+                    </div>
+                    	<div class="cactus-submit-video">
+    				<!--<style>
+                .cactus-submit-video a {background-color:##D9251D !important; color:##FFFFFF !important;}
+                .cactus-submit-video a:hover{background-color:##999999 !important; color:##FFFFFF !important;}
+            </style>-->
+            	
+		<a href="#" data-toggle="modal" data-target="#videopro_submit_form" class="btn btn-user-submit btn-default bt-style-1 padding-small " data-type="">        	
+        	<span>Submit Video</span>
+        </a>
+	</div>
+	
+					                    <div class="cactus-main-menu cactus-user-login navigation-font">
+                        <ul>                	                 
+                            <li>   
+                                                                      
+                                    <a href="http://videopro.cactusthemes.com/v2/account-2/?redirect_to=http%3A%2F%2Fvideopro.cactusthemes.com%2Fv2%2Factors-list"><i class="fa fa-user"></i>&nbsp;Login</a>
+                                                                                                </li>                                       
+                        </ul>
+                    </div>
+						
+                </div><!--nav right-->
+                            </div>
+            
+        </div>
+        
+    </div>
+    
+</div>
+<div class="cactus-nav-control  cactus-nav-style-3">  <!--add Class: cactus-nav-style-3-->
+    <div class="cactus-nav-main dark-div dark-bg-color-1">
+        
+        <div class="cactus-container padding-30px ">
+            
+            <!--Menu Down-->
+            <div class="cactus-row magin-30px">
+                <!--nav left-->
+                <div class="cactus-nav-left cactus-only-main-menu">
+                    <!--main menu / megamenu / Basic dropdown-->                                  
+                    <div class="cactus-main-menu navigation-font">
+                                            <ul class="nav navbar-nav">
+                            <li id="mega-menu-item-1589" class=" menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children parent level0 has-sub dropdown main-menu-item list-style"><a href="#"><i class="fa fa-home"></i> Home</a>
+<ul class="sub-menu dropdown-menu sub-menu-list level0">
+<li class="menu-item level2  menu-item menu-item-type-post_type menu-item-object-page level1"><a href="http://videopro.cactusthemes.com/v2/home-page-v1/">Home Page V1</a></li><li class="menu-item level2  menu-item menu-item-type-post_type menu-item-object-page level1"><a href="http://videopro.cactusthemes.com/v2/home-page-v2/">Home Page V2</a></li><li class="menu-item level2  menu-item menu-item-type-post_type menu-item-object-page level1"><a href="http://videopro.cactusthemes.com/v2/home-page-v3/">Home Page V3</a></li><li class="menu-item level2  menu-item menu-item-type-post_type menu-item-object-page level1"><a href="http://videopro.cactusthemes.com/v2/home-page-v4/">Home Page V4</a></li><li class="menu-item level2  menu-item menu-item-type-post_type menu-item-object-page level1"><a href="http://videopro.cactusthemes.com/v2/home-page-v5/">Home Page V5</a></li><li class="menu-item level2  menu-item menu-item-type-post_type menu-item-object-page menu-item-home level1"><a href="http://videopro.cactusthemes.com/v2/">Home Page V6</a></li><li class="menu-item level2  menu-item menu-item-type-post_type menu-item-object-page level1"><a href="http://videopro.cactusthemes.com/v2/home-page-v7/">Home Page V7</a></li><li class="menu-item level2  menu-item menu-item-type-post_type menu-item-object-page level1"><a href="http://videopro.cactusthemes.com/v2/home-page-v8/">Home Page V8</a></li><li class="menu-item level2  menu-item menu-item-type-post_type menu-item-object-page level1"><a href="http://videopro.cactusthemes.com/v2/home-page-v9/">Home Page V9</a></li><li class="menu-item level2  menu-item menu-item-type-post_type menu-item-object-page level1"><a href="http://videopro.cactusthemes.com/v2/home-page-v10/">Home Page V10</a></li><li class="menu-item level2  menu-item menu-item-type-post_type menu-item-object-page level1"><a href="http://videopro.cactusthemes.com/v2/homepage-game-version/">Home Page V11</a></li></ul></li><li id="mega-menu-item-773" class=" menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor menu-item-has-children parent level0 has-sub dropdown main-menu-item list-style"><a href="#"><i class="fa fa-bars"></i> Features</a>
+<ul class="sub-menu dropdown-menu sub-menu-list level0">
+<li class="menu-item level2 parent menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children parent level1 dropdown-submenu"><a href="#"><i class="fa fa-database"></i> Shortcodes</a>
+	<ul class="sub-menu dropdown-menu level1">
+<li id="mega-menu-item-2491" class=" menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children parent level2 dropdown-submenu"><a href="#">Block</a>
+		<ul class="sub-menu dropdown-menu level2">
+<li id="mega-menu-item-2505" class=" menu-item menu-item-type-post_type menu-item-object-page level3"><a href="http://videopro.cactusthemes.com/v2/smart-content-box-v1/">Block 1</a></li><li id="mega-menu-item-2506" class=" menu-item menu-item-type-post_type menu-item-object-page level3"><a href="http://videopro.cactusthemes.com/v2/smart-content-box-v2/">Block 2</a></li><li id="mega-menu-item-2507" class=" menu-item menu-item-type-post_type menu-item-object-page level3"><a href="http://videopro.cactusthemes.com/v2/smart-content-box-v3/">Block 3</a></li><li id="mega-menu-item-2508" class=" menu-item menu-item-type-post_type menu-item-object-page level3"><a href="http://videopro.cactusthemes.com/v2/smart-content-box-v4/">Block 4</a></li><li id="mega-menu-item-2509" class=" menu-item menu-item-type-post_type menu-item-object-page level3"><a href="http://videopro.cactusthemes.com/v2/smart-content-box-v5/">Block 5</a></li><li id="mega-menu-item-2510" class=" menu-item menu-item-type-post_type menu-item-object-page level3"><a href="http://videopro.cactusthemes.com/v2/smart-content-box-v6/">Block 6</a></li><li id="mega-menu-item-2500" class=" menu-item menu-item-type-post_type menu-item-object-page level3"><a href="http://videopro.cactusthemes.com/v2/smart-content-box-v7/">Block 7</a></li><li id="mega-menu-item-2499" class=" menu-item menu-item-type-post_type menu-item-object-page level3"><a href="http://videopro.cactusthemes.com/v2/smart-content-box-v8/">Block 8</a></li><li id="mega-menu-item-2498" class=" menu-item menu-item-type-post_type menu-item-object-page level3"><a href="http://videopro.cactusthemes.com/v2/smart-content-box-v9/">Block 9</a></li><li id="mega-menu-item-2497" class=" menu-item menu-item-type-post_type menu-item-object-page level3"><a href="http://videopro.cactusthemes.com/v2/smart-content-box-v10/">Block 10</a></li><li id="mega-menu-item-2496" class=" menu-item menu-item-type-post_type menu-item-object-page level3"><a href="http://videopro.cactusthemes.com/v2/smart-content-box-v11/">Block 11</a></li><li id="mega-menu-item-2495" class=" menu-item menu-item-type-post_type menu-item-object-page level3"><a href="http://videopro.cactusthemes.com/v2/smart-content-box-v12/">Block 12</a></li><li id="mega-menu-item-2494" class=" menu-item menu-item-type-post_type menu-item-object-page level3"><a href="http://videopro.cactusthemes.com/v2/smart-content-box-v13/">Block 13</a></li><li id="mega-menu-item-2493" class=" menu-item menu-item-type-post_type menu-item-object-page level3"><a href="http://videopro.cactusthemes.com/v2/smart-content-box-v14/">Block 14</a></li><li id="mega-menu-item-2492" class=" menu-item menu-item-type-post_type menu-item-object-page level3"><a href="http://videopro.cactusthemes.com/v2/smart-content-box-v15/">Block 15</a></li></ul></li><li id="mega-menu-item-2514" class=" menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-2415 current_page_item level2"><a href="http://videopro.cactusthemes.com/v2/actors-list/">Actors List</a></li><li id="mega-menu-item-2515" class=" menu-item menu-item-type-post_type menu-item-object-page level2"><a href="http://videopro.cactusthemes.com/v2/channel-list-shortcode/">Channel List</a></li><li id="mega-menu-item-2516" class=" menu-item menu-item-type-post_type menu-item-object-page level2"><a href="http://videopro.cactusthemes.com/v2/series-listing-shortcode/">Series List</a></li><li id="mega-menu-item-2517" class=" menu-item menu-item-type-post_type menu-item-object-page level2"><a href="http://videopro.cactusthemes.com/v2/elements/">Elements</a></li><li id="mega-menu-item-2521" class=" menu-item menu-item-type-post_type menu-item-object-page level2"><a href="http://videopro.cactusthemes.com/v2/typography/">Typography</a></li><li id="mega-menu-item-2657" class=" menu-item menu-item-type-post_type menu-item-object-page level2"><a href="http://videopro.cactusthemes.com/v2/shortcode-compare-table/">Pricing Table</a></li><li id="mega-menu-item-2522" class=" menu-item menu-item-type-post_type menu-item-object-page level2"><a href="http://videopro.cactusthemes.com/v2/contact-form/">Contact Form</a></li><li id="mega-menu-item-2518" class=" menu-item menu-item-type-post_type menu-item-object-page level2"><a href="http://videopro.cactusthemes.com/v2/newsletter/">Newsletter</a></li><li id="mega-menu-item-2519" class=" menu-item menu-item-type-post_type menu-item-object-page level2"><a href="http://videopro.cactusthemes.com/v2/promo-box/">Promo Box</a></li><li id="mega-menu-item-2523" class=" menu-item menu-item-type-post_type menu-item-object-post level2"><a href="http://videopro.cactusthemes.com/v2/the-one-thing-that-make-a-match-work/">Photo Caption</a></li><li id="mega-menu-item-2524" class=" menu-item menu-item-type-post_type menu-item-object-post level2"><a href="http://videopro.cactusthemes.com/v2/sidekick-animated-short-film-for-children/">Protected Content</a></li></ul></li><li class="menu-item level2 parent menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children parent level1 dropdown-submenu"><a href="#"><i class="fa fa-play-circle-o"></i> Video</a>
+	<ul class="sub-menu dropdown-menu level1">
+<li id="mega-menu-item-2218" class=" menu-item menu-item-type-post_type menu-item-object-post level2"><a href="http://videopro.cactusthemes.com/v2/youtubes-new-music-app/">FullWidth Style 1</a></li><li id="mega-menu-item-2219" class=" menu-item menu-item-type-post_type menu-item-object-post level2"><a href="http://videopro.cactusthemes.com/v2/dope-tech-2-customs/">FullWidth Style 2</a></li><li id="mega-menu-item-2311" class=" menu-item menu-item-type-post_type menu-item-object-post level2"><a href="http://videopro.cactusthemes.com/v2/nev-plays-best-of-mrsuicidesheep/">Wide Style 1</a></li><li id="mega-menu-item-2312" class=" menu-item menu-item-type-post_type menu-item-object-post level2"><a href="http://videopro.cactusthemes.com/v2/a-traks-short-cuts-money-makin-routine/">Wide Style 2</a></li><li id="mega-menu-item-2222" class=" menu-item menu-item-type-post_type menu-item-object-post level2"><a href="http://videopro.cactusthemes.com/v2/worlds-greatest-drag-race-4/">Inbox Style 1</a></li><li id="mega-menu-item-2223" class=" menu-item menu-item-type-post_type menu-item-object-post level2"><a href="http://videopro.cactusthemes.com/v2/best-of-red-bull-2012-2014-best-of-extreme-sport-compilation-music-video/">Inbox Style 2</a></li><li id="mega-menu-item-1531" class=" menu-item menu-item-type-post_type menu-item-object-post level2"><a href="http://videopro.cactusthemes.com/v2/rupaul-the-realness-official-music-video/">Youtube Video</a></li><li id="mega-menu-item-1530" class=" menu-item menu-item-type-post_type menu-item-object-post level2"><a href="http://videopro.cactusthemes.com/v2/20syl-kodama-official-music-video/">Vimeo Video</a></li><li id="mega-menu-item-1553" class=" menu-item menu-item-type-post_type menu-item-object-post level2"><a href="http://videopro.cactusthemes.com/v2/hd-jessie-j-ariana-grande-nicki-minaj-bang-bang-amas-2014/">Daily Motion Video</a></li><li id="mega-menu-item-1587" class=" menu-item menu-item-type-post_type menu-item-object-post level2"><a href="http://videopro.cactusthemes.com/v2/facebook-video/">Facebook Video</a></li><li id="mega-menu-item-3018" class=" menu-item menu-item-type-post_type menu-item-object-post level2"><a href="http://videopro.cactusthemes.com/v2/self-hosted-video/">Self-Hosted Video</a></li><li id="mega-menu-item-2314" class=" menu-item menu-item-type-post_type menu-item-object-post level2"><a href="http://videopro.cactusthemes.com/v2/top-10-tank-champions-league-of-legends/">Live Video</a></li></ul></li><li class="menu-item level2 parent menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children parent level1 dropdown-submenu"><a href="#">Articles</a>
+	<ul class="sub-menu dropdown-menu level1">
+<li id="mega-menu-item-2215" class=" menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children parent level2 dropdown-submenu"><a href="#">Standard Layout</a>
+		<ul class="sub-menu dropdown-menu level2">
+<li id="mega-menu-item-2224" class=" menu-item menu-item-type-post_type menu-item-object-post level3"><a href="http://videopro.cactusthemes.com/v2/these-cheap-will-upgrade-your-space/">FullWidth Style 1</a></li><li id="mega-menu-item-2225" class=" menu-item menu-item-type-post_type menu-item-object-post level3"><a href="http://videopro.cactusthemes.com/v2/new-zenland-eco-fashion-week-opens-in-style/">FullWidth Style 2</a></li><li id="mega-menu-item-2226" class=" menu-item menu-item-type-post_type menu-item-object-post level3"><a href="http://videopro.cactusthemes.com/v2/successful-businessman-in-the-new-era/">Wide Style 1</a></li><li id="mega-menu-item-2227" class=" menu-item menu-item-type-post_type menu-item-object-post level3"><a href="http://videopro.cactusthemes.com/v2/day-in-the-life-of-an-internet-commenter/">Wide Style 2</a></li><li id="mega-menu-item-2228" class=" menu-item menu-item-type-post_type menu-item-object-post level3"><a href="http://videopro.cactusthemes.com/v2/fewer-auctions-but-still-strongs-home-sale-amount/">Inbox Style 1</a></li><li id="mega-menu-item-2229" class=" menu-item menu-item-type-post_type menu-item-object-post level3"><a href="http://videopro.cactusthemes.com/v2/fitness-does-wearable-fitness-gear-work/">Inbox Style 2</a></li><li id="mega-menu-item-2990" class=" menu-item menu-item-type-post_type menu-item-object-post level3"><a href="http://videopro.cactusthemes.com/v2/youtubes-new-music-app/">Video With Thumbnail Image Header</a></li></ul></li><li id="mega-menu-item-2216" class=" menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children parent level2 dropdown-submenu"><a href="#">Gallery Layout</a>
+		<ul class="sub-menu dropdown-menu level2">
+<li id="mega-menu-item-2230" class=" menu-item menu-item-type-post_type menu-item-object-post level3"><a href="http://videopro.cactusthemes.com/v2/mobile-kiosk-available-at-fitness-center-from-today/">FullWidth Style 1</a></li><li id="mega-menu-item-2231" class=" menu-item menu-item-type-post_type menu-item-object-post level3"><a href="http://videopro.cactusthemes.com/v2/it-is-beyound-blogging/">FullWidth Style 2</a></li><li id="mega-menu-item-2232" class=" menu-item menu-item-type-post_type menu-item-object-post level3"><a href="http://videopro.cactusthemes.com/v2/all-my-life-by-gentlemans-rule/">Wide Style 1</a></li><li id="mega-menu-item-2233" class=" menu-item menu-item-type-post_type menu-item-object-post level3"><a href="http://videopro.cactusthemes.com/v2/will-genetic-cyber-athletes-dominate-sports/">Wide Style 2</a></li><li id="mega-menu-item-2234" class=" menu-item menu-item-type-post_type menu-item-object-post level3"><a href="http://videopro.cactusthemes.com/v2/bizzline-a-studio-for-photographers-set-to-open/">Inbox Style 1</a></li><li id="mega-menu-item-2235" class=" menu-item menu-item-type-post_type menu-item-object-post level3"><a href="http://videopro.cactusthemes.com/v2/mobile-content-ecosystem-odm-must-evolve-or-disssove/">Inbox Style 2</a></li></ul></li><li id="mega-menu-item-2217" class=" menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children parent level2 dropdown-submenu"><a href="#">Audio Layout</a>
+		<ul class="sub-menu dropdown-menu level2">
+<li id="mega-menu-item-2236" class=" menu-item menu-item-type-post_type menu-item-object-post level3"><a href="http://videopro.cactusthemes.com/v2/happy-cover-by-kings-road/">FullWidth Style 1</a></li><li id="mega-menu-item-2237" class=" menu-item menu-item-type-post_type menu-item-object-post level3"><a href="http://videopro.cactusthemes.com/v2/swith-between-front-and-rear-camerasfor-videos/">FullWidth Style 2</a></li><li id="mega-menu-item-2238" class=" menu-item menu-item-type-post_type menu-item-object-post level3"><a href="http://videopro.cactusthemes.com/v2/some-nights-veritones-a-cappella-cover/">Wide Style 1</a></li><li id="mega-menu-item-2239" class=" menu-item menu-item-type-post_type menu-item-object-post level3"><a href="http://videopro.cactusthemes.com/v2/all-my-life-by-gentlemans-rule-2/">Wide Style 2</a></li><li id="mega-menu-item-2240" class=" menu-item menu-item-type-post_type menu-item-object-post level3"><a href="http://videopro.cactusthemes.com/v2/crazy-a-capella-by-veritones/">Inbox Style 1</a></li><li id="mega-menu-item-2241" class=" menu-item menu-item-type-post_type menu-item-object-post level3"><a href="http://videopro.cactusthemes.com/v2/i-choose-love-performed-by-kings-road/">Inbox Style 2</a></li></ul></li></ul></li><li class="menu-item level2 parent menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children parent level1 dropdown-submenu"><a href="#">Categories</a>
+	<ul class="sub-menu dropdown-menu level1">
+<li id="mega-menu-item-1695" class=" menu-item menu-item-type-taxonomy menu-item-object-category level2"><a href="http://videopro.cactusthemes.com/v2/category/game/">Layout 1</a></li><li id="mega-menu-item-1694" class=" menu-item menu-item-type-taxonomy menu-item-object-category level2"><a href="http://videopro.cactusthemes.com/v2/category/movie/">Layout 2</a></li><li id="mega-menu-item-1692" class=" menu-item menu-item-type-taxonomy menu-item-object-category level2"><a href="http://videopro.cactusthemes.com/v2/category/music/">Layout 3</a></li><li id="mega-menu-item-1693" class=" menu-item menu-item-type-taxonomy menu-item-object-category level2"><a href="http://videopro.cactusthemes.com/v2/category/sport/">Width Avatar</a></li><li id="mega-menu-item-1696" class=" menu-item menu-item-type-taxonomy menu-item-object-category level2"><a href="http://videopro.cactusthemes.com/v2/category/kombat/">No Avatar</a></li></ul></li><li class="menu-item level2 parent menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children parent level1 dropdown-submenu"><a href="#">Video Series</a>
+	<ul class="sub-menu dropdown-menu level1">
+<li id="mega-menu-item-1702" class=" menu-item menu-item-type-post_type menu-item-object-page level2"><a href="http://videopro.cactusthemes.com/v2/series-list/">Series List</a></li><li id="mega-menu-item-2830" class=" menu-item menu-item-type-taxonomy menu-item-object-video-series level2"><a href="http://videopro.cactusthemes.com/v2/video-series/tv-show/">Single Series</a></li><li id="mega-menu-item-2317" class=" menu-item menu-item-type-custom menu-item-object-custom level2"><a href="http://videopro.cactusthemes.com/v2/cgi-animated-short-film-hd-quantum-jump-short-film-by-hayk-sahakyants/?series=movie">Series Video V1</a></li><li id="mega-menu-item-2318" class=" menu-item menu-item-type-custom menu-item-object-custom level2"><a href="http://videopro.cactusthemes.com/v2/run-inspirational-running-video-hd/?series=sport">Series Video V2</a></li></ul></li><li class="menu-item level2 parent menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children parent level1 dropdown-submenu"><a href="#">Channel</a>
+	<ul class="sub-menu dropdown-menu level1">
+<li id="mega-menu-item-2477" class=" menu-item menu-item-type-post_type menu-item-object-ct_channel level2"><a href="http://videopro.cactusthemes.com/v2/channel/music-channel/">Demo Channel</a></li></ul></li><li class="menu-item level2 parent menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children parent level1 dropdown-submenu"><a href="#">Playlist</a>
+	<ul class="sub-menu dropdown-menu level1">
+<li id="mega-menu-item-2478" class=" menu-item menu-item-type-post_type menu-item-object-ct_playlist level2"><a href="http://videopro.cactusthemes.com/v2/playlist/sport/">Playlist</a></li><li id="mega-menu-item-2479" class=" menu-item menu-item-type-custom menu-item-object-custom level2"><a href="http://videopro.cactusthemes.com/v2/cgi-animated-short-film-hd-quantum-jump-short-film-by-hayk-sahakyants/?list=794">Playlist View</a></li></ul></li><li class="menu-item level2 parent menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children parent level1 dropdown-submenu"><a href="#">Video Rating</a>
+	<ul class="sub-menu dropdown-menu level1">
+<li id="mega-menu-item-2481" class=" menu-item menu-item-type-post_type menu-item-object-post level2"><a href="http://videopro.cactusthemes.com/v2/2015-beginner-ish-sportbike-shootout/">Rating Point</a></li><li id="mega-menu-item-2482" class=" menu-item menu-item-type-post_type menu-item-object-post level2"><a href="http://videopro.cactusthemes.com/v2/o6-free-your-eyes/">Rating Star</a></li></ul></li><li class="menu-item level2 parent menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children parent level1 dropdown-submenu"><a href="#">Actor</a>
+	<ul class="sub-menu dropdown-menu level1">
+<li id="mega-menu-item-2490" class=" menu-item menu-item-type-post_type menu-item-object-ct_actor level2"><a href="http://videopro.cactusthemes.com/v2/actor/trinity-green/">Demo Actor</a></li></ul></li><li class="menu-item level2  menu-item menu-item-type-post_type menu-item-object-post level1"><a href="http://videopro.cactusthemes.com/v2/spooly-worlds-first-magnetic-charging-cables/">Video Ads</a></li><li class="menu-item level2  menu-item menu-item-type-post_type menu-item-object-post level1"><a href="http://videopro.cactusthemes.com/v2/facebook-video/">Multi-link Videos</a></li><li class="menu-item level2  menu-item menu-item-type-post_type menu-item-object-page level1"><a href="http://videopro.cactusthemes.com/v2/video-badges/">Video Badges</a></li><li class="menu-item level2  menu-item menu-item-type-custom menu-item-object-custom level1"><a href="http://videopro.cactusthemes.com/v2/uploader/videopro/">Author Page</a></li><li class="menu-item level2  menu-item menu-item-type-post_type menu-item-object-post level1"><a href="http://videopro.cactusthemes.com/v2/sidekick-animated-short-film-for-children/">Social Locker</a></li><li class="menu-item level2  menu-item menu-item-type-post_type menu-item-object-page level1"><a href="http://videopro.cactusthemes.com/v2/coming-soon/">Coming Soon</a></li><li class="menu-item level2  menu-item menu-item-type-post_type menu-item-object-page level1"><a href="http://videopro.cactusthemes.com/v2/maintenance/">Maintenance</a></li><li class="menu-item level2  menu-item menu-item-type-custom menu-item-object-custom level1"><a href="http://videopro.cactusthemes.com/v2/?s=music">Search</a></li><li class="menu-item level2  menu-item menu-item-type-custom menu-item-object-custom level1"><a href="http://videopro.cactusthemes.com/v2/404">Page Not Found</a></li></ul></li><li id="mega-menu-item-3236" class=" menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children parent level0 has-sub dropdown main-menu-item list-style"><a href="#"><i class="fa fa-users"></i> Community</a>
+<ul class="sub-menu dropdown-menu sub-menu-list level0">
+<li class="menu-item level2  menu-item menu-item-type-post_type menu-item-object-page level1"><a href="http://videopro.cactusthemes.com/v2/activity/">Activity</a></li><li class="menu-item level2  menu-item menu-item-type-post_type menu-item-object-page level1"><a href="http://videopro.cactusthemes.com/v2/groups/">Groups</a></li><li class="menu-item level2  menu-item menu-item-type-post_type menu-item-object-page level1"><a href="http://videopro.cactusthemes.com/v2/members/">Members</a></li></ul></li><li id="mega-menu-item-3279" class=" menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children parent level0 has-sub dropdown main-menu-item list-style"><a href="#"><i class="fa fa-search-plus"></i> Browse</a>
+<ul class="sub-menu dropdown-menu sub-menu-list level0">
+<li class="menu-item level2  menu-item menu-item-type-post_type menu-item-object-page level1"><a href="http://videopro.cactusthemes.com/v2/all-members/">All Members</a></li><li class="menu-item level2  menu-item menu-item-type-post_type menu-item-object-page level1"><a href="http://videopro.cactusthemes.com/v2/all-channels/">All Channels</a></li><li class="menu-item level2  menu-item menu-item-type-post_type menu-item-object-page level1"><a href="http://videopro.cactusthemes.com/v2/all-playlists/">All Playlists</a></li><li class="menu-item level2  menu-item menu-item-type-post_type menu-item-object-page level1"><a href="http://videopro.cactusthemes.com/v2/all-actor/">All Actors</a></li><li class="menu-item level2  menu-item menu-item-type-post_type menu-item-object-page level1"><a href="http://videopro.cactusthemes.com/v2/all-categories/">All Categories</a></li><li class="menu-item level2  menu-item menu-item-type-post_type menu-item-object-page level1"><a href="http://videopro.cactusthemes.com/v2/all-tags/">All Tags</a></li><li class="menu-item level2  menu-item menu-item-type-taxonomy menu-item-object-category level1"><a href="http://videopro.cactusthemes.com/v2/category/community/">User Uploaded Videos</a></li></ul></li><li id="mega-menu-item-3456" class=" menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children parent level0 has-sub dropdown main-menu-item list-style"><a href="#"><i class="fa fa-dollar"></i> Premium Content</a>
+<ul class="sub-menu dropdown-menu sub-menu-list level0">
+<li class="menu-item level2  menu-item menu-item-type-post_type menu-item-object-post level1"><a href="http://videopro.cactusthemes.com/v2/cut-the-rope-magic-mushroom-land-walkthrough-all-levels/">[Premium] Protected Post</a></li><li class="menu-item level2  menu-item menu-item-type-taxonomy menu-item-object-category level1"><a href="http://videopro.cactusthemes.com/v2/category/tv-show/">[Premium] Protected Category</a></li><li class="menu-item level2  menu-item menu-item-type-post_type menu-item-object-ct_channel level1"><a href="http://videopro.cactusthemes.com/v2/channel/movies-channel/">[Premium] Protected Channel</a></li></ul></li><li id="mega-menu-item-3189" class=" menu-item menu-item-type-post_type menu-item-object-page level0 main-menu-item list-style"><a href="http://videopro.cactusthemes.com/v2/register-3/"><i class="fa fa-arrow-circle-o-right"></i> Register</a></li>                       </ul>
+                                           </div><!--main menu-->
+                </div><!--nav left-->  
+                
+            </div>
+            <!--Menu Down-->
+            
+        </div>
+    </div>
+</div>
+<!--Navigation style-->
+        </header>
+        
+            <!--body content-->
+    <div id="cactus-body-container">
+    
+        <div class="cactus-sidebar-control sb-ct-medium   sb-ct-small "> <!--sb-ct-medium, sb-ct-small-->
+        
+            <div class="cactus-container ">                        	
+                <div class="cactus-row">
+                                            <div class="open-sidebar-small open-box-menu"><i class="fa fa-bars"></i></div>
+                                        <!--Sidebar-->
+<div class="cactus-sidebar ct-small">
+		        <div class="cactus-sidebar-content">
+		<aside id="top-channel-2" class=" style-5  widget widget_top_channels"><style>#top-channel-2 .ct-sub-w-title{color:FFFFFF !important; background:FF0000 !important}</style><div class="widget-inner"><h2 class="widget-title h4">Top Channels</h2><div class="widget_top_channel_content">
+            <div class="post-metadata sp-style">
+				<div class="channel-subscribe">
+						<div class="channel-picture">
+							<a href="http://videopro.cactusthemes.com/v2/channel/music-channel/" title="Music Channel">
+								<img width="50" height="50"  data-src="http://cdn.cactusthemes.com/wp-content/uploads/2016/05/vp-ms07-50x50.jpg" data-srcset="http://cdn.cactusthemes.com/wp-content/uploads/2016/05/vp-ms07-50x50.jpg 50w, http://cdn.cactusthemes.com/wp-content/uploads/2016/05/vp-ms07-150x150.jpg 150w, http://cdn.cactusthemes.com/wp-content/uploads/2016/05/vp-ms07-298x298.jpg 298w" data-sizes="(max-width: 50px) 100vw, 50px" class="lazyload effect-fade" src="http://cdn.cactusthemes.com/wp-content/themes/videopro/images/dflazy.jpg" style="padding-top:100%;" alt="vp-ms07"/>
+							</a>
+						</div>
+					<div class="channel-content">
+						<h4 class="channel-title h6">
+							<a href="http://videopro.cactusthemes.com/v2/channel/music-channel/" title="Music Channel">
+								Music Channel
+							</a><span class="verified" title="Verified"><i class="fas fa-check"></i></span>
+						</h4><div class="posted-on metadata-font">
+                            <span class="cactus-info font-size-1"><span> 8 videos</span></span><div class="cactus-info font-size-1"><i class="fa fa-eye"></i> 6491 views</div>
+                        </div></div>
+				</div>
+				
+				<div class="channel-subscribe">
+						<div class="channel-picture">
+							<a href="http://videopro.cactusthemes.com/v2/channel/tv-channel/" title="TV Channel">
+								<img width="50" height="50"  data-src="http://cdn.cactusthemes.com/wp-content/uploads/2016/05/vp-show-02-50x50.jpg" data-srcset="http://cdn.cactusthemes.com/wp-content/uploads/2016/05/vp-show-02-50x50.jpg 50w, http://cdn.cactusthemes.com/wp-content/uploads/2016/05/vp-show-02-150x150.jpg 150w, http://cdn.cactusthemes.com/wp-content/uploads/2016/05/vp-show-02-298x298.jpg 298w" data-sizes="(max-width: 50px) 100vw, 50px" class="lazyload effect-fade" src="http://cdn.cactusthemes.com/wp-content/themes/videopro/images/dflazy.jpg" style="padding-top:100%;" alt="vp-show-02"/>
+							</a>
+						</div>
+					<div class="channel-content">
+						<h4 class="channel-title h6">
+							<a href="http://videopro.cactusthemes.com/v2/channel/tv-channel/" title="TV Channel">
+								TV Channel
+							</a>
+						</h4><div class="posted-on metadata-font">
+                            <span class="cactus-info font-size-1"><span> 8 videos</span></span><div class="cactus-info font-size-1"><i class="fa fa-eye"></i> 1569 views</div>
+                        </div></div>
+				</div>
+				
+				<div class="channel-subscribe">
+						<div class="channel-picture">
+							<a href="http://videopro.cactusthemes.com/v2/channel/tech-channel/" title="Tech Channel">
+								<img width="50" height="50"  data-src="http://cdn.cactusthemes.com/wp-content/uploads/2016/05/vp-tech07-50x50.jpg" data-srcset="http://cdn.cactusthemes.com/wp-content/uploads/2016/05/vp-tech07-50x50.jpg 50w, http://cdn.cactusthemes.com/wp-content/uploads/2016/05/vp-tech07-150x150.jpg 150w, http://cdn.cactusthemes.com/wp-content/uploads/2016/05/vp-tech07-298x298.jpg 298w" data-sizes="(max-width: 50px) 100vw, 50px" class="lazyload effect-fade" src="http://cdn.cactusthemes.com/wp-content/themes/videopro/images/dflazy.jpg" style="padding-top:100%;" alt="vp-tech07"/>
+							</a>
+						</div>
+					<div class="channel-content">
+						<h4 class="channel-title h6">
+							<a href="http://videopro.cactusthemes.com/v2/channel/tech-channel/" title="Tech Channel">
+								Tech Channel
+							</a><span class="verified" title="Verified"><i class="fas fa-check"></i></span>
+						</h4><div class="posted-on metadata-font">
+                            <span class="cactus-info font-size-1"><span> 8 videos</span></span><div class="cactus-info font-size-1"><i class="fa fa-eye"></i> 836 views</div>
+                        </div></div>
+				</div>
+				
+				<div class="channel-subscribe">
+						<div class="channel-picture">
+							<a href="http://videopro.cactusthemes.com/v2/channel/sport-channel/" title="Sport Channel">
+								<img width="50" height="50"  data-src="http://cdn.cactusthemes.com/wp-content/uploads/2016/05/vp-sp10-50x50.jpg" data-srcset="http://cdn.cactusthemes.com/wp-content/uploads/2016/05/vp-sp10-50x50.jpg 50w, http://cdn.cactusthemes.com/wp-content/uploads/2016/05/vp-sp10-150x150.jpg 150w, http://cdn.cactusthemes.com/wp-content/uploads/2016/05/vp-sp10-298x298.jpg 298w" data-sizes="(max-width: 50px) 100vw, 50px" class="lazyload effect-fade" src="http://cdn.cactusthemes.com/wp-content/themes/videopro/images/dflazy.jpg" style="padding-top:100%;" alt="vp-sp10"/>
+							</a>
+						</div>
+					<div class="channel-content">
+						<h4 class="channel-title h6">
+							<a href="http://videopro.cactusthemes.com/v2/channel/sport-channel/" title="Sport Channel">
+								Sport Channel
+							</a>
+						</h4><div class="posted-on metadata-font">
+                            <span class="cactus-info font-size-1"><span> 8 videos</span></span><div class="cactus-info font-size-1"><i class="fa fa-eye"></i> 678 views</div>
+                        </div></div>
+				</div>
+				
+				<div class="channel-subscribe">
+						<div class="channel-picture">
+							<a href="http://videopro.cactusthemes.com/v2/channel/movies-channel/" title="[Premium] Movie Channel">
+								<img width="50" height="50"  data-src="http://cdn.cactusthemes.com/wp-content/uploads/2016/05/vp-ms05-50x50.jpg" data-srcset="http://cdn.cactusthemes.com/wp-content/uploads/2016/05/vp-ms05-50x50.jpg 50w, http://cdn.cactusthemes.com/wp-content/uploads/2016/05/vp-ms05-150x150.jpg 150w, http://cdn.cactusthemes.com/wp-content/uploads/2016/05/vp-ms05-298x298.jpg 298w" data-sizes="(max-width: 50px) 100vw, 50px" class="lazyload effect-fade" src="http://cdn.cactusthemes.com/wp-content/themes/videopro/images/dflazy.jpg" style="padding-top:100%;" alt="vp-ms05"/>
+							</a>
+						</div>
+					<div class="channel-content">
+						<h4 class="channel-title h6">
+							<a href="http://videopro.cactusthemes.com/v2/channel/movies-channel/" title="[Premium] Movie Channel">
+								[Premium] Movie Channel
+							</a><span class="verified" title="Verified"><i class="fas fa-check"></i></span>
+						</h4><div class="posted-on metadata-font">
+                            <span class="cactus-info font-size-1"><span> 8 videos</span></span><div class="cactus-info font-size-1"><i class="fa fa-eye"></i> 278 views</div>
+                        </div></div>
+				</div>
+				</div></div></div></aside><aside id="videopro_categories-2" class=" style-2  widget videopro_widget_categories widget_casting"><style>#videopro_categories-2 .ct-sub-w-title{color:FFFFFF !important; background:FF0000 !important}</style><div class="widget-inner"><h2 class="widget-title h4">Categories</h2>		<div class="widget_casting_content widget-cat-style-icon">
+        	<div class="post-metadata sp-style style-2 style-3">
+                            <div class="channel-subscribe ">
+                                <div class="channel-picture">
+                    <a href="http://videopro.cactusthemes.com/v2/category/game/" title="GAME">
+                        <span class="category-bg" style="background-image:url(http://cdn.cactusthemes.com/wp-content/uploads/2017/03/cat-game-small.jpg)"></span>
+                    </a>
+                </div>
+                                <div class="channel-content">
+                    <h4 class="channel-title h6">
+                        <a href="http://videopro.cactusthemes.com/v2/category/game/" title="GAME">
+                                                        GAME                        </a>
+                                            </h4>
+                </div>
+                            </div>
+                        <div class="channel-subscribe ">
+                                <div class="channel-picture">
+                    <a href="http://videopro.cactusthemes.com/v2/category/kombat/" title="KOMBAT">
+                        <span class="category-bg" style="background-image:url(http://cdn.cactusthemes.com/wp-content/uploads/2017/03/cat-kombat-small.jpg)"></span>
+                    </a>
+                </div>
+                                <div class="channel-content">
+                    <h4 class="channel-title h6">
+                        <a href="http://videopro.cactusthemes.com/v2/category/kombat/" title="KOMBAT">
+                                                        KOMBAT                        </a>
+                                            </h4>
+                </div>
+                            </div>
+                        <div class="channel-subscribe ">
+                                <div class="channel-picture">
+                    <a href="http://videopro.cactusthemes.com/v2/category/movie/" title="MOVIE">
+                        <span class="category-bg" style="background-image:url(http://cdn.cactusthemes.com/wp-content/uploads/2017/03/cat-movie-small.jpg)"></span>
+                    </a>
+                </div>
+                                <div class="channel-content">
+                    <h4 class="channel-title h6">
+                        <a href="http://videopro.cactusthemes.com/v2/category/movie/" title="MOVIE">
+                                                        MOVIE                        </a>
+                                            </h4>
+                </div>
+                            </div>
+                        <div class="channel-subscribe ">
+                                <div class="channel-picture">
+                    <a href="http://videopro.cactusthemes.com/v2/category/music/" title="MUSIC">
+                        <span class="category-bg" style="background-image:url(http://cdn.cactusthemes.com/wp-content/uploads/2017/03/cat-music-small.jpg)"></span>
+                    </a>
+                </div>
+                                <div class="channel-content">
+                    <h4 class="channel-title h6">
+                        <a href="http://videopro.cactusthemes.com/v2/category/music/" title="MUSIC">
+                                                        MUSIC                        </a>
+                                            </h4>
+                </div>
+                            </div>
+                        <div class="channel-subscribe ">
+                                <div class="channel-picture">
+                    <a href="http://videopro.cactusthemes.com/v2/category/news/" title="NEWS">
+                        <span class="category-bg" style="background-image:url(http://cdn.cactusthemes.com/wp-content/uploads/2017/03/cat-news-small.jpg)"></span>
+                    </a>
+                </div>
+                                <div class="channel-content">
+                    <h4 class="channel-title h6">
+                        <a href="http://videopro.cactusthemes.com/v2/category/news/" title="NEWS">
+                                                        NEWS                        </a>
+                                            </h4>
+                </div>
+                            </div>
+                        <div class="channel-subscribe ">
+                                <div class="channel-picture">
+                    <a href="http://videopro.cactusthemes.com/v2/category/sport/" title="SPORT">
+                        <span class="category-bg" style="background-image:url(http://cdn.cactusthemes.com/wp-content/uploads/2017/03/cat-sport-small.jpg)"></span>
+                    </a>
+                </div>
+                                <div class="channel-content">
+                    <h4 class="channel-title h6">
+                        <a href="http://videopro.cactusthemes.com/v2/category/sport/" title="SPORT">
+                                                        SPORT                        </a>
+                                            </h4>
+                </div>
+                            </div>
+                        <div class="channel-subscribe ">
+                                <div class="channel-picture">
+                    <a href="http://videopro.cactusthemes.com/v2/category/tech/" title="TECH">
+                        <span class="category-bg" style="background-image:url(http://cdn.cactusthemes.com/wp-content/uploads/2017/03/cat-tech-small.jpg)"></span>
+                    </a>
+                </div>
+                                <div class="channel-content">
+                    <h4 class="channel-title h6">
+                        <a href="http://videopro.cactusthemes.com/v2/category/tech/" title="TECH">
+                                                        TECH                        </a>
+                                            </h4>
+                </div>
+                            </div>
+                        <div class="channel-subscribe ">
+                                <div class="channel-picture">
+                    <a href="http://videopro.cactusthemes.com/v2/category/tv-show/" title="TV SHOW">
+                        <span class="category-bg" style="background-image:url(http://cdn.cactusthemes.com/wp-content/uploads/2017/03/cat-tvshow-small.jpg)"></span>
+                    </a>
+                </div>
+                                <div class="channel-content">
+                    <h4 class="channel-title h6">
+                        <a href="http://videopro.cactusthemes.com/v2/category/tv-show/" title="TV SHOW">
+                                                        TV SHOW                        </a>
+                                            </h4>
+                </div>
+                            </div>
+                    	</div>
+		</div>
+		</div></aside><aside id="actor-listing-2" class="small-padding dark-div style-4  widget widget_casting"><style>#actor-listing-2 .ct-sub-w-title{color:FFFFFF !important; background:17A015 !important}</style><div class="widget-inner"><h2 class="widget-title h4"><span>Top Stars<i class="ct-sub-w-title">HOT</i></span></h2><div class="widget_casting_content original-style">
+            <div class="post-metadata sp-style style-2 style-3">
+				<div class="channel-subscribe">
+						<div class="channel-picture">
+							<a href="http://videopro.cactusthemes.com/v2/actor/trinity-green/" title="Trinity Green">
+								<img width="50" height="50"  data-src="http://cdn.cactusthemes.com/wp-content/uploads/2016/07/08-Trinity-Green-50x50.jpg" data-srcset="http://cdn.cactusthemes.com/wp-content/uploads/2016/07/08-Trinity-Green-50x50.jpg 50w, http://cdn.cactusthemes.com/wp-content/uploads/2016/07/08-Trinity-Green-150x150.jpg 150w, http://cdn.cactusthemes.com/wp-content/uploads/2016/07/08-Trinity-Green-300x300.jpg 300w, http://cdn.cactusthemes.com/wp-content/uploads/2016/07/08-Trinity-Green-298x298.jpg 298w, http://cdn.cactusthemes.com/wp-content/uploads/2016/07/08-Trinity-Green.jpg 500w" data-sizes="(max-width: 50px) 100vw, 50px" class="lazyload effect-fade" src="http://cdn.cactusthemes.com/wp-content/themes/videopro/images/dflazy.jpg" style="padding-top:100%;" alt="08-Trinity-Green"/>
+							</a>
+						</div>
+					<div class="channel-content">
+						<h4 class="channel-title h6">
+							<a href="http://videopro.cactusthemes.com/v2/actor/trinity-green/" title="Trinity Green">Trinity Green<span class="verified" title="Verified"><i class="fas fa-check"></i></span></a>
+						</h4>
+                            <span class="tt-number cactus-info font-size-1">10 videos</span>
+					</div>
+					
+				</div>
+				
+				<div class="channel-subscribe">
+						<div class="channel-picture">
+							<a href="http://videopro.cactusthemes.com/v2/actor/tyler-allen/" title="Tyler Allen">
+								<img width="50" height="50"  data-src="http://cdn.cactusthemes.com/wp-content/uploads/2016/07/07-Tyler-Allen-50x50.jpg" data-srcset="http://cdn.cactusthemes.com/wp-content/uploads/2016/07/07-Tyler-Allen-50x50.jpg 50w, http://cdn.cactusthemes.com/wp-content/uploads/2016/07/07-Tyler-Allen-150x150.jpg 150w, http://cdn.cactusthemes.com/wp-content/uploads/2016/07/07-Tyler-Allen-300x300.jpg 300w, http://cdn.cactusthemes.com/wp-content/uploads/2016/07/07-Tyler-Allen-298x298.jpg 298w, http://cdn.cactusthemes.com/wp-content/uploads/2016/07/07-Tyler-Allen.jpg 500w" data-sizes="(max-width: 50px) 100vw, 50px" class="lazyload effect-fade" src="http://cdn.cactusthemes.com/wp-content/themes/videopro/images/dflazy.jpg" style="padding-top:100%;" alt="07-Tyler-Allen"/>
+							</a>
+						</div>
+					<div class="channel-content">
+						<h4 class="channel-title h6">
+							<a href="http://videopro.cactusthemes.com/v2/actor/tyler-allen/" title="Tyler Allen">Tyler Allen</a>
+						</h4>
+                            <span class="tt-number cactus-info font-size-1">12 videos</span>
+					</div>
+					
+				</div>
+				
+				<div class="channel-subscribe">
+						<div class="channel-picture">
+							<a href="http://videopro.cactusthemes.com/v2/actor/alex-johnson/" title="Alex Johnson">
+								<img width="50" height="50"  data-src="http://cdn.cactusthemes.com/wp-content/uploads/2016/07/03-Alex-Johnson-50x50.jpg" data-srcset="http://cdn.cactusthemes.com/wp-content/uploads/2016/07/03-Alex-Johnson-50x50.jpg 50w, http://cdn.cactusthemes.com/wp-content/uploads/2016/07/03-Alex-Johnson-150x150.jpg 150w, http://cdn.cactusthemes.com/wp-content/uploads/2016/07/03-Alex-Johnson-300x300.jpg 300w, http://cdn.cactusthemes.com/wp-content/uploads/2016/07/03-Alex-Johnson-298x298.jpg 298w, http://cdn.cactusthemes.com/wp-content/uploads/2016/07/03-Alex-Johnson.jpg 500w" data-sizes="(max-width: 50px) 100vw, 50px" class="lazyload effect-fade" src="http://cdn.cactusthemes.com/wp-content/themes/videopro/images/dflazy.jpg" style="padding-top:100%;" alt="03-Alex-Johnson"/>
+							</a>
+						</div>
+					<div class="channel-content">
+						<h4 class="channel-title h6">
+							<a href="http://videopro.cactusthemes.com/v2/actor/alex-johnson/" title="Alex Johnson">Alex Johnson<span class="verified" title="Verified"><i class="fas fa-check"></i></span></a>
+						</h4>
+                            <span class="tt-number cactus-info font-size-1">12 videos</span>
+					</div>
+					
+				</div>
+				
+				<div class="channel-subscribe">
+						<div class="channel-picture">
+							<a href="http://videopro.cactusthemes.com/v2/actor/dakota-thomas/" title="Dakota Thomas">
+								<img width="50" height="50"  data-src="http://cdn.cactusthemes.com/wp-content/uploads/2016/07/05-Dakota-Thomas-50x50.jpg" data-srcset="http://cdn.cactusthemes.com/wp-content/uploads/2016/07/05-Dakota-Thomas-50x50.jpg 50w, http://cdn.cactusthemes.com/wp-content/uploads/2016/07/05-Dakota-Thomas-150x150.jpg 150w, http://cdn.cactusthemes.com/wp-content/uploads/2016/07/05-Dakota-Thomas-300x300.jpg 300w, http://cdn.cactusthemes.com/wp-content/uploads/2016/07/05-Dakota-Thomas-298x298.jpg 298w, http://cdn.cactusthemes.com/wp-content/uploads/2016/07/05-Dakota-Thomas.jpg 500w" data-sizes="(max-width: 50px) 100vw, 50px" class="lazyload effect-fade" src="http://cdn.cactusthemes.com/wp-content/themes/videopro/images/dflazy.jpg" style="padding-top:100%;" alt="05-Dakota-Thomas"/>
+							</a>
+						</div>
+					<div class="channel-content">
+						<h4 class="channel-title h6">
+							<a href="http://videopro.cactusthemes.com/v2/actor/dakota-thomas/" title="Dakota Thomas">Dakota Thomas<span class="verified" title="Verified"><i class="fas fa-check"></i></span></a>
+						</h4>
+                            <span class="tt-number cactus-info font-size-1">16 videos</span>
+					</div>
+					
+				</div>
+				
+				<div class="channel-subscribe">
+						<div class="channel-picture">
+							<a href="http://videopro.cactusthemes.com/v2/actor/daniel-walker/" title="Daniel Walker">
+								<img width="50" height="50"  data-src="http://cdn.cactusthemes.com/wp-content/uploads/2016/07/06-Daniel-Walker-50x50.jpg" data-srcset="http://cdn.cactusthemes.com/wp-content/uploads/2016/07/06-Daniel-Walker-50x50.jpg 50w, http://cdn.cactusthemes.com/wp-content/uploads/2016/07/06-Daniel-Walker-150x150.jpg 150w, http://cdn.cactusthemes.com/wp-content/uploads/2016/07/06-Daniel-Walker-300x300.jpg 300w, http://cdn.cactusthemes.com/wp-content/uploads/2016/07/06-Daniel-Walker-298x298.jpg 298w, http://cdn.cactusthemes.com/wp-content/uploads/2016/07/06-Daniel-Walker.jpg 500w" data-sizes="(max-width: 50px) 100vw, 50px" class="lazyload effect-fade" src="http://cdn.cactusthemes.com/wp-content/themes/videopro/images/dflazy.jpg" style="padding-top:100%;" alt="06-Daniel-Walker"/>
+							</a>
+						</div>
+					<div class="channel-content">
+						<h4 class="channel-title h6">
+							<a href="http://videopro.cactusthemes.com/v2/actor/daniel-walker/" title="Daniel Walker">Daniel Walker</a>
+						</h4>
+                            <span class="tt-number cactus-info font-size-1">12 videos</span>
+					</div>
+					
+				</div>
+				
+				<div class="channel-subscribe">
+						<div class="channel-picture">
+							<a href="http://videopro.cactusthemes.com/v2/actor/kayla-miller/" title="Kayla Miller">
+								<img width="50" height="50"  data-src="http://cdn.cactusthemes.com/wp-content/uploads/2016/07/02-kayla-miller-50x50.jpg" data-srcset="http://cdn.cactusthemes.com/wp-content/uploads/2016/07/02-kayla-miller-50x50.jpg 50w, http://cdn.cactusthemes.com/wp-content/uploads/2016/07/02-kayla-miller-150x150.jpg 150w, http://cdn.cactusthemes.com/wp-content/uploads/2016/07/02-kayla-miller-300x300.jpg 300w, http://cdn.cactusthemes.com/wp-content/uploads/2016/07/02-kayla-miller-298x298.jpg 298w, http://cdn.cactusthemes.com/wp-content/uploads/2016/07/02-kayla-miller.jpg 500w" data-sizes="(max-width: 50px) 100vw, 50px" class="lazyload effect-fade" src="http://cdn.cactusthemes.com/wp-content/themes/videopro/images/dflazy.jpg" style="padding-top:100%;" alt="02-kayla-miller"/>
+							</a>
+						</div>
+					<div class="channel-content">
+						<h4 class="channel-title h6">
+							<a href="http://videopro.cactusthemes.com/v2/actor/kayla-miller/" title="Kayla Miller">Kayla Miller</a>
+						</h4>
+                            <span class="tt-number cactus-info font-size-1">16 videos</span>
+					</div>
+					
+				</div>
+				
+				<div class="channel-subscribe">
+						<div class="channel-picture">
+							<a href="http://videopro.cactusthemes.com/v2/actor/alyssa-moore/" title="Alyssa Moore">
+								<img width="50" height="50"  data-src="http://cdn.cactusthemes.com/wp-content/uploads/2016/07/04-Alyssa-Moore-50x50.jpg" data-srcset="http://cdn.cactusthemes.com/wp-content/uploads/2016/07/04-Alyssa-Moore-50x50.jpg 50w, http://cdn.cactusthemes.com/wp-content/uploads/2016/07/04-Alyssa-Moore-150x150.jpg 150w, http://cdn.cactusthemes.com/wp-content/uploads/2016/07/04-Alyssa-Moore-300x300.jpg 300w, http://cdn.cactusthemes.com/wp-content/uploads/2016/07/04-Alyssa-Moore-298x298.jpg 298w, http://cdn.cactusthemes.com/wp-content/uploads/2016/07/04-Alyssa-Moore.jpg 500w" data-sizes="(max-width: 50px) 100vw, 50px" class="lazyload effect-fade" src="http://cdn.cactusthemes.com/wp-content/themes/videopro/images/dflazy.jpg" style="padding-top:100%;" alt="04-Alyssa-Moore"/>
+							</a>
+						</div>
+					<div class="channel-content">
+						<h4 class="channel-title h6">
+							<a href="http://videopro.cactusthemes.com/v2/actor/alyssa-moore/" title="Alyssa Moore">Alyssa Moore</a>
+						</h4>
+                            <span class="tt-number cactus-info font-size-1">8 videos</span>
+					</div>
+					
+				</div>
+				</div></div></div></aside><aside id="text-4" class="small-padding white-div style-4  widget widget_text"><style>#text-4 .ct-sub-w-title{color:FFFFFF !important; background:FFFFFF !important}</style><div class="widget-inner"><h2 class="widget-title h4">Buy Membership</h2>			<div class="textwidget"><p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem</p>
+<p><a href="http://videopro.cactusthemes.com/v2/memberships/" title="BUY NOW" id="cactus-btn-2011"  class="btn btn-default bt-style-1">BUY NOW</a></p></div>
+		</div></aside><aside id="text-26" class="   widget widget_text"><style>#text-26 .ct-sub-w-title{color:#FFFFFF !important; background:#FF0000 !important}</style><div class="widget-inner">			<div class="textwidget"><div style="text-align:center"><a href="https://themeforest.net/item/videopro-video-wordpress-theme/16677956" title="VideoPro Sample Banner"><img src="http://videopro.cactusthemes.com/v1/wp-content/uploads/2016/05/banner-2.jpg" alt="Ad banner"></a></div></div>
+		</div></aside>  
+    </div>  
+</div>
+<!--Sidebar-->                    
+                    <div class="main-content-col">
+                        <div class="main-content-col-body">
+                        	<div class="single-page-content">
+                                                                <article class="cactus-single-content">                                	
+									<div class="cactus-breadcrumb  navigation-font font-size-1 "><div class="breadcrumb-wrap"><a href="http://videopro.cactusthemes.com/v2/" rel="v:url" property="v:title">Home</a><i class="fa fa-angle-right" aria-hidden="true"></i><span class="current">Actors List</span></div></div><!-- .breadcrumbs --><h1 class="single-title entry-title">Actors List</h1>                
+                                                                            
+<div class="single-page-content single-content"><!--Single Page Content-->
+    <article id="post-2415" class="post-2415 page type-page status-publish hentry cactus-single-content">
+        <div class="body-content">
+            <!--Content-->
+            <div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-6"><div class="vc_column-inner "><div class="wpb_wrapper">        <div class="cactus-listing-wrap cactus-contents-block style-8 ">
+            <div class="block-wrap">
+                <div class="cactus-listing-config style-2 dark-div"> <!--addClass: style-1 + (style-2 -> style-n)-->
+                    <div class="cactus-sub-wrap">
+                                            <article class="cactus-post-item hentry">
+                            <div class="entry-content">                                        
+                                
+                                <!--picture (remove)-->
+                                <div class="picture">
+                                    <div class="picture-content">
+                                                                                    <a href="http://videopro.cactusthemes.com/v2/actor/alex-johnson/" title="Alex Johnson">
+                                                <img width="500" height="358"  data-src="http://cdn.cactusthemes.com/wp-content/uploads/2016/07/03-Alex-Johnson-500x358.jpg" class="lazyload effect-fade" src="http://cdn.cactusthemes.com/wp-content/themes/videopro/images/dflazy.jpg" style="padding-top:71.6%;" alt="03-Alex-Johnson"/>                                            </a>
+										                                        <div class="gradient-elms"></div>
+                                        <div class="content content-absolute-bt">
+                                             <!--Title (no title remove)-->
+                                            <h3 class="cactus-post-title entry-title h5"> 
+                                                <a href="http://videopro.cactusthemes.com/v2/actor/alex-johnson/" title="Alex Johnson">Alex Johnson<span class="verified" title="Verified"><i class="fas fa-check"></i></span></a>
+                                            </h3><!--Title-->
+                                            
+                                            <div class="posted-on metadata-font">
+                                                <span class="author cactus-info font-size-1"><span></span></span>
+                                            </div> 
+                                        </div>                                                    
+                                    </div>                              
+                                </div><!--picture-->
+                                
+                            </div>
+                            
+                        </article>
+                                        </div>
+                </div>
+            </div>
+        </div>
+		</div></div></div><div class="wpb_column vc_column_container vc_col-sm-6"><div class="vc_column-inner "><div class="wpb_wrapper">        <div class="cactus-listing-wrap cactus-contents-block style-8 ">
+            <div class="block-wrap">
+                <div class="cactus-listing-config style-2 dark-div"> <!--addClass: style-1 + (style-2 -> style-n)-->
+                    <div class="cactus-sub-wrap">
+                                            <article class="cactus-post-item hentry">
+                            <div class="entry-content">                                        
+                                
+                                <!--picture (remove)-->
+                                <div class="picture">
+                                    <div class="picture-content">
+                                                                                    <a href="http://videopro.cactusthemes.com/v2/actor/trinity-green/" title="Trinity Green">
+                                                <img width="500" height="358"  data-src="http://cdn.cactusthemes.com/wp-content/uploads/2016/07/08-Trinity-Green-500x358.jpg" class="lazyload effect-fade" src="http://cdn.cactusthemes.com/wp-content/themes/videopro/images/dflazy.jpg" style="padding-top:71.6%;" alt="08-Trinity-Green"/>                                            </a>
+										                                        <div class="gradient-elms"></div>
+                                        <div class="content content-absolute-bt">
+                                             <!--Title (no title remove)-->
+                                            <h3 class="cactus-post-title entry-title h5"> 
+                                                <a href="http://videopro.cactusthemes.com/v2/actor/trinity-green/" title="Trinity Green">Trinity Green<span class="verified" title="Verified"><i class="fas fa-check"></i></span></a>
+                                            </h3><!--Title-->
+                                            
+                                            <div class="posted-on metadata-font">
+                                                <span class="author cactus-info font-size-1"><span></span></span>
+                                            </div> 
+                                        </div>                                                    
+                                    </div>                              
+                                </div><!--picture-->
+                                
+                            </div>
+                            
+                        </article>
+                                        </div>
+                </div>
+            </div>
+        </div>
+		</div></div></div></div><div class="vc_row wpb_row vc_row-fluid vc_custom_1468914671877"><div class="wpb_column vc_column_container vc_col-sm-4"><div class="vc_column-inner "><div class="wpb_wrapper">        <div class="cactus-listing-wrap cactus-contents-block style-8 ">
+            <div class="block-wrap">
+                <div class="cactus-listing-config style-2 dark-div"> <!--addClass: style-1 + (style-2 -> style-n)-->
+                    <div class="cactus-sub-wrap">
+                                            <article class="cactus-post-item hentry">
+                            <div class="entry-content">                                        
+                                
+                                <!--picture (remove)-->
+                                <div class="picture">
+                                    <div class="picture-content">
+                                                                                    <a href="http://videopro.cactusthemes.com/v2/actor/tyler-allen/" title="Tyler Allen">
+                                                <img width="407" height="229"  data-src="http://cdn.cactusthemes.com/wp-content/uploads/2016/07/07-Tyler-Allen-407x229.jpg" data-srcset="http://cdn.cactusthemes.com/wp-content/uploads/2016/07/07-Tyler-Allen-407x229.jpg 407w, http://cdn.cactusthemes.com/wp-content/uploads/2016/07/07-Tyler-Allen-205x115.jpg 205w, http://cdn.cactusthemes.com/wp-content/uploads/2016/07/07-Tyler-Allen-277x156.jpg 277w, http://cdn.cactusthemes.com/wp-content/uploads/2016/07/07-Tyler-Allen-320x180.jpg 320w" data-sizes="(max-width: 407px) 100vw, 407px" class="lazyload effect-fade" src="http://cdn.cactusthemes.com/wp-content/themes/videopro/images/dflazy.jpg" style="padding-top:56.265356265356%;" alt="07-Tyler-Allen"/>                                            </a>
+										                                        <div class="gradient-elms"></div>
+                                        <div class="content content-absolute-bt">
+                                             <!--Title (no title remove)-->
+                                            <h3 class="cactus-post-title entry-title h5"> 
+                                                <a href="http://videopro.cactusthemes.com/v2/actor/tyler-allen/" title="Tyler Allen">Tyler Allen</a>
+                                            </h3><!--Title-->
+                                            
+                                            <div class="posted-on metadata-font">
+                                                <span class="author cactus-info font-size-1"><span></span></span>
+                                            </div> 
+                                        </div>                                                    
+                                    </div>                              
+                                </div><!--picture-->
+                                
+                            </div>
+                            
+                        </article>
+                                            <article class="cactus-post-item hentry">
+                            <div class="entry-content">                                        
+                                
+                                <!--picture (remove)-->
+                                <div class="picture">
+                                    <div class="picture-content">
+                                                                                    <a href="http://videopro.cactusthemes.com/v2/actor/daniel-walker/" title="Daniel Walker">
+                                                <img width="407" height="229"  data-src="http://cdn.cactusthemes.com/wp-content/uploads/2016/07/06-Daniel-Walker-407x229.jpg" data-srcset="http://cdn.cactusthemes.com/wp-content/uploads/2016/07/06-Daniel-Walker-407x229.jpg 407w, http://cdn.cactusthemes.com/wp-content/uploads/2016/07/06-Daniel-Walker-205x115.jpg 205w, http://cdn.cactusthemes.com/wp-content/uploads/2016/07/06-Daniel-Walker-277x156.jpg 277w, http://cdn.cactusthemes.com/wp-content/uploads/2016/07/06-Daniel-Walker-320x180.jpg 320w" data-sizes="(max-width: 407px) 100vw, 407px" class="lazyload effect-fade" src="http://cdn.cactusthemes.com/wp-content/themes/videopro/images/dflazy.jpg" style="padding-top:56.265356265356%;" alt="06-Daniel-Walker"/>                                            </a>
+										                                        <div class="gradient-elms"></div>
+                                        <div class="content content-absolute-bt">
+                                             <!--Title (no title remove)-->
+                                            <h3 class="cactus-post-title entry-title h5"> 
+                                                <a href="http://videopro.cactusthemes.com/v2/actor/daniel-walker/" title="Daniel Walker">Daniel Walker</a>
+                                            </h3><!--Title-->
+                                            
+                                            <div class="posted-on metadata-font">
+                                                <span class="author cactus-info font-size-1"><span></span></span>
+                                            </div> 
+                                        </div>                                                    
+                                    </div>                              
+                                </div><!--picture-->
+                                
+                            </div>
+                            
+                        </article>
+                                        </div>
+                </div>
+            </div>
+        </div>
+		</div></div></div><div class="wpb_column vc_column_container vc_col-sm-4"><div class="vc_column-inner "><div class="wpb_wrapper">        <div class="cactus-listing-wrap cactus-contents-block style-8 ">
+            <div class="block-wrap">
+                <div class="cactus-listing-config style-2 dark-div"> <!--addClass: style-1 + (style-2 -> style-n)-->
+                    <div class="cactus-sub-wrap">
+                                            <article class="cactus-post-item hentry">
+                            <div class="entry-content">                                        
+                                
+                                <!--picture (remove)-->
+                                <div class="picture">
+                                    <div class="picture-content">
+                                                                                    <a href="http://videopro.cactusthemes.com/v2/actor/dakota-thomas/" title="Dakota Thomas">
+                                                <img width="407" height="229"  data-src="http://cdn.cactusthemes.com/wp-content/uploads/2016/07/05-Dakota-Thomas-407x229.jpg" data-srcset="http://cdn.cactusthemes.com/wp-content/uploads/2016/07/05-Dakota-Thomas-407x229.jpg 407w, http://cdn.cactusthemes.com/wp-content/uploads/2016/07/05-Dakota-Thomas-205x115.jpg 205w, http://cdn.cactusthemes.com/wp-content/uploads/2016/07/05-Dakota-Thomas-277x156.jpg 277w, http://cdn.cactusthemes.com/wp-content/uploads/2016/07/05-Dakota-Thomas-320x180.jpg 320w" data-sizes="(max-width: 407px) 100vw, 407px" class="lazyload effect-fade" src="http://cdn.cactusthemes.com/wp-content/themes/videopro/images/dflazy.jpg" style="padding-top:56.265356265356%;" alt="05-Dakota-Thomas"/>                                            </a>
+										                                        <div class="gradient-elms"></div>
+                                        <div class="content content-absolute-bt">
+                                             <!--Title (no title remove)-->
+                                            <h3 class="cactus-post-title entry-title h5"> 
+                                                <a href="http://videopro.cactusthemes.com/v2/actor/dakota-thomas/" title="Dakota Thomas">Dakota Thomas<span class="verified" title="Verified"><i class="fas fa-check"></i></span></a>
+                                            </h3><!--Title-->
+                                            
+                                            <div class="posted-on metadata-font">
+                                                <span class="author cactus-info font-size-1"><span></span></span>
+                                            </div> 
+                                        </div>                                                    
+                                    </div>                              
+                                </div><!--picture-->
+                                
+                            </div>
+                            
+                        </article>
+                                            <article class="cactus-post-item hentry">
+                            <div class="entry-content">                                        
+                                
+                                <!--picture (remove)-->
+                                <div class="picture">
+                                    <div class="picture-content">
+                                                                                    <a href="http://videopro.cactusthemes.com/v2/actor/alyssa-moore/" title="Alyssa Moore">
+                                                <img width="407" height="229"  data-src="http://cdn.cactusthemes.com/wp-content/uploads/2016/07/04-Alyssa-Moore-407x229.jpg" data-srcset="http://cdn.cactusthemes.com/wp-content/uploads/2016/07/04-Alyssa-Moore-407x229.jpg 407w, http://cdn.cactusthemes.com/wp-content/uploads/2016/07/04-Alyssa-Moore-205x115.jpg 205w, http://cdn.cactusthemes.com/wp-content/uploads/2016/07/04-Alyssa-Moore-277x156.jpg 277w, http://cdn.cactusthemes.com/wp-content/uploads/2016/07/04-Alyssa-Moore-320x180.jpg 320w" data-sizes="(max-width: 407px) 100vw, 407px" class="lazyload effect-fade" src="http://cdn.cactusthemes.com/wp-content/themes/videopro/images/dflazy.jpg" style="padding-top:56.265356265356%;" alt="04-Alyssa-Moore"/>                                            </a>
+										                                        <div class="gradient-elms"></div>
+                                        <div class="content content-absolute-bt">
+                                             <!--Title (no title remove)-->
+                                            <h3 class="cactus-post-title entry-title h5"> 
+                                                <a href="http://videopro.cactusthemes.com/v2/actor/alyssa-moore/" title="Alyssa Moore">Alyssa Moore</a>
+                                            </h3><!--Title-->
+                                            
+                                            <div class="posted-on metadata-font">
+                                                <span class="author cactus-info font-size-1"><span></span></span>
+                                            </div> 
+                                        </div>                                                    
+                                    </div>                              
+                                </div><!--picture-->
+                                
+                            </div>
+                            
+                        </article>
+                                        </div>
+                </div>
+            </div>
+        </div>
+		</div></div></div><div class="wpb_column vc_column_container vc_col-sm-4"><div class="vc_column-inner "><div class="wpb_wrapper">        <div class="cactus-listing-wrap cactus-contents-block style-8 ">
+            <div class="block-wrap">
+                <div class="cactus-listing-config style-2 dark-div"> <!--addClass: style-1 + (style-2 -> style-n)-->
+                    <div class="cactus-sub-wrap">
+                                            <article class="cactus-post-item hentry">
+                            <div class="entry-content">                                        
+                                
+                                <!--picture (remove)-->
+                                <div class="picture">
+                                    <div class="picture-content">
+                                                                                    <a href="http://videopro.cactusthemes.com/v2/actor/kayla-miller/" title="Kayla Miller">
+                                                <img width="407" height="229"  data-src="http://cdn.cactusthemes.com/wp-content/uploads/2016/07/02-kayla-miller-407x229.jpg" data-srcset="http://cdn.cactusthemes.com/wp-content/uploads/2016/07/02-kayla-miller-407x229.jpg 407w, http://cdn.cactusthemes.com/wp-content/uploads/2016/07/02-kayla-miller-205x115.jpg 205w, http://cdn.cactusthemes.com/wp-content/uploads/2016/07/02-kayla-miller-277x156.jpg 277w, http://cdn.cactusthemes.com/wp-content/uploads/2016/07/02-kayla-miller-320x180.jpg 320w" data-sizes="(max-width: 407px) 100vw, 407px" class="lazyload effect-fade" src="http://cdn.cactusthemes.com/wp-content/themes/videopro/images/dflazy.jpg" style="padding-top:56.265356265356%;" alt="02-kayla-miller"/>                                            </a>
+										                                        <div class="gradient-elms"></div>
+                                        <div class="content content-absolute-bt">
+                                             <!--Title (no title remove)-->
+                                            <h3 class="cactus-post-title entry-title h5"> 
+                                                <a href="http://videopro.cactusthemes.com/v2/actor/kayla-miller/" title="Kayla Miller">Kayla Miller</a>
+                                            </h3><!--Title-->
+                                            
+                                            <div class="posted-on metadata-font">
+                                                <span class="author cactus-info font-size-1"><span></span></span>
+                                            </div> 
+                                        </div>                                                    
+                                    </div>                              
+                                </div><!--picture-->
+                                
+                            </div>
+                            
+                        </article>
+                                            <article class="cactus-post-item hentry">
+                            <div class="entry-content">                                        
+                                
+                                <!--picture (remove)-->
+                                <div class="picture">
+                                    <div class="picture-content">
+                                                                                    <a href="http://videopro.cactusthemes.com/v2/actor/alex-johnson/" title="Alex Johnson">
+                                                <img width="407" height="229"  data-src="http://cdn.cactusthemes.com/wp-content/uploads/2016/07/03-Alex-Johnson-407x229.jpg" data-srcset="http://cdn.cactusthemes.com/wp-content/uploads/2016/07/03-Alex-Johnson-407x229.jpg 407w, http://cdn.cactusthemes.com/wp-content/uploads/2016/07/03-Alex-Johnson-205x115.jpg 205w, http://cdn.cactusthemes.com/wp-content/uploads/2016/07/03-Alex-Johnson-277x156.jpg 277w, http://cdn.cactusthemes.com/wp-content/uploads/2016/07/03-Alex-Johnson-320x180.jpg 320w" data-sizes="(max-width: 407px) 100vw, 407px" class="lazyload effect-fade" src="http://cdn.cactusthemes.com/wp-content/themes/videopro/images/dflazy.jpg" style="padding-top:56.265356265356%;" alt="03-Alex-Johnson"/>                                            </a>
+										                                        <div class="gradient-elms"></div>
+                                        <div class="content content-absolute-bt">
+                                             <!--Title (no title remove)-->
+                                            <h3 class="cactus-post-title entry-title h5"> 
+                                                <a href="http://videopro.cactusthemes.com/v2/actor/alex-johnson/" title="Alex Johnson">Alex Johnson<span class="verified" title="Verified"><i class="fas fa-check"></i></span></a>
+                                            </h3><!--Title-->
+                                            
+                                            <div class="posted-on metadata-font">
+                                                <span class="author cactus-info font-size-1"><span></span></span>
+                                            </div> 
+                                        </div>                                                    
+                                    </div>                              
+                                </div><!--picture-->
+                                
+                            </div>
+                            
+                        </article>
+                                        </div>
+                </div>
+            </div>
+        </div>
+		</div></div></div></div>
+<div class="tptn_counter" id="tptn_counter_2415">(Visited 1096 times, 1 visits today)</div>			            <!--Content-->
+            <div class="entry-footer">
+							</div><!-- .entry-footer -->
+        </div>
+    </article>
+
+</div>                                                    
+                                                                    </article>
+                                                            </div>
+                        </div>
+                    </div>
+                    
+                    <!--Sidebar-->
+<div class="cactus-sidebar ct-medium">
+        <div class="cactus-sidebar-content">
+		<aside id="text-22" class=" style-5  widget widget_text"><style>#text-22 .ct-sub-w-title{color:FFFFFF !important; background:FF0000 !important}</style><div class="widget-inner"><h2 class="widget-title h4"><i class="fa fa fa-connectdevelop"></i> <span>Connect With Us</span></h2>			<div class="textwidget">		<ul class='nav navbar-nav navbar-right social-listing list-inline social-accounts'>
+						<li class="facebook"><a target='_blank' href="https://www.facebook.com/cactustheme/" title='Facebook'><i class="fa fa-facebook"></i></a></li>
+										<li class="youtube"><a target='_blank' href="https://www.youtube.com/c/CactusThemes" title='YouTube'><i class="fa fa-youtube"></i></a></li>
+										<li class="twitter"><a target='_blank' href="https://twitter.com/cactusthemes" title='Twitter'><i class="fa fa-twitter"></i></a></li>
+																<li class="google-plus"><a target='_blank' href="https://google.com/+CactusThemes" title='Google Plus'><i class="fa fa-google-plus"></i></a></li>
+																			<li class="rss"><a target='_blank' href="https://www.rss.com" title='RSS'><i class="fa fa-rss"></i></a></li>
+										<li class="twitch"><a target='_blank' href="#" title='Twitch'><i class="fa fa-twitch"></i></a></li>
+						        		</ul>
+		</div>
+		</div></aside><aside id="text-7" class="   widget widget_text"><style>#text-7 .ct-sub-w-title{color:FFFFFF !important; background:FF0000 !important}</style><div class="widget-inner">			<div class="textwidget"><div style="text-align:center"><a href="https://themeforest.net/item/videopro-video-wordpress-theme/16677956?ref=cactusthemes" title="VideoPro Sample Banner"><img src="http://cdn.cactusthemes.com/wp-content/uploads/2016/05/videopro-banner-300x250.jpg" alt="Ad banner"></a></div></div>
+		</div></aside><aside id="popular_posts_id-3" class=" style-2  widget widget-popular-post"><style>#popular_posts_id-3 .ct-sub-w-title{color:FFFFFF !important; background:FF0000 !important}</style><div class="widget-inner"><h2 class="widget-title h4"><i class="fa fa-star"></i> <span>Top Videos</span></h2><div class="widget-popular-post-content style-2">
+				<div class="cactus-listing-wrap">
+					<div class="cactus-listing-config style-2 style-widget-popular-post">
+						<div class="cactus-sub-wrap"><article class="cactus-post-item hentry">
+					<div class="entry-content">	<div class="picture">
+										<div class="picture-content"><a title="Top 3 Fitness Apps For That Body" target="_self" href="http://videopro.cactusthemes.com/v2/ping-pong-trick-shots-2-dude-perfect/"><img width="407" height="229"  data-src="http://cdn.cactusthemes.com/wp-content/uploads/2016/05/vp-sp04-407x229.jpg" data-srcset="http://cdn.cactusthemes.com/wp-content/uploads/2016/05/vp-sp04-407x229.jpg 407w, http://cdn.cactusthemes.com/wp-content/uploads/2016/05/vp-sp04-300x169.jpg 300w, http://cdn.cactusthemes.com/wp-content/uploads/2016/05/vp-sp04-768x432.jpg 768w, http://cdn.cactusthemes.com/wp-content/uploads/2016/05/vp-sp04-1024x576.jpg 1024w, http://cdn.cactusthemes.com/wp-content/uploads/2016/05/vp-sp04-205x115.jpg 205w, http://cdn.cactusthemes.com/wp-content/uploads/2016/05/vp-sp04-277x156.jpg 277w, http://cdn.cactusthemes.com/wp-content/uploads/2016/05/vp-sp04-320x180.jpg 320w, http://cdn.cactusthemes.com/wp-content/uploads/2016/05/vp-sp04-565x318.jpg 565w, http://cdn.cactusthemes.com/wp-content/uploads/2016/05/vp-sp04-636x358.jpg 636w, http://cdn.cactusthemes.com/wp-content/uploads/2016/05/vp-sp04-800x450.jpg 800w, http://cdn.cactusthemes.com/wp-content/uploads/2016/05/vp-sp04.jpg 1200w" data-sizes="(max-width: 407px) 100vw, 407px" class="lazyload effect-fade" src="http://cdn.cactusthemes.com/wp-content/themes/videopro/images/dflazy.jpg" style="padding-top:56.265356265356%;" alt="vp-sp04"/><div class="ct-icon-video"></div></a><div class="cactus-note ct-time font-size-1"><span>05:05</span></div></div>
+							</div>	<div class="content">
+							<h3 class="cactus-post-title entry-title h6 sub-lineheight">
+									<a href="http://videopro.cactusthemes.com/v2/ping-pong-trick-shots-2-dude-perfect/" target="_self" title="Top 3 Fitness Apps For That Body">Top 3 Fitness Apps For That Body</a>
+							</h3>
+							<div class="posted-on metadata-font">
+								<a href="http://videopro.cactusthemes.com/v2/uploader/videopro/" target="_self" class="author cactus-info font-size-1"><span>videopro</span></a><div class="liked cactus-info font-size-1">438.74K Likes</div></div>    
+						</div>
+					</div>	
+					</article><article class="cactus-post-item hentry">
+					<div class="entry-content">	<div class="picture">
+										<div class="picture-content"><a title="Xpogo Edition Dude Perfect" target="_self" href="http://videopro.cactusthemes.com/v2/xpogo-edition-dude-perfect/"><img width="407" height="229"  data-src="http://cdn.cactusthemes.com/wp-content/uploads/2016/05/vp-sp03-407x229.jpg" data-srcset="http://cdn.cactusthemes.com/wp-content/uploads/2016/05/vp-sp03-407x229.jpg 407w, http://cdn.cactusthemes.com/wp-content/uploads/2016/05/vp-sp03-300x169.jpg 300w, http://cdn.cactusthemes.com/wp-content/uploads/2016/05/vp-sp03-768x432.jpg 768w, http://cdn.cactusthemes.com/wp-content/uploads/2016/05/vp-sp03-1024x576.jpg 1024w, http://cdn.cactusthemes.com/wp-content/uploads/2016/05/vp-sp03-205x115.jpg 205w, http://cdn.cactusthemes.com/wp-content/uploads/2016/05/vp-sp03-277x156.jpg 277w, http://cdn.cactusthemes.com/wp-content/uploads/2016/05/vp-sp03-320x180.jpg 320w, http://cdn.cactusthemes.com/wp-content/uploads/2016/05/vp-sp03-565x318.jpg 565w, http://cdn.cactusthemes.com/wp-content/uploads/2016/05/vp-sp03-636x358.jpg 636w, http://cdn.cactusthemes.com/wp-content/uploads/2016/05/vp-sp03-800x450.jpg 800w, http://cdn.cactusthemes.com/wp-content/uploads/2016/05/vp-sp03.jpg 1200w" data-sizes="(max-width: 407px) 100vw, 407px" class="lazyload effect-fade" src="http://cdn.cactusthemes.com/wp-content/themes/videopro/images/dflazy.jpg" style="padding-top:56.265356265356%;" alt="vp-sp03"/><div class="ct-icon-video"></div></a><div class="cactus-note ct-time font-size-1"><span>05:05</span></div></div>
+							</div>	<div class="content">
+							<h3 class="cactus-post-title entry-title h6 sub-lineheight">
+									<a href="http://videopro.cactusthemes.com/v2/xpogo-edition-dude-perfect/" target="_self" title="Xpogo Edition Dude Perfect">Xpogo Edition Dude Perfect</a>
+							</h3>
+							<div class="posted-on metadata-font">
+								<a href="http://videopro.cactusthemes.com/v2/uploader/videopro/" target="_self" class="author cactus-info font-size-1"><span>videopro</span></a><div class="liked cactus-info font-size-1">182.99K Likes</div></div>    
+						</div>
+					</div>	
+					</article><article class="cactus-post-item hentry">
+					<div class="entry-content">	<div class="picture">
+										<div class="picture-content"><a title="World&#8217;s Greatest Drag Race 2" target="_self" href="http://videopro.cactusthemes.com/v2/worlds-greatest-drag-race-2/"><img width="407" height="229"  data-src="http://cdn.cactusthemes.com/wp-content/uploads/2016/05/vp-sp06-407x229.jpg" data-srcset="http://cdn.cactusthemes.com/wp-content/uploads/2016/05/vp-sp06-407x229.jpg 407w, http://cdn.cactusthemes.com/wp-content/uploads/2016/05/vp-sp06-300x169.jpg 300w, http://cdn.cactusthemes.com/wp-content/uploads/2016/05/vp-sp06-768x432.jpg 768w, http://cdn.cactusthemes.com/wp-content/uploads/2016/05/vp-sp06-1024x576.jpg 1024w, http://cdn.cactusthemes.com/wp-content/uploads/2016/05/vp-sp06-205x115.jpg 205w, http://cdn.cactusthemes.com/wp-content/uploads/2016/05/vp-sp06-277x156.jpg 277w, http://cdn.cactusthemes.com/wp-content/uploads/2016/05/vp-sp06-320x180.jpg 320w, http://cdn.cactusthemes.com/wp-content/uploads/2016/05/vp-sp06-565x318.jpg 565w, http://cdn.cactusthemes.com/wp-content/uploads/2016/05/vp-sp06-636x358.jpg 636w, http://cdn.cactusthemes.com/wp-content/uploads/2016/05/vp-sp06-800x450.jpg 800w, http://cdn.cactusthemes.com/wp-content/uploads/2016/05/vp-sp06.jpg 1200w" data-sizes="(max-width: 407px) 100vw, 407px" class="lazyload effect-fade" src="http://cdn.cactusthemes.com/wp-content/themes/videopro/images/dflazy.jpg" style="padding-top:56.265356265356%;" alt="vp-sp06"/><div class="ct-icon-video"></div></a><div class="cactus-note ct-time font-size-1"><span>05:05</span></div></div>
+							</div>	<div class="content">
+							<h3 class="cactus-post-title entry-title h6 sub-lineheight">
+									<a href="http://videopro.cactusthemes.com/v2/worlds-greatest-drag-race-2/" target="_self" title="World&#8217;s Greatest Drag Race 2">World&#8217;s Greatest Drag Race 2</a>
+							</h3>
+							<div class="posted-on metadata-font">
+								<a href="http://videopro.cactusthemes.com/v2/uploader/videopro/" target="_self" class="author cactus-info font-size-1"><span>videopro</span></a><div class="liked cactus-info font-size-1">91.69K Likes</div></div>    
+						</div>
+					</div>	
+					</article></div>
+						</div>
+					</div>	
+				</div></div></aside><aside id="text-2" class="dark-div style-2 style-3  widget widget_text"><style>#text-2 .ct-sub-w-title{color:FFFFFF !important; background:FF0000 !important}</style><div class="widget-inner"><h2 class="widget-title h4"><i class="fa fa-envelope"></i> <span>Email Subscribe</span></h2>			<div class="textwidget">Want to be the first to know when new videos available? Subscribe to our weekly email newsletter. No spam!
+<div role="form" class="wpcf7" id="wpcf7-f1388-o1" lang="en-US" dir="ltr">
+<div class="screen-reader-response"></div>
+<form action="/v2/actors-list/#wpcf7-f1388-o1" method="post" class="wpcf7-form" novalidate="novalidate">
+<div style="display: none;">
+<input type="hidden" name="_wpcf7" value="1388" />
+<input type="hidden" name="_wpcf7_version" value="5.0.1" />
+<input type="hidden" name="_wpcf7_locale" value="en_US" />
+<input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f1388-o1" />
+<input type="hidden" name="_wpcf7_container_post" value="0" />
+</div>
+<p><span class="wpcf7-form-control-wrap email-719"><input type="email" name="email-719" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false" placeholder="Your Email" /></span></p>
+<p><input type="submit" value="SUBSCRIBE" class="wpcf7-form-control wpcf7-submit" /></p>
+<div class="wpcf7-response-output wpcf7-display-none"></div></form></div></div>
+		</div></aside><aside id="popular_posts_id-9" class="dark-div style-4  widget widget-popular-post"><style>#popular_posts_id-9 .ct-sub-w-title{color:#FFFFFF !important; background:#FF0000 !important}</style><div class="widget-inner"><h2 class="widget-title h4">Popular Posts</h2><div class="widget-popular-post-content style-2">
+				<div class="cactus-listing-wrap">
+					<div class="cactus-listing-config style-2 style-widget-popular-post">
+						<div class="cactus-sub-wrap"><article class="cactus-post-item hentry">
+					<div class="entry-content">	<div class="picture">
+										<div class="picture-content"><a title="Top 3 Fitness Apps For That Body" target="_self" href="http://videopro.cactusthemes.com/v2/ping-pong-trick-shots-2-dude-perfect/"><img width="407" height="229"  data-src="http://cdn.cactusthemes.com/wp-content/uploads/2016/05/vp-sp04-407x229.jpg" data-srcset="http://cdn.cactusthemes.com/wp-content/uploads/2016/05/vp-sp04-407x229.jpg 407w, http://cdn.cactusthemes.com/wp-content/uploads/2016/05/vp-sp04-300x169.jpg 300w, http://cdn.cactusthemes.com/wp-content/uploads/2016/05/vp-sp04-768x432.jpg 768w, http://cdn.cactusthemes.com/wp-content/uploads/2016/05/vp-sp04-1024x576.jpg 1024w, http://cdn.cactusthemes.com/wp-content/uploads/2016/05/vp-sp04-205x115.jpg 205w, http://cdn.cactusthemes.com/wp-content/uploads/2016/05/vp-sp04-277x156.jpg 277w, http://cdn.cactusthemes.com/wp-content/uploads/2016/05/vp-sp04-320x180.jpg 320w, http://cdn.cactusthemes.com/wp-content/uploads/2016/05/vp-sp04-565x318.jpg 565w, http://cdn.cactusthemes.com/wp-content/uploads/2016/05/vp-sp04-636x358.jpg 636w, http://cdn.cactusthemes.com/wp-content/uploads/2016/05/vp-sp04-800x450.jpg 800w, http://cdn.cactusthemes.com/wp-content/uploads/2016/05/vp-sp04.jpg 1200w" data-sizes="(max-width: 407px) 100vw, 407px" class="lazyload effect-fade" src="http://cdn.cactusthemes.com/wp-content/themes/videopro/images/dflazy.jpg" style="padding-top:56.265356265356%;" alt="vp-sp04"/><div class="ct-icon-video"></div></a><div class="cactus-note ct-time font-size-1"><span>05:05</span></div></div>
+							</div>	<div class="content">
+							<h3 class="cactus-post-title entry-title h6 sub-lineheight">
+									<a href="http://videopro.cactusthemes.com/v2/ping-pong-trick-shots-2-dude-perfect/" target="_self" title="Top 3 Fitness Apps For That Body">Top 3 Fitness Apps For That Body</a>
+							</h3>
+							<div class="posted-on metadata-font">
+								<a href="http://videopro.cactusthemes.com/v2/uploader/videopro/" target="_self" class="author cactus-info font-size-1"><span>videopro</span></a><div class="viewed cactus-info font-size-1">49.99M Views</div></div>    
+						</div>
+					</div>	
+					</article><article class="cactus-post-item hentry">
+					<div class="entry-content">	<div class="picture">
+										<div class="picture-content"><a title="World&#8217;s Greatest Drag Race 2" target="_self" href="http://videopro.cactusthemes.com/v2/worlds-greatest-drag-race-2/"><img width="407" height="229"  data-src="http://cdn.cactusthemes.com/wp-content/uploads/2016/05/vp-sp06-407x229.jpg" data-srcset="http://cdn.cactusthemes.com/wp-content/uploads/2016/05/vp-sp06-407x229.jpg 407w, http://cdn.cactusthemes.com/wp-content/uploads/2016/05/vp-sp06-300x169.jpg 300w, http://cdn.cactusthemes.com/wp-content/uploads/2016/05/vp-sp06-768x432.jpg 768w, http://cdn.cactusthemes.com/wp-content/uploads/2016/05/vp-sp06-1024x576.jpg 1024w, http://cdn.cactusthemes.com/wp-content/uploads/2016/05/vp-sp06-205x115.jpg 205w, http://cdn.cactusthemes.com/wp-content/uploads/2016/05/vp-sp06-277x156.jpg 277w, http://cdn.cactusthemes.com/wp-content/uploads/2016/05/vp-sp06-320x180.jpg 320w, http://cdn.cactusthemes.com/wp-content/uploads/2016/05/vp-sp06-565x318.jpg 565w, http://cdn.cactusthemes.com/wp-content/uploads/2016/05/vp-sp06-636x358.jpg 636w, http://cdn.cactusthemes.com/wp-content/uploads/2016/05/vp-sp06-800x450.jpg 800w, http://cdn.cactusthemes.com/wp-content/uploads/2016/05/vp-sp06.jpg 1200w" data-sizes="(max-width: 407px) 100vw, 407px" class="lazyload effect-fade" src="http://cdn.cactusthemes.com/wp-content/themes/videopro/images/dflazy.jpg" style="padding-top:56.265356265356%;" alt="vp-sp06"/><div class="ct-icon-video"></div></a><div class="cactus-note ct-time font-size-1"><span>05:05</span></div></div>
+							</div>	<div class="content">
+							<h3 class="cactus-post-title entry-title h6 sub-lineheight">
+									<a href="http://videopro.cactusthemes.com/v2/worlds-greatest-drag-race-2/" target="_self" title="World&#8217;s Greatest Drag Race 2">World&#8217;s Greatest Drag Race 2</a>
+							</h3>
+							<div class="posted-on metadata-font">
+								<a href="http://videopro.cactusthemes.com/v2/uploader/videopro/" target="_self" class="author cactus-info font-size-1"><span>videopro</span></a><div class="viewed cactus-info font-size-1">29.44M Views</div></div>    
+						</div>
+					</div>	
+					</article><article class="cactus-post-item hentry">
+					<div class="entry-content">	<div class="picture">
+										<div class="picture-content"><a title="Xpogo Edition Dude Perfect" target="_self" href="http://videopro.cactusthemes.com/v2/xpogo-edition-dude-perfect/"><img width="407" height="229"  data-src="http://cdn.cactusthemes.com/wp-content/uploads/2016/05/vp-sp03-407x229.jpg" data-srcset="http://cdn.cactusthemes.com/wp-content/uploads/2016/05/vp-sp03-407x229.jpg 407w, http://cdn.cactusthemes.com/wp-content/uploads/2016/05/vp-sp03-300x169.jpg 300w, http://cdn.cactusthemes.com/wp-content/uploads/2016/05/vp-sp03-768x432.jpg 768w, http://cdn.cactusthemes.com/wp-content/uploads/2016/05/vp-sp03-1024x576.jpg 1024w, http://cdn.cactusthemes.com/wp-content/uploads/2016/05/vp-sp03-205x115.jpg 205w, http://cdn.cactusthemes.com/wp-content/uploads/2016/05/vp-sp03-277x156.jpg 277w, http://cdn.cactusthemes.com/wp-content/uploads/2016/05/vp-sp03-320x180.jpg 320w, http://cdn.cactusthemes.com/wp-content/uploads/2016/05/vp-sp03-565x318.jpg 565w, http://cdn.cactusthemes.com/wp-content/uploads/2016/05/vp-sp03-636x358.jpg 636w, http://cdn.cactusthemes.com/wp-content/uploads/2016/05/vp-sp03-800x450.jpg 800w, http://cdn.cactusthemes.com/wp-content/uploads/2016/05/vp-sp03.jpg 1200w" data-sizes="(max-width: 407px) 100vw, 407px" class="lazyload effect-fade" src="http://cdn.cactusthemes.com/wp-content/themes/videopro/images/dflazy.jpg" style="padding-top:56.265356265356%;" alt="vp-sp03"/><div class="ct-icon-video"></div></a><div class="cactus-note ct-time font-size-1"><span>05:05</span></div></div>
+							</div>	<div class="content">
+							<h3 class="cactus-post-title entry-title h6 sub-lineheight">
+									<a href="http://videopro.cactusthemes.com/v2/xpogo-edition-dude-perfect/" target="_self" title="Xpogo Edition Dude Perfect">Xpogo Edition Dude Perfect</a>
+							</h3>
+							<div class="posted-on metadata-font">
+								<a href="http://videopro.cactusthemes.com/v2/uploader/videopro/" target="_self" class="author cactus-info font-size-1"><span>videopro</span></a><div class="viewed cactus-info font-size-1">22.86M Views</div></div>    
+						</div>
+					</div>	
+					</article></div>
+						</div>
+					</div>	
+				</div></div></aside>  
+    </div>  
+</div>
+<!--Sidebar-->                    
+                </div>
+            </div>
+            
+        </div>                
+        
+        
+    </div><!--body content-->
+
+<div class="main-bottom-sidebar-wrap"><aside id="text-3" class="dark-div   widget body-widget widget_text"><style>#text-3 .ct-sub-w-title{color:FFFFFF !important; background:FF0000 !important}</style><div class="body-widget-inner widget-inner">			<div class="textwidget"><div style="text-align:center;padding:20px">VideoPro is the top WordPress solution for websites with video focus.Separated they live in Bo okmarks grove right at the coast of the semantics a large language ocean which is great. Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur. You will be happy with this WordPerss theme crafted by CactusThemes. VideoPro will provide you with the best solutions for video website.
+<br/><br/>
+		<ul class='nav navbar-nav navbar-right social-listing list-inline social-accounts'>
+						<li class="facebook"><a target='_blank' href="https://www.facebook.com/cactustheme/" title='Facebook'><i class="fa fa-facebook"></i></a></li>
+										<li class="youtube"><a target='_blank' href="https://www.youtube.com/c/CactusThemes" title='YouTube'><i class="fa fa-youtube"></i></a></li>
+										<li class="twitter"><a target='_blank' href="https://twitter.com/cactusthemes" title='Twitter'><i class="fa fa-twitter"></i></a></li>
+																<li class="google-plus"><a target='_blank' href="https://google.com/+CactusThemes" title='Google Plus'><i class="fa fa-google-plus"></i></a></li>
+																			<li class="rss"><a target='_blank' href="https://www.rss.com" title='RSS'><i class="fa fa-rss"></i></a></li>
+										<li class="twitch"><a target='_blank' href="#" title='Twitch'><i class="fa fa-twitch"></i></a></li>
+						        		</ul>
+		
+</div></div>
+		</div></aside></div>            <!--footer-->
+            <footer>
+            	<div class="footer-inner dark-div">
+                	                        <div class="footer-sidebar cactus-sidebar">
+                            <div class="cactus-container padding-20px">                        	
+                                <div class="cactus-row magin-20px">
+                                    <aside id="popular_posts_id-5" class="   col-md-4 widget module widget-col widget-popular-post"><style>#popular_posts_id-5 .ct-sub-w-title{color:FFFFFF !important; background:FF0000 !important}</style><div class="widget-inner"><h2 class="widget-title h4">Billboards</h2><div class="widget-popular-post-content ">
+				<div class="cactus-listing-wrap">
+					<div class="cactus-listing-config style-3 style-widget-popular-post">
+						<div class="cactus-sub-wrap"><article class="cactus-post-item hentry">
+					<div class="entry-content">	<div class="picture">
+										<div class="picture-content"><a title="Top 3 Fitness Apps For That Body" target="_self" href="http://videopro.cactusthemes.com/v2/ping-pong-trick-shots-2-dude-perfect/"><img width="100" height="75"  data-src="http://cdn.cactusthemes.com/wp-content/uploads/2016/05/vp-sp04-100x75.jpg" class="lazyload effect-fade" src="http://cdn.cactusthemes.com/wp-content/themes/videopro/images/dflazy.jpg" style="padding-top:75%;" alt="vp-sp04"/><div class="ct-icon-video small-icon"></div></a><div class="cactus-note ct-time font-size-1"><span>05:05</span></div></div>
+							</div>	<div class="content">
+							<h3 class="cactus-post-title entry-title h6 sub-lineheight">
+									<a href="http://videopro.cactusthemes.com/v2/ping-pong-trick-shots-2-dude-perfect/" target="_self" title="Top 3 Fitness Apps For That Body">Top 3 Fitness Apps For That Body</a>
+							</h3>
+							<div class="posted-on metadata-font">
+								<a href="http://videopro.cactusthemes.com/v2/uploader/videopro/" target="_self" class="author cactus-info font-size-1"><span>videopro</span></a><div class="viewed cactus-info font-size-1">49.99M Views</div></div>    
+						</div>
+					</div>	
+					</article><article class="cactus-post-item hentry">
+					<div class="entry-content">	<div class="picture">
+										<div class="picture-content"><a title="World&#8217;s Greatest Drag Race 2" target="_self" href="http://videopro.cactusthemes.com/v2/worlds-greatest-drag-race-2/"><img width="100" height="75"  data-src="http://cdn.cactusthemes.com/wp-content/uploads/2016/05/vp-sp06-100x75.jpg" class="lazyload effect-fade" src="http://cdn.cactusthemes.com/wp-content/themes/videopro/images/dflazy.jpg" style="padding-top:75%;" alt="vp-sp06"/><div class="ct-icon-video small-icon"></div></a><div class="cactus-note ct-time font-size-1"><span>05:05</span></div></div>
+							</div>	<div class="content">
+							<h3 class="cactus-post-title entry-title h6 sub-lineheight">
+									<a href="http://videopro.cactusthemes.com/v2/worlds-greatest-drag-race-2/" target="_self" title="World&#8217;s Greatest Drag Race 2">World&#8217;s Greatest Drag Race 2</a>
+							</h3>
+							<div class="posted-on metadata-font">
+								<a href="http://videopro.cactusthemes.com/v2/uploader/videopro/" target="_self" class="author cactus-info font-size-1"><span>videopro</span></a><div class="viewed cactus-info font-size-1">29.44M Views</div></div>    
+						</div>
+					</div>	
+					</article><article class="cactus-post-item hentry">
+					<div class="entry-content">	<div class="picture">
+										<div class="picture-content"><a title="Xpogo Edition Dude Perfect" target="_self" href="http://videopro.cactusthemes.com/v2/xpogo-edition-dude-perfect/"><img width="100" height="75"  data-src="http://cdn.cactusthemes.com/wp-content/uploads/2016/05/vp-sp03-100x75.jpg" class="lazyload effect-fade" src="http://cdn.cactusthemes.com/wp-content/themes/videopro/images/dflazy.jpg" style="padding-top:75%;" alt="vp-sp03"/><div class="ct-icon-video small-icon"></div></a><div class="cactus-note ct-time font-size-1"><span>05:05</span></div></div>
+							</div>	<div class="content">
+							<h3 class="cactus-post-title entry-title h6 sub-lineheight">
+									<a href="http://videopro.cactusthemes.com/v2/xpogo-edition-dude-perfect/" target="_self" title="Xpogo Edition Dude Perfect">Xpogo Edition Dude Perfect</a>
+							</h3>
+							<div class="posted-on metadata-font">
+								<a href="http://videopro.cactusthemes.com/v2/uploader/videopro/" target="_self" class="author cactus-info font-size-1"><span>videopro</span></a><div class="viewed cactus-info font-size-1">22.86M Views</div></div>    
+						</div>
+					</div>	
+					</article></div>
+						</div>
+					</div>	
+				</div></div></aside><aside id="categories-6" class="   col-md-2 widget module widget-col widget_categories"><style>#categories-6 .ct-sub-w-title{color:FFFFFF !important; background:FF0000 !important}</style><div class="widget-inner"><h2 class="widget-title h4">Categories</h2>		<ul>
+	<li class="cat-item cat-item-12"><a href="http://videopro.cactusthemes.com/v2/category/game/" >GAME</a> (13)
+</li>
+	<li class="cat-item cat-item-161"><a href="http://videopro.cactusthemes.com/v2/category/kombat/" >KOMBAT</a> (8)
+</li>
+	<li class="cat-item cat-item-8"><a href="http://videopro.cactusthemes.com/v2/category/movie/" >MOVIE</a> (13)
+</li>
+	<li class="cat-item cat-item-6"><a href="http://videopro.cactusthemes.com/v2/category/music/" >MUSIC</a> (14)
+</li>
+	<li class="cat-item cat-item-171"><a href="http://videopro.cactusthemes.com/v2/category/news/" >NEWS</a> (20)
+</li>
+	<li class="cat-item cat-item-2"><a href="http://videopro.cactusthemes.com/v2/category/sport/" >SPORT</a> (10)
+</li>
+	<li class="cat-item cat-item-5"><a href="http://videopro.cactusthemes.com/v2/category/tech/" >TECH</a> (10)
+</li>
+	<li class="cat-item cat-item-11"><a href="http://videopro.cactusthemes.com/v2/category/tv-show/" >TV SHOW</a> (9)
+</li>
+		</ul>
+</div></aside><aside id="nav_menu-2" class="menu-list   col-md-2 widget module widget-col widget_nav_menu"><style>#nav_menu-2 .ct-sub-w-title{color:FFFFFF !important; background:FF0000 !important}</style><div class="widget-inner"><h2 class="widget-title h4">Information</h2><div class="menu-custom-menu-container"><ul id="menu-custom-menu" class="menu"><li id="menu-item-2344" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2344"><a href="#">About VideoPro</a></li>
+<li id="menu-item-2345" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2345"><a href="#">WordPress Theme</a></li>
+<li id="menu-item-2386" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2386"><a href="#">Submit Your Video</a></li>
+<li id="menu-item-2599" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2599"><a href="#">For Advertisers</a></li>
+<li id="menu-item-2347" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2347"><a href="#">Contact Us</a></li>
+<li id="menu-item-3466" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3466"><a href="http://videopro.cactusthemes.com/v2/page-terms/">Page Terms</a></li>
+</ul></div></div></aside><aside id="top-channel-3" class="   col-md-4 widget module widget-col widget_top_channels"><style>#top-channel-3 .ct-sub-w-title{color:FFFFFF !important; background:FF0000 !important}</style><div class="widget-inner"><h2 class="widget-title h4">Popular Channels</h2><div class="widget_top_channel_content">
+            <div class="post-metadata sp-style">
+				<div class="channel-subscribe">
+						<div class="channel-picture">
+							<a href="http://videopro.cactusthemes.com/v2/channel/music-channel/" title="Music Channel">
+								<img src="http://cdn.cactusthemes.com/wp-content/uploads/2016/07/03-Alex-Johnson-50x50.jpg" width="50" height="50" alt="videopro" class="avatar avatar-50 wp-user-avatar wp-user-avatar-50 alignnone photo" />
+							</a>
+						</div>
+					<div class="channel-content">
+						<h4 class="channel-title h6">
+							<a href="http://videopro.cactusthemes.com/v2/channel/music-channel/" title="Music Channel">
+								Music Channel
+							</a><span class="verified" title="Verified"><i class="fas fa-check"></i></span>
+						</h4><div class="posted-on metadata-font">
+                            <span class="cactus-info font-size-1"><span> 8 videos</span></span><div class="cactus-info font-size-1"><i class="fa fa-eye"></i> 6491 views</div>
+                        </div></div>
+				</div>
+				
+				<div class="channel-subscribe">
+						<div class="channel-picture">
+							<a href="http://videopro.cactusthemes.com/v2/channel/tv-channel/" title="TV Channel">
+								<img src="http://cdn.cactusthemes.com/wp-content/uploads/2016/07/03-Alex-Johnson-50x50.jpg" width="50" height="50" alt="videopro" class="avatar avatar-50 wp-user-avatar wp-user-avatar-50 alignnone photo" />
+							</a>
+						</div>
+					<div class="channel-content">
+						<h4 class="channel-title h6">
+							<a href="http://videopro.cactusthemes.com/v2/channel/tv-channel/" title="TV Channel">
+								TV Channel
+							</a>
+						</h4><div class="posted-on metadata-font">
+                            <span class="cactus-info font-size-1"><span> 8 videos</span></span><div class="cactus-info font-size-1"><i class="fa fa-eye"></i> 1569 views</div>
+                        </div></div>
+				</div>
+				
+				<div class="channel-subscribe">
+						<div class="channel-picture">
+							<a href="http://videopro.cactusthemes.com/v2/channel/tech-channel/" title="Tech Channel">
+								<img src="http://cdn.cactusthemes.com/wp-content/uploads/2016/07/03-Alex-Johnson-50x50.jpg" width="50" height="50" alt="videopro" class="avatar avatar-50 wp-user-avatar wp-user-avatar-50 alignnone photo" />
+							</a>
+						</div>
+					<div class="channel-content">
+						<h4 class="channel-title h6">
+							<a href="http://videopro.cactusthemes.com/v2/channel/tech-channel/" title="Tech Channel">
+								Tech Channel
+							</a><span class="verified" title="Verified"><i class="fas fa-check"></i></span>
+						</h4><div class="posted-on metadata-font">
+                            <span class="cactus-info font-size-1"><span> 8 videos</span></span><div class="cactus-info font-size-1"><i class="fa fa-eye"></i> 836 views</div>
+                        </div></div>
+				</div>
+				
+				<div class="channel-subscribe">
+						<div class="channel-picture">
+							<a href="http://videopro.cactusthemes.com/v2/channel/sport-channel/" title="Sport Channel">
+								<img src="http://cdn.cactusthemes.com/wp-content/uploads/2016/07/03-Alex-Johnson-50x50.jpg" width="50" height="50" alt="videopro" class="avatar avatar-50 wp-user-avatar wp-user-avatar-50 alignnone photo" />
+							</a>
+						</div>
+					<div class="channel-content">
+						<h4 class="channel-title h6">
+							<a href="http://videopro.cactusthemes.com/v2/channel/sport-channel/" title="Sport Channel">
+								Sport Channel
+							</a>
+						</h4><div class="posted-on metadata-font">
+                            <span class="cactus-info font-size-1"><span> 8 videos</span></span><div class="cactus-info font-size-1"><i class="fa fa-eye"></i> 678 views</div>
+                        </div></div>
+				</div>
+				
+				<div class="channel-subscribe">
+						<div class="channel-picture">
+							<a href="http://videopro.cactusthemes.com/v2/channel/movies-channel/" title="[Premium] Movie Channel">
+								<img src="http://cdn.cactusthemes.com/wp-content/uploads/2016/07/03-Alex-Johnson-50x50.jpg" width="50" height="50" alt="videopro" class="avatar avatar-50 wp-user-avatar wp-user-avatar-50 alignnone photo" />
+							</a>
+						</div>
+					<div class="channel-content">
+						<h4 class="channel-title h6">
+							<a href="http://videopro.cactusthemes.com/v2/channel/movies-channel/" title="[Premium] Movie Channel">
+								[Premium] Movie Channel
+							</a><span class="verified" title="Verified"><i class="fas fa-check"></i></span>
+						</h4><div class="posted-on metadata-font">
+                            <span class="cactus-info font-size-1"><span> 8 videos</span></span><div class="cactus-info font-size-1"><i class="fa fa-eye"></i> 278 views</div>
+                        </div></div>
+				</div>
+				</div></div></div></aside>                                </div>
+                            </div>
+                        </div>
+                                    </div>
+                
+                <div class="footer-info dark-div">
+                	<div class="cactus-container padding-20px">
+                    	<div class="cactus-row magin-20px">
+                        	<div class="copyright font-1">© 2016 VideoPro Theme by CactusThemes. All rights reserved.</div>
+                            <div class="link font-1">
+                            	<div class="menu-footer-menu-container ">
+                                	<ul id="menu-footer-menu" class="menu">
+                                    	<li id="menu-item-782" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-782"><a href="http://test.cactusthemes.com/videopro-v1">Home</a></li>
+<li id="menu-item-783" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-783"><a href="#">About</a></li>
+<li id="menu-item-784" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-784"><a href="#">Contact Us</a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                 </div>
+            </footer><!--footer-->
+                	</div>
+        
+        			<div class="wall-ads-control wall-ads-left">
+                <a href="https://themeforest.net/item/videopro-video-wordpress-theme/16677956?ref=cactusthemes" title="Buy VideoPro WordPress Theme"><img src="http://cdn.cactusthemes.com/wp-content/uploads/2016/05/banner-2.jpg" alt="Best solution for Video WordPress sites"></a>            </div>
+			        			<div class="wall-ads-control wall-ads-right">
+                <a href="https://themeforest.net/item/videopro-video-wordpress-theme/16677956?ref=cactusthemes" title="Buy VideoPro WordPress Theme"><img src="http://cdn.cactusthemes.com/wp-content/uploads/2016/05/banner-2.jpg" alt="Best solution for Video WordPress sites"></a>            </div>
+			        
+        <!--Menu moblie-->
+        <div class="canvas-ovelay"></div>
+        <div id="off-canvas" class="off-canvas-default dark-div">
+          <div class="off-canvas-inner navigation-font">
+            <div class="close-canvas-menu"> <i class="fa fa-times"></i> CLOSE </div>
+            <nav class="off-menu">
+              <ul>                        	
+				  <li id="menu-item-1589" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children parent menu-item-1589"><a href="#"><i class="fa fa-home"></i> Home</a>
+<ul class="sub-menu">
+	<li id="menu-item-1596" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1596"><a href="http://videopro.cactusthemes.com/v2/home-page-v1/">Home Page V1</a></li>
+	<li id="menu-item-1594" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1594"><a href="http://videopro.cactusthemes.com/v2/home-page-v2/">Home Page V2</a></li>
+	<li id="menu-item-1593" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1593"><a href="http://videopro.cactusthemes.com/v2/home-page-v3/">Home Page V3</a></li>
+	<li id="menu-item-1592" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1592"><a href="http://videopro.cactusthemes.com/v2/home-page-v4/">Home Page V4</a></li>
+	<li id="menu-item-1591" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1591"><a href="http://videopro.cactusthemes.com/v2/home-page-v5/">Home Page V5</a></li>
+	<li id="menu-item-1590" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-1590"><a href="http://videopro.cactusthemes.com/v2/">Home Page V6</a></li>
+	<li id="menu-item-1870" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1870"><a href="http://videopro.cactusthemes.com/v2/home-page-v7/">Home Page V7</a></li>
+	<li id="menu-item-1869" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1869"><a href="http://videopro.cactusthemes.com/v2/home-page-v8/">Home Page V8</a></li>
+	<li id="menu-item-1868" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1868"><a href="http://videopro.cactusthemes.com/v2/home-page-v9/">Home Page V9</a></li>
+	<li id="menu-item-1867" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1867"><a href="http://videopro.cactusthemes.com/v2/home-page-v10/">Home Page V10</a></li>
+	<li id="menu-item-1595" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1595"><a href="http://videopro.cactusthemes.com/v2/homepage-game-version/">Home Page V11</a></li>
+</ul>
+</li>
+<li id="menu-item-773" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor menu-item-has-children parent menu-item-773"><a href="#"><i class="fa fa-bars"></i> Features</a>
+<ul class="sub-menu">
+	<li id="menu-item-2476" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children parent menu-item-2476"><a href="#"><i class="fa fa-database"></i> Shortcodes</a>
+	<ul class="sub-menu">
+		<li id="menu-item-2491" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children parent menu-item-2491"><a href="#">Block</a>
+		<ul class="sub-menu">
+			<li id="menu-item-2505" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2505"><a href="http://videopro.cactusthemes.com/v2/smart-content-box-v1/">Block 1</a></li>
+			<li id="menu-item-2506" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2506"><a href="http://videopro.cactusthemes.com/v2/smart-content-box-v2/">Block 2</a></li>
+			<li id="menu-item-2507" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2507"><a href="http://videopro.cactusthemes.com/v2/smart-content-box-v3/">Block 3</a></li>
+			<li id="menu-item-2508" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2508"><a href="http://videopro.cactusthemes.com/v2/smart-content-box-v4/">Block 4</a></li>
+			<li id="menu-item-2509" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2509"><a href="http://videopro.cactusthemes.com/v2/smart-content-box-v5/">Block 5</a></li>
+			<li id="menu-item-2510" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2510"><a href="http://videopro.cactusthemes.com/v2/smart-content-box-v6/">Block 6</a></li>
+			<li id="menu-item-2500" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2500"><a href="http://videopro.cactusthemes.com/v2/smart-content-box-v7/">Block 7</a></li>
+			<li id="menu-item-2499" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2499"><a href="http://videopro.cactusthemes.com/v2/smart-content-box-v8/">Block 8</a></li>
+			<li id="menu-item-2498" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2498"><a href="http://videopro.cactusthemes.com/v2/smart-content-box-v9/">Block 9</a></li>
+			<li id="menu-item-2497" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2497"><a href="http://videopro.cactusthemes.com/v2/smart-content-box-v10/">Block 10</a></li>
+			<li id="menu-item-2496" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2496"><a href="http://videopro.cactusthemes.com/v2/smart-content-box-v11/">Block 11</a></li>
+			<li id="menu-item-2495" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2495"><a href="http://videopro.cactusthemes.com/v2/smart-content-box-v12/">Block 12</a></li>
+			<li id="menu-item-2494" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2494"><a href="http://videopro.cactusthemes.com/v2/smart-content-box-v13/">Block 13</a></li>
+			<li id="menu-item-2493" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2493"><a href="http://videopro.cactusthemes.com/v2/smart-content-box-v14/">Block 14</a></li>
+			<li id="menu-item-2492" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2492"><a href="http://videopro.cactusthemes.com/v2/smart-content-box-v15/">Block 15</a></li>
+		</ul>
+</li>
+		<li id="menu-item-2514" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-2415 current_page_item menu-item-2514"><a href="http://videopro.cactusthemes.com/v2/actors-list/">Actors List</a></li>
+		<li id="menu-item-2515" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2515"><a href="http://videopro.cactusthemes.com/v2/channel-list-shortcode/">Channel List</a></li>
+		<li id="menu-item-2516" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2516"><a href="http://videopro.cactusthemes.com/v2/series-listing-shortcode/">Series List</a></li>
+		<li id="menu-item-2517" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2517"><a href="http://videopro.cactusthemes.com/v2/elements/">Elements</a></li>
+		<li id="menu-item-2521" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2521"><a href="http://videopro.cactusthemes.com/v2/typography/">Typography</a></li>
+		<li id="menu-item-2657" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2657"><a href="http://videopro.cactusthemes.com/v2/shortcode-compare-table/">Pricing Table</a></li>
+		<li id="menu-item-2522" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2522"><a href="http://videopro.cactusthemes.com/v2/contact-form/">Contact Form</a></li>
+		<li id="menu-item-2518" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2518"><a href="http://videopro.cactusthemes.com/v2/newsletter/">Newsletter</a></li>
+		<li id="menu-item-2519" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2519"><a href="http://videopro.cactusthemes.com/v2/promo-box/">Promo Box</a></li>
+		<li id="menu-item-2523" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-2523"><a href="http://videopro.cactusthemes.com/v2/the-one-thing-that-make-a-match-work/">Photo Caption</a></li>
+		<li id="menu-item-2524" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-2524"><a href="http://videopro.cactusthemes.com/v2/sidekick-animated-short-film-for-children/">Protected Content</a></li>
+	</ul>
+</li>
+	<li id="menu-item-1446" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children parent menu-item-1446"><a href="#"><i class="fa fa-play-circle-o"></i> Video</a>
+	<ul class="sub-menu">
+		<li id="menu-item-2218" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-2218"><a href="http://videopro.cactusthemes.com/v2/youtubes-new-music-app/">FullWidth Style 1</a></li>
+		<li id="menu-item-2219" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-2219"><a href="http://videopro.cactusthemes.com/v2/dope-tech-2-customs/">FullWidth Style 2</a></li>
+		<li id="menu-item-2311" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-2311"><a href="http://videopro.cactusthemes.com/v2/nev-plays-best-of-mrsuicidesheep/">Wide Style 1</a></li>
+		<li id="menu-item-2312" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-2312"><a href="http://videopro.cactusthemes.com/v2/a-traks-short-cuts-money-makin-routine/">Wide Style 2</a></li>
+		<li id="menu-item-2222" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-2222"><a href="http://videopro.cactusthemes.com/v2/worlds-greatest-drag-race-4/">Inbox Style 1</a></li>
+		<li id="menu-item-2223" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-2223"><a href="http://videopro.cactusthemes.com/v2/best-of-red-bull-2012-2014-best-of-extreme-sport-compilation-music-video/">Inbox Style 2</a></li>
+		<li id="menu-item-1531" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-1531"><a href="http://videopro.cactusthemes.com/v2/rupaul-the-realness-official-music-video/">Youtube Video</a></li>
+		<li id="menu-item-1530" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-1530"><a href="http://videopro.cactusthemes.com/v2/20syl-kodama-official-music-video/">Vimeo Video</a></li>
+		<li id="menu-item-1553" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-1553"><a href="http://videopro.cactusthemes.com/v2/hd-jessie-j-ariana-grande-nicki-minaj-bang-bang-amas-2014/">Daily Motion Video</a></li>
+		<li id="menu-item-1587" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-1587"><a href="http://videopro.cactusthemes.com/v2/facebook-video/">Facebook Video</a></li>
+		<li id="menu-item-3018" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-3018"><a href="http://videopro.cactusthemes.com/v2/self-hosted-video/">Self-Hosted Video</a></li>
+		<li id="menu-item-2314" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-2314"><a href="http://videopro.cactusthemes.com/v2/top-10-tank-champions-league-of-legends/">Live Video</a></li>
+	</ul>
+</li>
+	<li id="menu-item-2214" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children parent menu-item-2214"><a href="#">Articles</a>
+	<ul class="sub-menu">
+		<li id="menu-item-2215" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children parent menu-item-2215"><a href="#">Standard Layout</a>
+		<ul class="sub-menu">
+			<li id="menu-item-2224" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-2224"><a href="http://videopro.cactusthemes.com/v2/these-cheap-will-upgrade-your-space/">FullWidth Style 1</a></li>
+			<li id="menu-item-2225" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-2225"><a href="http://videopro.cactusthemes.com/v2/new-zenland-eco-fashion-week-opens-in-style/">FullWidth Style 2</a></li>
+			<li id="menu-item-2226" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-2226"><a href="http://videopro.cactusthemes.com/v2/successful-businessman-in-the-new-era/">Wide Style 1</a></li>
+			<li id="menu-item-2227" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-2227"><a href="http://videopro.cactusthemes.com/v2/day-in-the-life-of-an-internet-commenter/">Wide Style 2</a></li>
+			<li id="menu-item-2228" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-2228"><a href="http://videopro.cactusthemes.com/v2/fewer-auctions-but-still-strongs-home-sale-amount/">Inbox Style 1</a></li>
+			<li id="menu-item-2229" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-2229"><a href="http://videopro.cactusthemes.com/v2/fitness-does-wearable-fitness-gear-work/">Inbox Style 2</a></li>
+			<li id="menu-item-2990" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-2990"><a href="http://videopro.cactusthemes.com/v2/youtubes-new-music-app/">Video With Thumbnail Image Header</a></li>
+		</ul>
+</li>
+		<li id="menu-item-2216" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children parent menu-item-2216"><a href="#">Gallery Layout</a>
+		<ul class="sub-menu">
+			<li id="menu-item-2230" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-2230"><a href="http://videopro.cactusthemes.com/v2/mobile-kiosk-available-at-fitness-center-from-today/">FullWidth Style 1</a></li>
+			<li id="menu-item-2231" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-2231"><a href="http://videopro.cactusthemes.com/v2/it-is-beyound-blogging/">FullWidth Style 2</a></li>
+			<li id="menu-item-2232" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-2232"><a href="http://videopro.cactusthemes.com/v2/all-my-life-by-gentlemans-rule/">Wide Style 1</a></li>
+			<li id="menu-item-2233" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-2233"><a href="http://videopro.cactusthemes.com/v2/will-genetic-cyber-athletes-dominate-sports/">Wide Style 2</a></li>
+			<li id="menu-item-2234" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-2234"><a href="http://videopro.cactusthemes.com/v2/bizzline-a-studio-for-photographers-set-to-open/">Inbox Style 1</a></li>
+			<li id="menu-item-2235" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-2235"><a href="http://videopro.cactusthemes.com/v2/mobile-content-ecosystem-odm-must-evolve-or-disssove/">Inbox Style 2</a></li>
+		</ul>
+</li>
+		<li id="menu-item-2217" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children parent menu-item-2217"><a href="#">Audio Layout</a>
+		<ul class="sub-menu">
+			<li id="menu-item-2236" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-2236"><a href="http://videopro.cactusthemes.com/v2/happy-cover-by-kings-road/">FullWidth Style 1</a></li>
+			<li id="menu-item-2237" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-2237"><a href="http://videopro.cactusthemes.com/v2/swith-between-front-and-rear-camerasfor-videos/">FullWidth Style 2</a></li>
+			<li id="menu-item-2238" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-2238"><a href="http://videopro.cactusthemes.com/v2/some-nights-veritones-a-cappella-cover/">Wide Style 1</a></li>
+			<li id="menu-item-2239" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-2239"><a href="http://videopro.cactusthemes.com/v2/all-my-life-by-gentlemans-rule-2/">Wide Style 2</a></li>
+			<li id="menu-item-2240" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-2240"><a href="http://videopro.cactusthemes.com/v2/crazy-a-capella-by-veritones/">Inbox Style 1</a></li>
+			<li id="menu-item-2241" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-2241"><a href="http://videopro.cactusthemes.com/v2/i-choose-love-performed-by-kings-road/">Inbox Style 2</a></li>
+		</ul>
+</li>
+	</ul>
+</li>
+	<li id="menu-item-1466" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children parent menu-item-1466"><a href="#">Categories</a>
+	<ul class="sub-menu">
+		<li id="menu-item-1695" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1695"><a href="http://videopro.cactusthemes.com/v2/category/game/">Layout 1</a></li>
+		<li id="menu-item-1694" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1694"><a href="http://videopro.cactusthemes.com/v2/category/movie/">Layout 2</a></li>
+		<li id="menu-item-1692" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1692"><a href="http://videopro.cactusthemes.com/v2/category/music/">Layout 3</a></li>
+		<li id="menu-item-1693" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1693"><a href="http://videopro.cactusthemes.com/v2/category/sport/">Width Avatar</a></li>
+		<li id="menu-item-1696" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1696"><a href="http://videopro.cactusthemes.com/v2/category/kombat/">No Avatar</a></li>
+	</ul>
+</li>
+	<li id="menu-item-1697" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children parent menu-item-1697"><a href="#">Video Series</a>
+	<ul class="sub-menu">
+		<li id="menu-item-1702" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1702"><a href="http://videopro.cactusthemes.com/v2/series-list/">Series List</a></li>
+		<li id="menu-item-2830" class="menu-item menu-item-type-taxonomy menu-item-object-video-series menu-item-2830"><a href="http://videopro.cactusthemes.com/v2/video-series/tv-show/">Single Series</a></li>
+		<li id="menu-item-2317" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2317"><a href="http://videopro.cactusthemes.com/v2/cgi-animated-short-film-hd-quantum-jump-short-film-by-hayk-sahakyants/?series=movie">Series Video V1</a></li>
+		<li id="menu-item-2318" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2318"><a href="http://videopro.cactusthemes.com/v2/run-inspirational-running-video-hd/?series=sport">Series Video V2</a></li>
+	</ul>
+</li>
+	<li id="menu-item-2472" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children parent menu-item-2472"><a href="#">Channel</a>
+	<ul class="sub-menu">
+		<li id="menu-item-2477" class="menu-item menu-item-type-post_type menu-item-object-ct_channel menu-item-2477"><a href="http://videopro.cactusthemes.com/v2/channel/music-channel/">Demo Channel</a></li>
+	</ul>
+</li>
+	<li id="menu-item-2473" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children parent menu-item-2473"><a href="#">Playlist</a>
+	<ul class="sub-menu">
+		<li id="menu-item-2478" class="menu-item menu-item-type-post_type menu-item-object-ct_playlist menu-item-2478"><a href="http://videopro.cactusthemes.com/v2/playlist/sport/">Playlist</a></li>
+		<li id="menu-item-2479" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2479"><a href="http://videopro.cactusthemes.com/v2/cgi-animated-short-film-hd-quantum-jump-short-film-by-hayk-sahakyants/?list=794">Playlist View</a></li>
+	</ul>
+</li>
+	<li id="menu-item-2480" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children parent menu-item-2480"><a href="#">Video Rating</a>
+	<ul class="sub-menu">
+		<li id="menu-item-2481" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-2481"><a href="http://videopro.cactusthemes.com/v2/2015-beginner-ish-sportbike-shootout/">Rating Point</a></li>
+		<li id="menu-item-2482" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-2482"><a href="http://videopro.cactusthemes.com/v2/o6-free-your-eyes/">Rating Star</a></li>
+	</ul>
+</li>
+	<li id="menu-item-2484" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children parent menu-item-2484"><a href="#">Actor</a>
+	<ul class="sub-menu">
+		<li id="menu-item-2490" class="menu-item menu-item-type-post_type menu-item-object-ct_actor menu-item-2490"><a href="http://videopro.cactusthemes.com/v2/actor/trinity-green/">Demo Actor</a></li>
+	</ul>
+</li>
+	<li id="menu-item-2834" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-2834"><a href="http://videopro.cactusthemes.com/v2/spooly-worlds-first-magnetic-charging-cables/">Video Ads</a></li>
+	<li id="menu-item-2483" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-2483"><a href="http://videopro.cactusthemes.com/v2/facebook-video/">Multi-link Videos</a></li>
+	<li id="menu-item-2579" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2579"><a href="http://videopro.cactusthemes.com/v2/video-badges/">Video Badges</a></li>
+	<li id="menu-item-2486" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2486"><a href="http://videopro.cactusthemes.com/v2/uploader/videopro/">Author Page</a></li>
+	<li id="menu-item-2487" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-2487"><a href="http://videopro.cactusthemes.com/v2/sidekick-animated-short-film-for-children/">Social Locker</a></li>
+	<li id="menu-item-2735" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2735"><a href="http://videopro.cactusthemes.com/v2/coming-soon/">Coming Soon</a></li>
+	<li id="menu-item-2734" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2734"><a href="http://videopro.cactusthemes.com/v2/maintenance/">Maintenance</a></li>
+	<li id="menu-item-2488" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2488"><a href="http://videopro.cactusthemes.com/v2/?s=music">Search</a></li>
+	<li id="menu-item-2489" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2489"><a href="http://videopro.cactusthemes.com/v2/404">Page Not Found</a></li>
+</ul>
+</li>
+<li id="menu-item-3236" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children parent menu-item-3236"><a href="#"><i class="fa fa-users"></i> Community</a>
+<ul class="sub-menu">
+	<li id="menu-item-3235" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3235"><a href="http://videopro.cactusthemes.com/v2/activity/">Activity</a></li>
+	<li id="menu-item-3233" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3233"><a href="http://videopro.cactusthemes.com/v2/groups/">Groups</a></li>
+	<li id="menu-item-3234" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3234"><a href="http://videopro.cactusthemes.com/v2/members/">Members</a></li>
+</ul>
+</li>
+<li id="menu-item-3279" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children parent menu-item-3279"><a href="#"><i class="fa fa-search-plus"></i> Browse</a>
+<ul class="sub-menu">
+	<li id="menu-item-3479" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3479"><a href="http://videopro.cactusthemes.com/v2/all-members/">All Members</a></li>
+	<li id="menu-item-3278" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3278"><a href="http://videopro.cactusthemes.com/v2/all-channels/">All Channels</a></li>
+	<li id="menu-item-3280" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3280"><a href="http://videopro.cactusthemes.com/v2/all-playlists/">All Playlists</a></li>
+	<li id="menu-item-3281" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3281"><a href="http://videopro.cactusthemes.com/v2/all-actor/">All Actors</a></li>
+	<li id="menu-item-3283" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3283"><a href="http://videopro.cactusthemes.com/v2/all-categories/">All Categories</a></li>
+	<li id="menu-item-3282" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3282"><a href="http://videopro.cactusthemes.com/v2/all-tags/">All Tags</a></li>
+	<li id="menu-item-3459" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3459"><a href="http://videopro.cactusthemes.com/v2/category/community/">User Uploaded Videos</a></li>
+</ul>
+</li>
+<li id="menu-item-3456" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children parent menu-item-3456"><a href="#"><i class="fa fa-dollar"></i> Premium Content</a>
+<ul class="sub-menu">
+	<li id="menu-item-3457" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-3457"><a href="http://videopro.cactusthemes.com/v2/cut-the-rope-magic-mushroom-land-walkthrough-all-levels/">[Premium] Protected Post</a></li>
+	<li id="menu-item-3458" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3458"><a href="http://videopro.cactusthemes.com/v2/category/tv-show/">[Premium] Protected Category</a></li>
+	<li id="menu-item-3465" class="menu-item menu-item-type-post_type menu-item-object-ct_channel menu-item-3465"><a href="http://videopro.cactusthemes.com/v2/channel/movies-channel/">[Premium] Protected Channel</a></li>
+</ul>
+</li>
+<li id="menu-item-3189" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3189"><a href="http://videopro.cactusthemes.com/v2/register-3/"><i class="fa fa-arrow-circle-o-right"></i> Register</a></li>
+                      
+              </ul>
+            </nav>
+          </div>
+        </div>
+        <!--Menu moblie-->
+    </div>
+    
+            <div class="submitModal modal fade" id="videopro_submit_form">         
+          <div class="modal-dialog">        	
+            <div class="modal-content">              
+              <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-hidden="true"><i class="fa fa-times"></i></button>
+                <h4 class="modal-title" id="videopro_frontend_submit_heading">Submit Video</h4>
+              </div>
+              <div class="modal-body" >
+                <aside id="text-20" class="   user-submit"><style>#text-20 .ct-sub-w-title{color:FFFFFF !important; background:FF0000 !important}</style><div class="widget-inner">			<div class="textwidget"><div role="form" class="wpcf7" id="wpcf7-f2182-o2" lang="en-US" dir="ltr">
+<div class="screen-reader-response"></div>
+<form action="/v2/actors-list/#wpcf7-f2182-o2" method="post" class="wpcf7-form" enctype="multipart/form-data" novalidate="novalidate">
+<div style="display: none;">
+<input type="hidden" name="_wpcf7" value="2182" />
+<input type="hidden" name="_wpcf7_version" value="5.0.1" />
+<input type="hidden" name="_wpcf7_locale" value="en_US" />
+<input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f2182-o2" />
+<input type="hidden" name="_wpcf7_container_post" value="0" />
+</div>
+<p>Please fill in all information below to submit video.<br />
+Your Email<span class="wpcf7-form-control-wrap your-email"><input type="email" name="your-email" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false" /></span><br />
+Post Title<span class="wpcf7-form-control-wrap post-title"><input type="text" name="post-title" value="" size="40" class="wpcf7-form-control wpcf7-text" aria-invalid="false" /></span><br />
+Post Description<span class="wpcf7-form-control-wrap post-description"><textarea name="post-description" cols="40" rows="10" class="wpcf7-form-control wpcf7-textarea" aria-invalid="false"></textarea></span><br />
+Video URL<span class="wpcf7-form-control-wrap video-url"><input type="text" name="video-url" value="" size="40" class="wpcf7-form-control wpcf7-text" aria-invalid="false" /></span><br />
+Video File (Limit 30MB, File Type: MP4|FLV)<span class="wpcf7-form-control-wrap video-file"><input type="file" name="video-file" size="40" class="wpcf7-form-control wpcf7-file" accept=".mp4,.flv" aria-invalid="false" /></span><br />
+Video Embed Code<span class="wpcf7-form-control-wrap video-code"><textarea name="video-code" cols="40" rows="10" class="wpcf7-form-control wpcf7-textarea" aria-invalid="false"></textarea></span><br />
+Video Thumbnail <span class="wpcf7-form-control-wrap video-thumbnail"><input type="file" name="video-thumbnail" size="40" class="wpcf7-form-control wpcf7-file" accept=".jpg,.jpeg,.png,.gif,.pdf,.doc,.docx,.ppt,.pptx,.odt,.avi,.ogg,.m4a,.mov,.mp3,.mp4,.mpg,.wav,.wmv" aria-invalid="false" /></span><br />
+Tags <span class="wpcf7-form-control-wrap tag"><input type="text" name="tag" value="" size="40" class="wpcf7-form-control wpcf7-text" aria-invalid="false" /></span> Use comma to separate tags<br />
+Select Categories<br />
+<hr> <span class="wpcf7-form-control-wrap cat"><span class="row wpcf7-form-control wpcf7-checkbox wpcf7-validates-as-required"><label class="col-md-4 wpcf7-list-item"><input type="radio" name="cat[]" value="294" /> COMMUNITY</label></span></span><br />
+Select Channels<br />
+<hr> <span class="wpcf7-form-control-wrap channel"><span class="row wpcf7-form-control wpcf7-checkbox wpcf7-validates-as-required"><label class="col-md-4 wpcf7-list-item"><input type="checkbox" name="channel[]" value="30851" /> wuxiaworld</label><label class="col-md-4 wpcf7-list-item"><input type="checkbox" name="channel[]" value="30850" /> minecraft classic</label><label class="col-md-4 wpcf7-list-item"><input type="checkbox" name="channel[]" value="30844" /> novel online</label><label class="col-md-4 wpcf7-list-item"><input type="checkbox" name="channel[]" value="30843" /> mapquest directions</label><label class="col-md-4 wpcf7-list-item"><input type="checkbox" name="channel[]" value="30832" /> dashali</label><label class="col-md-4 wpcf7-list-item"><input type="checkbox" name="channel[]" value="30662" /> GoAssignmentHelp</label><label class="col-md-4 wpcf7-list-item"><input type="checkbox" name="channel[]" value="30631" /> Fund Accounting</label><label class="col-md-4 wpcf7-list-item"><input type="checkbox" name="channel[]" value="30558" /> Hulu Login &#8211; www.hulu.com/Activate</label><label class="col-md-4 wpcf7-list-item"><input type="checkbox" name="channel[]" value="30557" /> AOL Desktop Gold Download &#8211; AOL Mail</label><label class="col-md-4 wpcf7-list-item"><input type="checkbox" name="channel[]" value="30556" /> Canon.com/ijSetup</label><label class="col-md-4 wpcf7-list-item"><input type="checkbox" name="channel[]" value="30494" /> Garmin.com/express</label><label class="col-md-4 wpcf7-list-item"><input type="checkbox" name="channel[]" value="30493" /> Mywifiext</label><label class="col-md-4 wpcf7-list-item"><input type="checkbox" name="channel[]" value="30492" /> TurboTax Login</label><label class="col-md-4 wpcf7-list-item"><input type="checkbox" name="channel[]" value="30491" /> Rand Mcnally Dock Update</label><label class="col-md-4 wpcf7-list-item"><input type="checkbox" name="channel[]" value="30490" /> Office.com/setup</label><label class="col-md-4 wpcf7-list-item"><input type="checkbox" name="channel[]" value="30489" /> Garmin Express</label><label class="col-md-4 wpcf7-list-item"><input type="checkbox" name="channel[]" value="30488" /> Magellan Gps Update</label><label class="col-md-4 wpcf7-list-item"><input type="checkbox" name="channel[]" value="30455" /> mmPav</label><label class="col-md-4 wpcf7-list-item"><input type="checkbox" name="channel[]" value="29576" /> 4114</label><label class="col-md-4 wpcf7-list-item"><input type="checkbox" name="channel[]" value="29102" /> Taiken</label><label class="col-md-4 wpcf7-list-item"><input type="checkbox" name="channel[]" value="28986" /> printercare25</label><label class="col-md-4 wpcf7-list-item"><input type="checkbox" name="channel[]" value="28963" /> az</label><label class="col-md-4 wpcf7-list-item"><input type="checkbox" name="channel[]" value="28568" /> hamed</label><label class="col-md-4 wpcf7-list-item"><input type="checkbox" name="channel[]" value="28557" /> test</label><label class="col-md-4 wpcf7-list-item"><input type="checkbox" name="channel[]" value="28308" /> 1MYCHANNEL</label><label class="col-md-4 wpcf7-list-item"><input type="checkbox" name="channel[]" value="27642" /> Overdrive Lvls</label><label class="col-md-4 wpcf7-list-item"><input type="checkbox" name="channel[]" value="27630" /> gffffffffff</label><label class="col-md-4 wpcf7-list-item"><input type="checkbox" name="channel[]" value="27421" /> sd</label><label class="col-md-4 wpcf7-list-item"><input type="checkbox" name="channel[]" value="27418" /> test</label><label class="col-md-4 wpcf7-list-item"><input type="checkbox" name="channel[]" value="27406" /> 111</label><label class="col-md-4 wpcf7-list-item"><input type="checkbox" name="channel[]" value="2190" /> TV Channel</label><label class="col-md-4 wpcf7-list-item"><input type="checkbox" name="channel[]" value="2189" /> Tech Channel</label><label class="col-md-4 wpcf7-list-item"><input type="checkbox" name="channel[]" value="2188" /> Music Channel</label><label class="col-md-4 wpcf7-list-item"><input type="checkbox" name="channel[]" value="2186" /> Sport Channel</label></span></span><br />
+Select Playlists<br />
+<hr> <span class="wpcf7-form-control-wrap playlist"><span class="row wpcf7-form-control wpcf7-checkbox wpcf7-validates-as-required"><label class="col-md-4 wpcf7-list-item"><input type="checkbox" name="playlist[]" value="28569" /> hello</label><label class="col-md-4 wpcf7-list-item"><input type="checkbox" name="playlist[]" value="28315" /> myplaylist</label><label class="col-md-4 wpcf7-list-item"><input type="checkbox" name="playlist[]" value="794" /> MOVIE</label><label class="col-md-4 wpcf7-list-item"><input type="checkbox" name="playlist[]" value="793" /> TECH</label><label class="col-md-4 wpcf7-list-item"><input type="checkbox" name="playlist[]" value="792" /> TV SHOW</label><label class="col-md-4 wpcf7-list-item"><input type="checkbox" name="playlist[]" value="791" /> SPORT</label><label class="col-md-4 wpcf7-list-item"><input type="checkbox" name="playlist[]" value="790" /> GAME</label><label class="col-md-4 wpcf7-list-item"><input type="checkbox" name="playlist[]" value="789" /> MUSIC</label></span></span></p>
+<div class="wpcf7-form-control-wrap"><div data-sitekey="6LeZdJ0UAAAAAJJaXwXRCh2uKbJiWE4WSyTzHJdy" data-size="compact" class="wpcf7-form-control g-recaptcha wpcf7-recaptcha"></div>
+<noscript>
+	<div style="width: 302px; height: 422px;">
+		<div style="width: 302px; height: 422px; position: relative;">
+			<div style="width: 302px; height: 422px; position: absolute;">
+				<iframe src="https://www.google.com/recaptcha/api/fallback?k=6LeZdJ0UAAAAAJJaXwXRCh2uKbJiWE4WSyTzHJdy" frameborder="0" scrolling="no" style="width:100%; height:422px; border-style: none;">
+				</iframe>
+			</div>
+			<div style="width: 300px; height: 60px; border-style: none; bottom: 12px; left: 25px; margin: 0px; padding: 0px; right: 25px; background: #f9f9f9; border: 1px solid #c1c1c1; border-radius: 3px;">
+				<textarea id="g-recaptcha-response" name="g-recaptcha-response" class="g-recaptcha-response" style="width: 250px; height: 40px; border: 1px solid #c1c1c1; margin: 10px 25px; padding: 0px; resize: none;">
+				</textarea>
+			</div>
+		</div>
+	</div>
+</noscript>
+</div>
+<p><input type="submit" value="SUBMIT VIDEO" class="wpcf7-form-control wpcf7-submit" /></p>
+<div class="wpcf7-response-output wpcf7-display-none"></div></form></div></div>
+		</div></aside>              </div>
+            </div>
+          </div>
+        </div>
+            <div class="submitModal modal fade" id="submitReport">
+          <div class="modal-dialog">
+            <div class="modal-content">
+              <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-hidden="true"><i class="fas fa-times"></i></button>
+                <h4 class="modal-title h4" id="myModalLabel">Report This</h4>
+              </div>
+              <div class="modal-body">
+					<div role="form" class="wpcf7" id="wpcf7-f2183-o3" lang="en-US" dir="ltr">
+<div class="screen-reader-response"></div>
+<form action="/v2/actors-list/#wpcf7-f2183-o3" method="post" class="wpcf7-form" novalidate="novalidate">
+<div style="display: none;">
+<input type="hidden" name="_wpcf7" value="2183" />
+<input type="hidden" name="_wpcf7_version" value="5.0.1" />
+<input type="hidden" name="_wpcf7_locale" value="en_US" />
+<input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f2183-o3" />
+<input type="hidden" name="_wpcf7_container_post" value="0" />
+</div>
+<p>Please fill in all information bellow to report video.<br />
+<div class="hidden wpcf7-form-control-wrap report_url"><div class="wpcf7-form-control wpcf7-validates-as-required"><input name="report-url" class="hidden wpcf7-form-control wpcf7-text wpcf7-validates-as-required" type="hidden" value="http://videopro.cactusthemes.com/v2/actors-list" /></div></div></p>
+<p>Your Email<br />
+    <span class="wpcf7-form-control-wrap your-email"><input type="email" name="your-email" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false" /></span> </p>
+<p>Please tell us why do you think this video is inappropriate<br />
+    <span class="wpcf7-form-control-wrap your-message"><textarea name="your-message" cols="40" rows="10" class="wpcf7-form-control wpcf7-textarea wpcf7-validates-as-required" aria-required="true" aria-invalid="false"></textarea></span> </p>
+<p>Enter security code<br/><input type="hidden" name="_wpcf7_captcha_challenge_captcha-752" value="1793260678" /><img class="wpcf7-form-control wpcf7-captchac wpcf7-captcha-captcha-752" width="72" height="24" alt="captcha" src="http://videopro.cactusthemes.com/v2/wp-content/uploads/wpcf7_captcha/1793260678.png" /> <span class="wpcf7-form-control-wrap captcha-752"><input type="text" name="captcha-752" value="" size="40" class="wpcf7-form-control wpcf7-captchar" autocomplete="off" aria-invalid="false" /></span></p>
+<p><input type="submit" value="SEND" class="wpcf7-form-control wpcf7-submit" /></p>
+<div class="wpcf7-response-output wpcf7-display-none"></div></form></div>              </div>
+            </div>
+          </div>
+        </div>
+
+            <!-- 
+            Lockers: user tracker for visibility filters
+            OnePress, bizpanda.com
+        -->
+        <script>
+            window.__bp_session_timeout = '900';
+            window.__bp_session_freezing = 0;
+            window.bizpanda||(window.bizpanda={}),window.bizpanda.bp_can_store_localy=function(){return!1},window.bizpanda.bp_ut_get_cookie=function(e){for(var n=e+"=",i=document.cookie.split(";"),o=0;o<i.length;o++){for(var t=i[o];" "==t.charAt(0);)t=t.substring(1);if(0==t.indexOf(n))return decodeURIComponent(t.substring(n.length,t.length))}return!1},window.bizpanda.bp_ut_set_cookie=function(e,n,i){var o=new Date;o.setTime(o.getTime()+24*i*60*60*1e3);var t="expires="+o.toUTCString();document.cookie=e+"="+encodeURIComponent(n)+"; "+t+"; path=/"},window.bizpanda.bp_ut_get_obj=function(e){var n=null;if(!(n=window.bizpanda.bp_can_store_localy()?window.localStorage.getItem("bp_ut_session"):window.bizpanda.bp_ut_get_cookie("bp_ut_session")))return!1;n=(n=n.replace(/\-c\-/g,",")).replace(/\-q\-/g,'"');try{n=JSON.parse(n)}catch(e){return!1}return n.started+1e3*e<(new Date).getTime()&&(n=null),n},window.bizpanda.bp_ut_set_obj=function(e,n){e.started&&window.__bp_session_freezing||(e.started=(new Date).getTime()),(e=JSON.stringify(e))&&(e=(e=e.replace(/\"/g,"-q-")).replace(/\,/g,"-c-")),window.bizpanda.bp_can_store_localy()?window.localStorage.setItem("bp_ut_session",e):window.bizpanda.bp_ut_set_cookie("bp_ut_session",e,5e3)},window.bizpanda.bp_ut_count_pageview=function(){var e=window.bizpanda.bp_ut_get_obj(window.__bp_session_timeout);e||(e={}),e.pageviews||(e.pageviews=0),0===e.pageviews&&(e.referrer=document.referrer,e.landingPage=window.location.href,e.pageviews=0),e.pageviews++,window.bizpanda.bp_ut_set_obj(e)},window.bizpanda.bp_ut_count_locker_pageview=function(){var e=window.bizpanda.bp_ut_get_obj(window.__bp_timeout);e||(e={}),e.lockerPageviews||(e.lockerPageviews=0),e.lockerPageviews++,window.bizpanda.bp_ut_set_obj(e)},window.bizpanda.bp_ut_count_pageview();
+        </script>
+        <!-- / -->
+            <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-52179345-9', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 857696998;
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/857696998/?guid=ON&amp;script=0"/>
+</div>
+</noscript>        <script>(function(d, s, id) {
+		  var js, fjs = d.getElementsByTagName(s)[0];
+		  if (d.getElementById(id)) return;
+		  js = d.createElement(s); js.id = id;
+		  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4";
+		  fjs.parentNode.insertBefore(js, fjs);
+		}(document, 'script', 'facebook-jssdk'));</script>   
+		<script type="text/javascript">
+		
+		  (function() {
+			var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+			po.src = 'https://apis.google.com/js/platform.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+		  })();
+		</script>    
+        <script type="text/javascript">
+var recaptchaWidgets = [];
+var recaptchaCallback = function() {
+	var forms = document.getElementsByTagName( 'form' );
+	var pattern = /(^|\s)g-recaptcha(\s|$)/;
+
+	for ( var i = 0; i < forms.length; i++ ) {
+		var divs = forms[ i ].getElementsByTagName( 'div' );
+
+		for ( var j = 0; j < divs.length; j++ ) {
+			var sitekey = divs[ j ].getAttribute( 'data-sitekey' );
+
+			if ( divs[ j ].className && divs[ j ].className.match( pattern ) && sitekey ) {
+				var params = {
+					'sitekey': sitekey,
+					'type': divs[ j ].getAttribute( 'data-type' ),
+					'size': divs[ j ].getAttribute( 'data-size' ),
+					'theme': divs[ j ].getAttribute( 'data-theme' ),
+					'badge': divs[ j ].getAttribute( 'data-badge' ),
+					'tabindex': divs[ j ].getAttribute( 'data-tabindex' )
+				};
+
+				var callback = divs[ j ].getAttribute( 'data-callback' );
+
+				if ( callback && 'function' == typeof window[ callback ] ) {
+					params[ 'callback' ] = window[ callback ];
+				}
+
+				var expired_callback = divs[ j ].getAttribute( 'data-expired-callback' );
+
+				if ( expired_callback && 'function' == typeof window[ expired_callback ] ) {
+					params[ 'expired-callback' ] = window[ expired_callback ];
+				}
+
+				var widget_id = grecaptcha.render( divs[ j ], params );
+				recaptchaWidgets.push( widget_id );
+				break;
+			}
+		}
+	}
+};
+
+document.addEventListener( 'wpcf7submit', function( event ) {
+	switch ( event.detail.status ) {
+		case 'spam':
+		case 'mail_sent':
+		case 'mail_failed':
+			for ( var i = 0; i < recaptchaWidgets.length; i++ ) {
+				grecaptcha.reset( recaptchaWidgets[ i ] );
+			}
+	}
+}, false );
+</script>
+    <div id="sitewide" class="">
+        <p>All purchases are sandbox mode. Use this account: <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="d7a1beb3b2b8a7a5b8e597b4b6b4a3a2a4a3bfb2bab2a4f9b4b8ba">[email&#160;protected]</a>/12345678 to make payment in Paypal Sandbox Mode.</p>
+        <p>All data will be reset every 48 hours</p>
+    </div>
+    <a id="sitewide-toggle" class="" href="#"><i class="fa fa-lightbulb-o"></i></a>
+    <link rel='stylesheet' id='asf-suggestion-css-css'  href='http://cdn.cactusthemes.com/wp-content/plugins/advance-search-form/suggestion.css' type='text/css' media='all' />
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type='text/javascript' src='http://cdn.cactusthemes.com/wp-includes/js/comment-reply.min.js'></script>
+<script type='text/javascript' src='http://cdn.cactusthemes.com/wp-content/plugins/cactus-ads/js/screenfull.js'></script>
+<script type='text/javascript' src='http://cdn.cactusthemes.com/wp-content/plugins/cactus-ads/js/video-ads-management.js'></script>
+<script type='text/javascript' src='http://cdn.cactusthemes.com/wp-content/plugins/cactus-landingpage/js/countdown/jquery.plugin.min.js'></script>
+<script type='text/javascript' src='http://cdn.cactusthemes.com/wp-content/plugins/cactus-landingpage/js/countdown/jquery.countdown.js'></script>
+<script type='text/javascript' src='http://cdn.cactusthemes.com/wp-content/plugins/cactus-landingpage/js/main.js'></script>
+<script type='text/javascript' src='http://cdn.cactusthemes.com/wp-content/plugins/cactus-rating/js/main.js'></script>
+<script type='text/javascript' src='http://cdn.cactusthemes.com/wp-content/plugins/cactus-rating/js/wow.min.js'></script>
+<script type='text/javascript' src='http://cdn.cactusthemes.com/wp-content/plugins/cactus-rating/js/jquery.raty-fa.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"http:\/\/videopro.cactusthemes.com\/v2\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"},"recaptcha":{"messages":{"empty":"Please verify that you are not a robot."}}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://cdn.cactusthemes.com/wp-content/plugins/contact-form-7/includes/js/scripts.js'></script>
+<script type='text/javascript' src='http://cdn.cactusthemes.com/wp-content/themes/videopro-child-demo/videopro-child.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var mashmenu = {"ajax_url":"http:\/\/videopro.cactusthemes.com\/v2\/wp-admin\/admin-ajax.php","ajax_loader":"on","ajax_enabled":"0"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://cdn.cactusthemes.com/wp-content/themes/videopro/inc/megamenu/js/mashmenu.js'></script>
+<script type='text/javascript' src='http://cdn.cactusthemes.com/wp-content/themes/videopro/js/smoothscroll.js'></script>
+<script type='text/javascript' src='http://cdn.cactusthemes.com/wp-content/themes/videopro/js/bootstrap-lib.js'></script>
+<script type='text/javascript' src='http://cdn.cactusthemes.com/wp-content/themes/videopro/js/slick.min.js'></script>
+<script type='text/javascript' src='http://cdn.cactusthemes.com/wp-content/themes/videopro/js/jquery.mCustomScrollbar.concat.min.js'></script>
+<script type='text/javascript' src='http://cdn.cactusthemes.com/wp-content/themes/videopro/js/js.cookie.js'></script>
+<script type='text/javascript' src='http://cdn.cactusthemes.com/wp-content/themes/videopro/js/isotope.js'></script>
+<script type='text/javascript' src='http://cdn.cactusthemes.com/wp-content/themes/videopro/js/template.js'></script>
+<script type='text/javascript'>
+
+		if (jQuery(".notification-bell")[0]){
+			(function($){
+				var notificationBoard = function () {
+					$(".notification-bell").toggleClass("arrow");
+					$(".notification-board").toggle();
+				}
+				$(".notification-bell").click(function() {
+					var left = $(".notification-bell").offset().left;
+					var top = $(".notification-bell").offset().top;
+					$(".notification-board").css("top", top + 35);
+					$(".notification-board").css("left", left - 311);
+					notificationBoard();
+				})
+				$(document).click(function(e) {
+					if (!$(".notification-bell").is(e.target) && $(".notification-bell").has(e.target).length === 0 && !$(".notification-board").is(e.target) && $(".notification-board").has(e.target).length === 0 && $(".notification-board").css("display") === "block") {
+						notificationBoard();
+				   }
+				   })
+				$(window).scroll(function() {
+					if($(".notification-board").css("display") === "block") {
+						notificationBoard();
+					}
+				})
+				$(window).resize(function() {
+					var bellLeft = $(".notification-bell").offset().left;
+					var bellTop = $(".notification-bell").offset().top;
+					var boardLeft = $(".notification-board").offset().left;
+						$(".notification-board").css("top", bellTop + 35);
+						$(".notification-board").css("left", bellLeft - 311);
+				})
+			}(jQuery)) }
+</script>
+<script type='text/javascript' src='http://cdn.cactusthemes.com/wp-content/plugins/cactus-actor/js/custom.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var cactusvideo = {"ajaxurl":"http:\/\/videopro.cactusthemes.com\/v2\/wp-admin\/admin-ajax.php","lang":{"confirm_delete_video":"You are about to delete a video. Are you sure?","confirm_delete_playlist":"You are about to delete a playlist. Are you sure?","confirm_delete_channel":"You are about to delete a channel. Are you sure?","please_choose_category":"Please choose a category","please_choose_channel":"Please choose a channel","please_choose_playlist":"Please choose a playlist"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://cdn.cactusthemes.com/wp-content/plugins/cactus-video/js/custom.js'></script>
+<script type='text/javascript' src='http://cdn.cactusthemes.com/wp-content/plugins/cactus-video/js/lightbox/lightbox.js'></script>
+<script type='text/javascript' src='http://cdn.cactusthemes.com/wp-content/plugins/cactus-video/js/lazysizes.min.js'></script>
+<script type='text/javascript' src='http://cdn.cactusthemes.com/wp-content/plugins/cactus-buy-button/js/cactus-buy-button.js'></script>
+<script type='text/javascript' src='http://cdn.cactusthemes.com/wp-content/plugins/cactus-buy-button/js/cactus-demo.js'></script>
+<script type='text/javascript' src='http://cdn.cactusthemes.com/wp-content/plugins/videopro-shortcodes/shortcodes/js/priority-nav/priority-nav.min.js'></script>
+<script type='text/javascript' src='http://cdn.cactusthemes.com/wp-content/plugins/videopro-shortcodes/shortcodes/js/shortcode.js'></script>
+<script type='text/javascript' src='http://cdn.cactusthemes.com/wp-content/plugins/videopro-shortcodes/shortcodes/library/touchswipe/jquery.touchSwipe.min.js'></script>
+<script type='text/javascript' src='http://cdn.cactusthemes.com/wp-includes/js/wp-embed.min.js'></script>
+<script type='text/javascript' src='http://cdn.cactusthemes.com/wp-content/plugins/js_composer/assets/js/dist/js_composer_front.min.js'></script>
+<script type='text/javascript' src='https://www.google.com/recaptcha/api.js?onload=recaptchaCallback&#038;render=explicit'></script>
+    <svg xmlns="http://www.w3.org/2000/svg" style="display: none;">
+      <symbol id="ct-icon-star-two" viewBox="0 0 512 512">
+        <path d="m494 185c0 4-3 9-8 14l-103 101l24 143c0 1 0 3 0 5c0 4-1 8-3 10c-2 3-4 5-8 5c-4 0-8-2-12-4l-128-67l-128 67c-4 2-8 4-12 4c-4 0-7-2-9-5c-2-2-3-6-3-10c0-1 0-3 1-5l24-143l-104-101c-4-6-7-10-7-14c0-7 6-12 16-13l144-21l64-130c4-8 8-12 14-12c6 0 10 4 14 12l64 130l144 21c10 1 16 6 16 13z"/>
+      </symbol>
+    </svg>
+
+    <div class="cactus-widget-demo">
+      <!--btn open-->
+      <div class="cactus-button-open">
+        <svg class="ct-icon-star-two">
+          <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#ct-icon-star-two"></use>
+        </svg>
+        <span>DEMOS</span>
+      </div>
+      <!--btn open-->
+
+      <div class="cactus-buy-button">
+        <a href="https://themeforest.net/item/videopro-video-wordpress-theme/16677956?ref=cactusthemes" target="_blank" class="cactus-btn-buy">Buy Now</a>
+      </div>
+
+      <div class="cactus-content-scroll">
+		<p class="desc">VideoPro has more features than you can imagine. In addition, it is highly customizabe and extensible</p>
+
+        <div class="cactus-content-body">
+
+          <div class="cactus-group-demo">
+            
+            <div class="cactus-group-content">
+
+              <div class="cactus-item">
+                <a href="http://videopro.cactusthemes.com/v1/" target="_blank" class="cactus-item-content" title="Default Demo">
+                  <img src="http://cdn.cactusthemes.com/wp-content/plugins/cactus-buy-button/img/entertainment.jpg" alt="Default Demo">
+
+                  <div>V1 - Default</div>
+                </a>
+              </div>
+              <div class="cactus-item">
+                <a href="http://videopro.cactusthemes.com/v2/" target="_blank" class="cactus-item-content" title="VideoPro Membership & Community Features">
+                  <img style="margin:15px 0 20px 0" src="http://cdn.cactusthemes.com/wp-content/plugins/cactus-buy-button/img/videopro-v2.jpg" alt="VideoPro Membership & Community Features">
+
+                  <div>V2 - Membership</div>
+                </a>
+              </div>
+              <div class="cactus-item">
+                <a href="http://videopro.cactusthemes.com/poster" target="_blank" class="cactus-item-content" title="Poster Movie Site">
+                  <img src="http://cdn.cactusthemes.com/wp-content/plugins/cactus-buy-button/img/poster.jpg" alt="Poster Movie Site">
+
+                  <div>Poster Movie</div>
+                </a>
+              </div>
+              <div class="cactus-item">
+                <a href="http://videopro.cactusthemes.com/cooking" target="_blank" class="cactus-item-content" title="Cooking Demo">
+                  <img src="http://cdn.cactusthemes.com/wp-content/plugins/cactus-buy-button/img/cooking.jpg" alt="Cooking Demo">
+
+                  <div>Cooking</div>
+                </a>
+              </div>
+            </div>
+          </div>
+
+        </div>
+		<p class="desc">Have a pre-sale question? <a href="https://themeforest.net/user/cactusthemes" target="_blank">Inbox us</a> now</p>
+      </div>
+    </div>
+         
+</body>
+</html>

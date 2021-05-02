@@ -1,0 +1,5 @@
+_*
+!__tests__
+lib
+node_modules
+flow-typed/npm

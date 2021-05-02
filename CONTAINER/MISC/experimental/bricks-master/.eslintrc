@@ -1,0 +1,6 @@
+{
+  "extends": "strateg",
+  "rules": {
+    "global-require": 0
+  }
+}

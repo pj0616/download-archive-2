@@ -1,0 +1,67 @@
+--2021-02-15 13:32:28--  https://playground.tensorflow.org/
+Resolving playground.tensorflow.org (playground.tensorflow.org)... 185.199.109.153, 185.199.110.153, 185.199.111.153, ...
+Connecting to playground.tensorflow.org (playground.tensorflow.org)|185.199.109.153|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 20490 (20K) [text/html]
+Saving to: ‘playground.tensorflow.org/index.html’
+
+        playgrou   0%[           ]       0  --.-KB/s                      playgroun  20%[=>         ]   4.04K  20.0KB/s                     playground  40%[===>       ]   8.07K  20.0KB/s                    playground.  67%[======>    ]  13.46K  19.8KB/s                   playground.t  94%[=========> ]  18.84K  20.0KB/s               playground.tenso 100%[==========>]  20.01K  21.2KB/s    in 0.9s    
+
+2021-02-15 13:32:29 (21.2 KB/s) - ‘playground.tensorflow.org/index.html’ saved [20490/20490]
+
+--2021-02-15 13:32:31--  https://playground.tensorflow.org/favicon.png
+Reusing existing connection to playground.tensorflow.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 20333 (20K) [image/png]
+Saving to: ‘playground.tensorflow.org/favicon.png’
+
+        playgrou   0%[           ]       0  --.-KB/s                      playgroun  20%[=>         ]   4.04K  19.9KB/s                     playground  47%[====>      ]   9.42K  20.0KB/s                    playground.  74%[=======>   ]  14.80K  20.0KB/s                   playground.t  94%[=========> ]  18.84K  20.0KB/s               playground.tenso 100%[==========>]  19.86K  21.0KB/s    in 0.9s    
+
+2021-02-15 13:32:32 (21.0 KB/s) - ‘playground.tensorflow.org/favicon.png’ saved [20333/20333]
+
+--2021-02-15 13:32:34--  https://playground.tensorflow.org/bundle.css
+Reusing existing connection to playground.tensorflow.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 156081 (152K) [text/css]
+Saving to: ‘playground.tensorflow.org/bundle.css’
+
+        playgrou   0%[           ]       0  --.-KB/s                      playgroun   2%[           ]   4.04K  20.0KB/s                     playground   5%[           ]   8.07K  20.0KB/s                    playground.   7%[           ]  12.11K  20.0KB/s                   playground.t  11%[>          ]  17.49K  20.0KB/s                  playground.te  15%[>          ]  22.88K  20.0KB/s                 playground.ten  18%[=>         ]  28.26K  20.0KB/s                playground.tens  22%[=>         ]  33.64K  20.0KB/s               playground.tenso  25%[=>         ]  39.03K  20.0KB/s               layground.tensor  29%[==>        ]  44.41K  20.0KB/s               ayground.tensorf  32%[==>        ]  49.79K  20.0KB/s               yground.tensorfl  36%[==>        ]  55.17K  20.0KB/s               ground.tensorflo  39%[===>       ]  60.56K  20.0KB/s    eta 5s     round.tensorflow  43%[===>       ]  65.94K  20.0KB/s    eta 5s     ound.tensorflow.  45%[====>      ]  69.98K  20.0KB/s    eta 5s     und.tensorflow.o  48%[====>      ]  74.01K  20.0KB/s    eta 5s     nd.tensorflow.or  51%[====>      ]  78.05K  20.0KB/s    eta 5s     d.tensorflow.org  54%[=====>     ]  83.43K  20.0KB/s    eta 3s     .tensorflow.org/  57%[=====>     ]  87.47K  20.0KB/s    eta 3s     tensorflow.org/b  60%[=====>     ]  92.85K  20.0KB/s    eta 3s     ensorflow.org/bu  64%[======>    ]  98.24K  20.0KB/s    eta 3s     nsorflow.org/bun  67%[======>    ] 103.62K  20.0KB/s    eta 2s     sorflow.org/bund  71%[======>    ] 109.00K  20.0KB/s    eta 2s     orflow.org/bundl  75%[=======>   ] 114.38K  20.0KB/s    eta 2s     rflow.org/bundle  77%[=======>   ] 118.42K  20.0KB/s    eta 2s     flow.org/bundle.  81%[=======>   ] 123.80K  20.0KB/s    eta 1s     low.org/bundle.c  84%[========>  ] 129.19K  20.0KB/s    eta 1s     ow.org/bundle.cs  87%[========>  ] 133.22K  20.0KB/s    eta 1s     w.org/bundle.css  90%[=========> ] 138.61K  20.0KB/s    eta 1s     .org/bundle.css   94%[=========> ] 143.99K  20.0KB/s    eta 0s     org/bundle.css    97%[=========> ] 148.03K  20.0KB/s    eta 0s     rg/bundle.css    100%[==========>] 152.42K  20.0KB/s    eta 0s     playground.tenso 100%[==========>] 152.42K  20.0KB/s    in 7.6s    
+
+2021-02-15 13:32:42 (20.0 KB/s) - ‘playground.tensorflow.org/bundle.css’ saved [156081/156081]
+
+--2021-02-15 13:32:44--  https://playground.tensorflow.org/lib.js
+Reusing existing connection to playground.tensorflow.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 215837 (211K) [application/javascript]
+Saving to: ‘playground.tensorflow.org/lib.js’
+
+        playgrou   0%[           ]       0  --.-KB/s                      playgroun   1%[           ]   4.04K  20.0KB/s                     playground   4%[           ]   9.42K  20.0KB/s                    playground.   6%[           ]  13.46K  20.0KB/s                   playground.t   8%[           ]  18.84K  20.0KB/s                  playground.te  10%[>          ]  22.88K  20.0KB/s                 playground.ten  12%[>          ]  26.91K  20.0KB/s                playground.tens  15%[>          ]  32.30K  20.0KB/s               playground.tenso  17%[>          ]  37.68K  20.0KB/s               layground.tensor  20%[=>         ]  43.06K  20.0KB/s               ayground.tensorf  22%[=>         ]  48.45K  20.0KB/s               yground.tensorfl  25%[=>         ]  53.83K  20.0KB/s               ground.tensorflo  27%[==>        ]  57.87K  20.0KB/s               round.tensorflow  30%[==>        ]  63.25K  20.0KB/s    eta 7s     ound.tensorflow.  32%[==>        ]  68.63K  20.0KB/s    eta 7s     und.tensorflow.o  35%[==>        ]  74.01K  20.0KB/s    eta 7s     nd.tensorflow.or  37%[===>       ]  78.05K  20.0KB/s    eta 7s     d.tensorflow.org  38%[===>       ]  82.09K  20.0KB/s    eta 7s     .tensorflow.org/  40%[===>       ]  86.12K  20.0KB/s    eta 6s     tensorflow.org/l  43%[===>       ]  91.51K  20.0KB/s    eta 6s     ensorflow.org/li  45%[===>       ]  95.54K  20.0KB/s    eta 6s     nsorflow.org/lib  47%[====>      ]  99.58K  20.0KB/s    eta 6s     sorflow.org/lib.  49%[====>      ] 103.62K  20.0KB/s    eta 6s     orflow.org/lib.j  51%[====>      ] 107.66K  20.0KB/s    eta 5s     rflow.org/lib.js  52%[====>      ] 111.69K  20.0KB/s    eta 5s     flow.org/lib.js   55%[=====>     ] 117.08K  20.0KB/s    eta 5s     low.org/lib.js    58%[=====>     ] 122.46K  20.0KB/s    eta 5s     ow.org/lib.js     60%[=====>     ] 126.50K  20.0KB/s    eta 5s     w.org/lib.js      61%[=====>     ] 130.53K  20.0KB/s    eta 4s     .org/lib.js       63%[======>    ] 134.57K  20.0KB/s    eta 4s     org/lib.js        65%[======>    ] 138.61K  20.0KB/s    eta 4s     rg/lib.js         67%[======>    ] 142.64K  20.0KB/s    eta 4s     g/lib.js          69%[======>    ] 146.68K  20.0KB/s    eta 4s     /lib.js           71%[======>    ] 150.72K  20.0KB/s    eta 3s     lib.js            74%[=======>   ] 156.10K  20.0KB/s    eta 3s     ib.js             75%[=======>   ] 160.14K  20.0KB/s    eta 3s     b.js              77%[=======>   ] 164.18K  20.0KB/s    eta 3s     .js               79%[=======>   ] 168.21K  20.0KB/s    eta 3s     js                81%[=======>   ] 172.25K  20.0KB/s    eta 2s     s                 83%[========>  ] 176.29K  20.0KB/s    eta 2s                       85%[========>  ] 180.32K  20.0KB/s    eta 2s                    p  87%[========>  ] 184.36K  20.0KB/s    eta 2s                   pl  89%[========>  ] 188.40K  20.0KB/s    eta 2s                  pla  91%[=========> ] 192.44K  20.0KB/s    eta 1s                 play  93%[=========> ] 196.47K  20.0KB/s    eta 1s                playg  95%[=========> ] 200.51K  20.0KB/s    eta 1s               playgr  97%[=========> ] 204.55K  20.0KB/s    eta 1s              playgro  98%[=========> ] 208.58K  20.0KB/s    eta 1s     playground.tenso 100%[==========>] 210.78K  20.5KB/s    in 10s     
+
+2021-02-15 13:32:55 (20.2 KB/s) - ‘playground.tensorflow.org/lib.js’ saved [215837/215837]
+
+--2021-02-15 13:32:57--  https://playground.tensorflow.org/bundle.js
+Reusing existing connection to playground.tensorflow.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 43649 (43K) [application/javascript]
+Saving to: ‘playground.tensorflow.org/bundle.js’
+
+        playgrou   0%[           ]       0  --.-KB/s                      playgroun  18%[=>         ]   8.00K  20.0KB/s                     playground  37%[===>       ]  16.00K  20.0KB/s                    playground.  56%[=====>     ]  24.00K  20.0KB/s                   playground.t  75%[=======>   ]  32.00K  20.0KB/s                  playground.te  93%[=========> ]  40.00K  20.0KB/s               playground.tenso 100%[==========>]  42.63K  21.3KB/s    in 2.0s    
+
+2021-02-15 13:32:59 (21.3 KB/s) - ‘playground.tensorflow.org/bundle.js’ saved [43649/43649]
+
+--2021-02-15 13:33:01--  https://playground.tensorflow.org/analytics.js
+Reusing existing connection to playground.tensorflow.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 391 [application/javascript]
+Saving to: ‘playground.tensorflow.org/analytics.js’
+
+        playgrou   0%[           ]       0  --.-KB/s               playground.tenso 100%[==========>]     391  --.-KB/s    in 0s      
+
+2021-02-15 13:33:01 (16.6 MB/s) - ‘playground.tensorflow.org/analytics.js’ saved [391/391]
+
+FINISHED --2021-02-15 13:33:01--
+Total wall clock time: 32s
+Downloaded: 6 files, 446K in 22s (20.3 KB/s)
+Converting links in playground.tensorflow.org/index.html... 7-0
+Converting links in playground.tensorflow.org/bundle.css... nothing to do.
+Converted links in 2 files in 0.03 seconds.

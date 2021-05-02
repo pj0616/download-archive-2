@@ -1,0 +1,480 @@
+/************************************************************/
+/* Custom Styles 
+/************************************************************/
+  
+    body 
+{   font-family: 'Ubuntu', sans-serif;
+    color: #fff;
+    text-transform: uppercase; }
+
+    a, a:hover, a:active, a:visited
+{   color: #fff;
+    border: none;
+    outline: none;
+    text-decoration: none; }
+
+    h1 
+{   text-transform: uppercase;
+    letter-spacing: -10px;
+    font-size: 60px;
+    line-height: 100%;
+    font-weight: bold;
+    color: #fff; }
+  
+    h3 
+{   font-size: 26px;
+    text-transform: uppercase; }
+
+
+/************************************************************/
+/* Global 
+/************************************************************/
+
+    #logo 
+{   position: absolute; 
+    z-index: 990;
+    bottom: 50px;
+    right: 50px; }
+
+        #logo img:nth-of-type(1)
+    {   opacity: 10;
+        width: 75px; }   
+
+    pre.prettyprint
+{   line-height: 34px; 
+    font-size: 30px;
+    background: #fff;
+    border-radius: 0;
+    border: none;
+    padding: 20px; }
+  
+    .presentation 
+{   background-image: url('');
+    background-color: #3ed5b3; }
+
+    .presentation .slide 
+{   background-color: #2992c3;
+    background-size: cover;
+    opacity: 0; }
+
+    .presentation .slide.full.grid 
+{   background: url(''); }
+
+    .presentation .slide.current 
+{   opacity: 1; }
+
+    #presentation-counter
+{   display: none; }
+
+    .slide 
+{   padding: 5%; }
+
+/************************************************************/
+/* Landing 
+/************************************************************/
+
+    #landing-slide
+{   color: #fff; }
+
+    #landing-slide h1 
+{   font-size: 100px;
+    font-weight: 600;
+    line-height: 90px;
+    letter-spacing: -6px; }
+
+    #landing-slide h2 
+{   font-size: 18px;
+    font-weight: 700;
+    color: rgba(0,0,0,0.3); }
+
+/************************************************************/
+/* Free Slide
+/************************************************************/
+    
+    #free
+{   background: url(http://distilleryimage7.s3.amazonaws.com/8891d68a3fca11e29c1122000a9f1283_7.jpg) no-repeat;
+    background-size: cover; }
+
+/************************************************************/
+/* List
+/************************************************************/
+    
+    #list 
+{   }
+
+
+/************************************************************/
+/* Spoons
+/************************************************************/
+    
+    #spoons 
+{   }
+
+    #spoons img 
+{   display: block;
+    margin: 7% auto 0; }
+
+/************************************************************/
+/* Cuneiform
+/************************************************************/
+    
+    #cuneiform
+{   background: url(cuneiform.jpg);
+    background-position: center center;
+    background-size: contain; }
+    
+    #cuneiform img
+{   max-width: 300px;
+    -webkit-box-shadow: 0 0 10px rgba(0,0,0,0.5); }
+
+    #cuneiform img:nth-of-type(5)
+{   width: 600px;
+    max-width: 100%;
+    position: absolute;
+    top: 25%;
+    left: 20%;
+    -webkit-box-shadow: 0 0 15px rgba(0,0,0,0.6); }
+
+    #cuneiform img:nth-of-type(6)
+{   width: auto;
+    max-width: 100%;
+    position: absolute;
+    top: 32%;
+    left: 26%;
+    -webkit-box-shadow: 0 0 20px rgba(0,0,0,0.8); }
+
+/************************************************************/
+/* New
+/************************************************************/
+
+    #new
+{   }
+
+    #new img 
+{   display: block;
+    margin: 0 auto;
+    max-width: 80%; }
+
+/************************************************************/
+/* Responsibility
+/************************************************************/
+
+    #responsible
+{   }
+
+    #responsible img 
+{   display: block;
+    margin: 0 auto;
+    max-width: 80%; }
+
+/************************************************************/
+/* Polar
+/************************************************************/
+
+    #polar
+{   }
+
+    #polar img 
+{   display: block;
+    margin: 0 auto;
+    max-width: 80%; }
+
+/************************************************************/
+/* Typical
+/************************************************************/
+
+    #typical
+{   }
+
+    #typical div
+{   margin: 0 auto;
+    width: 900px; }
+
+
+/************************************************************/
+/* Paul
+/************************************************************/
+
+    #paul
+{   }
+
+    #paul img
+{   margin: 0 auto;
+    display: block; }
+
+/************************************************************/
+/* Workflow
+/************************************************************/
+
+    #workflow
+{   }
+
+    #workflow img
+{   margin: 0 auto;
+    display: block; }
+
+/************************************************************/
+/* DSS
+/************************************************************/
+
+    #dss-shot
+{   }
+
+    #dss-shot img
+{   margin: 0 auto;
+    display: block;
+    max-width: 80%; }
+
+/************************************************************/
+/* Noob
+/************************************************************/
+
+    #noob
+{   }
+
+    #noob img
+{   margin: 0 auto;
+    display: block; }
+
+
+/************************************************************/
+/* Woah
+/************************************************************/
+    
+    #woah
+{   }
+
+    #woah img
+{   display: block;
+    margin: 4% auto 0; }
+
+/************************************************************/
+/* Examples
+/************************************************************/
+    
+    .slide.example
+{   }
+    
+    .slide.example h2 
+{   font-size: 50px; }
+
+    .slide.example h2 a 
+{   display: block;
+    font-size: 28px;
+    color: rgba(0,0,0,0.3); }
+
+    .slide.example img 
+{   max-width: 600px;
+    display: block;
+    margin: 50px auto 0; }
+
+    .slide.example pre 
+{   font-size: 18px;
+    line-height: 24px;
+    margin: 50px 0 0 0; }
+
+
+
+/************************************************************/
+/* Code
+/************************************************************/
+    
+    #code
+{   }
+
+    #code pre
+{   font-size: 16px;
+    line-height: 20px;
+    padding: 20px;
+    margin: 0 0 20px 0;
+    border: none; } 
+
+/************************************************************/
+/* DSS
+/************************************************************/
+    
+    #dss
+{   }
+
+    #dss img
+{   display: block;
+    margin: 5% auto; }
+
+    .slide.dss 
+{   }
+
+    .slide.dss h2
+{   }
+    
+    .slide.dss ul li ul 
+{   margin-top: 10px;
+    font-size: 22px; }
+
+/************************************************************/
+/* jQuery
+/************************************************************/
+
+    #dss-jquery
+{   }
+
+    #dss-jquery h1 
+{   }
+
+    #dss-jquery h1 a 
+{   display: block;
+    font-size: 42px;
+    line-height: 52px;
+    color: rgba(0,0,0,0.5); }
+
+/************************************************************/
+/* Thanks
+/************************************************************/
+
+    #thanks h1 
+{   font-size: 80px;
+    text-align: center;
+    letter-spacing: -5px; }
+
+    #thanks a 
+{   color: rgba(0,0,0,0.3);
+    font-weight: 700;
+    font-size: 24px; }
+
+/************************************************************/
+/* Classes 
+/************************************************************/
+    
+    .slide .editable-style 
+{   padding: 30px;
+    margin: 0 0 20px 0;
+    background: #fff;
+    clear: both; 
+    display: block;
+    font-size: 32px;
+    color: #333;
+    text-shadow: none; }
+
+    .slide .prettyprint 
+{   text-shadow: none;
+    padding: 20px; }
+
+    .slide .border 
+{   border: 10px solid #fff;
+    box-shadow: 0 0 15px rgba(0,0,0,0.5); }
+
+    .slide .middle 
+{   width: 100%;
+    padding-top: 25%;
+    text-align: center; }
+
+    .slide .middle h1
+{   letter-spacing: -2px; }
+
+    .slide.full-middle .middle 
+{   text-align: left;
+    width: 900px;
+    margin: 5% auto; }
+
+    .slide.full-middle .middle h1 
+{   font-size: 60px;
+    text-align: left; }
+
+    .slide h1 a 
+{   font-size: 14px;
+    letter-spacing: 0;
+    font-weight: normal;
+    display: inline-block;
+    margin-left: 30px; }
+
+    .slide 
+{   overflow: visible !important; }
+
+    .slide .quote
+{   position: relative; 
+    overflow: visible !important; }
+    
+    .slide .quote h1:before
+{   content: '‌“';
+    font-size: 500px; }
+
+    .slide .quote h1:after
+{   content: '”';
+    font-size: 500px; }
+
+    .slide .quote h1 span
+{   font-size: 32px;
+    opacity: 0.6; }
+        
+    .slide 
+{   }
+
+    .slide h2 
+{   clear: both;
+    font-size: 60px; }
+
+    .slide ul 
+{   clear: both;
+    font-size: 40px; 
+    font-weight: 300; }
+
+    .slide.full 
+{   width: 100%;
+    height: 100%;
+    z-index: -1; }
+
+    .slide.full.current 
+{   z-index: 980; }
+
+    .slide .clearBoth 
+{   clear: both; }
+
+    .slide .highlight
+{   background: #fff5bf; }
+
+    .slide a.link,
+    .slide a.link:hover,
+    .slide a.link:active,
+    .slide a.link:visited 
+{   color: #fff;
+    text-decoration: none;
+    outline: none;
+    border: none;
+    text-shadow: 0 2px 2px rgba(0,0,0,0.8); }
+
+    .slide a.link:hover 
+{   opacity: 1; }
+
+    .slide.nobg 
+{   background: none; }
+
+    .slide .quote 
+{   text-align: center;
+    font-size: 42px;
+    line-height: 52px;
+    font-family: Georgia, serif;
+    clear: both; }
+
+    .slide.list ul
+{   clear: both;
+    font-size: 40px; 
+    font-weight: 300;
+    text-shadow: 0 2px 0 rgba(0,0,0,0.5);
+    margin: 0;
+    position: absolute;
+    z-index: 999;
+    top: 24%; }
+
+    .slide.list ul li:before 
+{   content: '. '; }
+
+    .slide.section h1 
+{   font-size: 100px;
+    line-height: 100px; }
+
+    .slide.section p 
+{   clear: both;
+    float: left;
+    margin: 0 0 0 40px;
+    text-shadow: 0 2px 0 rgba(0,0,0,0.5);
+    font-size: 28px; }
+

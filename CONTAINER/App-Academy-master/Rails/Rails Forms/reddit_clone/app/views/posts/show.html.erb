@@ -1,0 +1,21 @@
+<h1><%= @post.title %></h1>
+
+<p>Subs:</p>
+<ul>
+  <% @post.subs.each do |sub| %>
+    <li><%= link_to sub.title, sub_path(sub) %></li>
+  <% end %>
+</ul>
+
+<p>Content: <%= @post.content %></p>
+<p>Submitted by: <%= @post.author.username %></p>
+<p>URL: <%= @post.url %></p>
+
+<p>Comments:</p>
+<ul>
+<% @comments[nil].each do |comment| %>
+  <%= render 'comment', comment: comment %>
+<% end %>
+</ul>
+
+<%= link_to "Add comment", new_post_comment_path(@post) %>
